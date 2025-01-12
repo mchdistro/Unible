@@ -10,7 +10,7 @@
     {
       "id": "Unible-1.16.5",
       "name": "Unible (Minecraft 1.16.5)",
-      "description": "Minecraft 1.16.5 (Forge v36.2.39)",
+      "description": "Unible Running Minecraft 1.16.5 (Forge v36.2.42)",
       "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
       "version": "1.0.0",
       "address": "mc.gotiger.dev:25500",
@@ -24,47 +24,47 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.2.39",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.42",
           "name": "Minecraft Forge (base jar)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 212574,
-            "MD5": "4afee0135f47547182faa2ea88efebac",
-            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39.jar"
+            "size": 212563,
+            "MD5": "8ff0086ade0cf0f1d513e72edd04348c",
+            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42.jar"
           },
           "subModules": [
             {
-              "id": "1.16.5-36.2.39",
+              "id": "1.16.5-36.2.42",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
                 "size": 13577,
-                "MD5": "2090bfafdec72f885ddf95300bd96714",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.16.5-forge-36.2.39/1.16.5-forge-36.2.39.json"
+                "MD5": "f38b527e26e0a0165e2118970d1a4d13",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.16.5-forge-36.2.42/1.16.5-forge-36.2.42.json"
               }
             },
             {
-              "id": "net.minecraftforge:forge:1.16.5-36.2.39:universal",
+              "id": "net.minecraftforge:forge:1.16.5-36.2.42:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 2504067,
-                "MD5": "3337e44edf13c5759548623b5866b967",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-universal.jar"
+                "size": 2540080,
+                "MD5": "d5b89861a4e02bab15a111d529d99d86",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.16.5-36.2.39:client",
+              "id": "net.minecraftforge:forge:1.16.5-36.2.42:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4216473,
-                "MD5": "253bbbe4aa8a7752615ea759fa178c80",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39-client.jar"
+                "size": 4214276,
+                "MD5": "e26430416f5d1bd7c205c1b81a0fb8f8",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-client.jar"
               },
               "subModules": []
             },
@@ -75,7 +75,7 @@
               "classpath": true,
               "artifact": {
                 "size": 11352644,
-                "MD5": "39a14be9d7e532fb930bab44b0766a3e",
+                "MD5": "8fb433a0de0c36723a71a010337ab981",
                 "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -105,53 +105,53 @@
               "subModules": []
             },
             {
-              "id": "org.ow2.asm:asm:9.1",
+              "id": "org.ow2.asm:asm:9.6",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 121790,
-                "MD5": "54b9f5d15e4877a4ea4cf9ec48e07afa",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
+                "size": 123598,
+                "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.1",
+              "id": "org.ow2.asm:asm-commons:9.6",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 72641,
-                "MD5": "81cc6b8f5ce8f2767d39fbd4b6c37a6a",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
+                "size": 72194,
+                "MD5": "9e317c75534bd1da8c00a67c618ab288",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.1",
+              "id": "org.ow2.asm:asm-tree:9.6",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 52662,
-                "MD5": "c2536add9ebcfa8066fcfb0dbe865879",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
+                "size": 51935,
+                "MD5": "6062608f1a98afe1e853d01fa1221a9e",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.1",
+              "id": "org.ow2.asm:asm-util:9.6",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 84679,
-                "MD5": "2f1a28f6b0f3e02b17d38a0f657a1527",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
+                "size": 91131,
+                "MD5": "bd3bc1c176a787373e9a031073c9574b",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.1",
+              "id": "org.ow2.asm:asm-analysis:9.6",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 34257,
-                "MD5": "f0e82941173b6049c03e8214ace70ecd",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
+                "size": 34041,
+                "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
               }
             },
             {
