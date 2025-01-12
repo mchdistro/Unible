@@ -362,8 +362,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 190902,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/required/AdvancementPlaques-1.16.5-1.4.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/optionalon/AdvancementPlaques-1.16.5-1.4.1.jar",
             "MD5": "c9899fefdc3fd545b7452b6ad582cc80"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -402,8 +405,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21202,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/required/colorfulhealthbar-4.0.0-1.16.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/optionalon/colorfulhealthbar-4.0.0-1.16.1.jar",
             "MD5": "e8d0c8c199e8caab0fe7be5934ade90b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -412,8 +418,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 53318,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/required/Controlling-7.0.0.31.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/optionalon/Controlling-7.0.0.31.jar",
             "MD5": "b8b714631cfa5849e07e0ffd95951602"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -422,8 +431,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 46532,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/required/entityculling-forge-mc1.16.5-1.5.2.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/optionalon/entityculling-forge-mc1.16.5-1.5.2.jar",
             "MD5": "8696ac24f0d209aadaf754bed9c2e1f6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -472,8 +484,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 61577,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/required/Iceberg-1.16.5-1.0.45.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/optionalon/Iceberg-1.16.5-1.0.45.jar",
             "MD5": "ec502208377ca481a2e551b99e4cb050"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -502,8 +517,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 235574,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/required/JustEnoughResources-1.16.5-0.12.1.128.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/optionalon/JustEnoughResources-1.16.5-0.12.1.128.jar",
             "MD5": "9e48b71fca1e340e54cb4a7b035f50f2"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -562,8 +580,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 58249,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/required/MouseTweaks-2.14-mc1.16.2.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/optionalon/MouseTweaks-2.14-mc1.16.2.jar",
             "MD5": "3b4e04a9a79094149306457c7db838d5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -572,8 +593,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21664,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/required/Neat+1.7-27.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/optionalon/Neat+1.7-27.jar",
             "MD5": "f42a01e1a0baa1292f58a889b33cc473"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -612,18 +636,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7722823,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.26.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/forgemods/optionalon/voicechat-forge-1.16.5-2.5.26.jar",
             "MD5": "55ee7fa56ede1fd5dd349e59efcd49b7"
-          }
-        },
-        {
-          "id": "generated.library:OptiFine_1.16.5_HD_U_G8_MOD:0.0.0@jar",
-          "name": "OptiFine_1.16.5_HD_U_G8_MOD",
-          "type": "Library",
-          "artifact": {
-            "size": 5520538,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
-            "MD5": "452dd749f7eb72d07a6a2603b7905e43"
+          },
+          "required": {
+            "value": false
           }
         },
         {
