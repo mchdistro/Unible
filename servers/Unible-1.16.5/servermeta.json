@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "Unible (Minecraft 1.16.5)",
-    "description": "Minecraft 1.16.5 (Forge v36.2.42)",
+    "description": "Minecraft 1.16.5 (Forge v36.2.39)",
     "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
     "address": "mc.gotiger.dev:25500",
     "discord": {
@@ -15,7 +15,7 @@
     "autoconnect": true
   },
   "forge": {
-    "version": "36.2.42"
+    "version": "36.2.39"
   },
   "untrackedFiles": []
 }
