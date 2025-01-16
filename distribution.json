@@ -588,6 +588,19 @@
           }
         },
         {
+          "id": "kr.neko.sokcuri:naraechat:1.16.3-0.7.1@jar",
+          "name": "Narae Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1755294,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/U.ONE_PIECE-1.16.5/forgemods/optionalon/naraechat-1.16.3-0.7.1.jar",
+            "MD5": "e75b886d783090db4d3c7b45c0e25f10"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "vazkii.neat:neat:1.7-27@jar",
           "name": "Neat",
           "type": "ForgeMod",
@@ -650,7 +663,6 @@
           "artifact": {
             "size": 1659,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/U.ONE_PIECE-1.16.5/files/journeymap/config/5.8/journeymap.minimap.config",
-            "MD5": "6a9e9bce4fd86240251ab27049cfc3bd",
             "path": "journeymap/config/5.8/journeymap.minimap.config"
           }
         },
@@ -661,7 +673,6 @@
           "artifact": {
             "size": 1663,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/U.ONE_PIECE-1.16.5/files/journeymap/config/5.8/journeymap.minimap2.config",
-            "MD5": "0f41d21bb556f9b6f4c7e89bf9649d62",
             "path": "journeymap/config/5.8/journeymap.minimap2.config"
           }
         },
@@ -670,10 +681,20 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4391,
+            "size": 4457,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/U.ONE_PIECE-1.16.5/files/options.txt",
-            "MD5": "820980aef78fc899c4bef45d2f3d09ed",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "U.원피스.zip",
+          "name": "U.원피스.zip",
+          "type": "File",
+          "artifact": {
+            "size": 744716,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/U.ONE_PIECE-1.16.5/files/resourcepacks/U.%EC%9B%90%ED%94%BC%EC%8A%A4.zip",
+            "MD5": "c144750f09ef5f2db40a8afa91d67e80",
+            "path": "resourcepacks/U.원피스.zip"
           }
         },
         {
@@ -694,7 +715,6 @@
           "artifact": {
             "size": 4172,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/U.ONE_PIECE-1.16.5/files/voicechat/voicechat-client.properties",
-            "MD5": "17ae9ffe2a94003b8a3c91edcfa822c9",
             "path": "voicechat/voicechat-client.properties"
           }
         }

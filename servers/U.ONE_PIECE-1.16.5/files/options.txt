@@ -2,6 +2,7 @@ version:2586
 autoJump:false
 realmsNotifications:false
 guiScale:2
+resourcePacks:["vanilla","mod_resources","file/U.원피스.zip"]
 lang:ko_kr
 narrator:0
 tutorialStep:none
