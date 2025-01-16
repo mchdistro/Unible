@@ -681,9 +681,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 71,
+            "size": 7739,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/U.ONE_PIECE-1.16.5/files/servers.dat",
-            "MD5": "e7404a7250bcf439ed0a6dde61a5576a",
+            "MD5": "3ce388258f4b4e38e61a524991b9c862",
             "path": "servers.dat"
           }
         },
