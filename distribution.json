@@ -924,9 +924,9 @@
           "name": "journeymap.minimap.config",
           "type": "File",
           "artifact": {
-            "size": 2274,
+            "size": 2271,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/files/journeymap/config/6.0/journeymap.minimap.config",
-            "MD5": "fee540e0e5154d6c3c9bc2c97547198a",
+            "MD5": "e93f91feab44bfa04548acc0750f427c",
             "path": "journeymap/config/6.0/journeymap.minimap.config"
           }
         },
