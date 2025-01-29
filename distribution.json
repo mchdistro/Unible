@@ -20,7 +20,7 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": true,
       "modules": [
         {
@@ -726,15 +726,15 @@
       "description": "Unible Running Minecraft 1.21.1 (Fabric v0.16.10)",
       "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "mc.gotiger.dev:25550",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.16.10",
@@ -846,6 +846,36 @@
             "size": 2385171,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/fabric-api-0.115.0+1.21.1.jar",
             "MD5": "5e627455ae16cbb2c50eb0dd76314b1f"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:19.21.0.247@jar",
+          "name": "Just Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1474082,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.21.0.247.jar",
+            "MD5": "7712fb0beebc6692c4c1f35e45b8a6f3"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.1-6.0.0-beta.37@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3409457,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/journeymap-fabric-1.21.1-6.0.0-beta.37.jar",
+            "MD5": "5f5f630076b2e8ad749670f18e649ec6"
+          }
+        },
+        {
+          "id": "com.aizistral:nochatreports:1.21.1-v2.9.1@jar",
+          "name": "No Chat Reports",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 309410,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
+            "MD5": "2dce5b67904bc681b1a166b49e66efdc"
           }
         }
       ]
