@@ -877,6 +877,50 @@
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
             "MD5": "2dce5b67904bc681b1a166b49e66efdc"
           }
+        },
+        {
+          "id": "journeymap.core.config",
+          "name": "journeymap.core.config",
+          "type": "File",
+          "artifact": {
+            "size": 2619,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/files/journeymap/config/6.0/journeymap.core.config",
+            "MD5": "46d0023d6e5e974bb469a22a9bbdff99",
+            "path": "journeymap/config/6.0/journeymap.core.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap.config",
+          "name": "journeymap.minimap.config",
+          "type": "File",
+          "artifact": {
+            "size": 2274,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/files/journeymap/config/6.0/journeymap.minimap.config",
+            "MD5": "fee540e0e5154d6c3c9bc2c97547198a",
+            "path": "journeymap/config/6.0/journeymap.minimap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap2.config",
+          "name": "journeymap.minimap2.config",
+          "type": "File",
+          "artifact": {
+            "size": 2276,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/files/journeymap/config/6.0/journeymap.minimap2.config",
+            "MD5": "97626b419cf7168d3b01f75f87714ae2",
+            "path": "journeymap/config/6.0/journeymap.minimap2.config"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 69,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/files/servers.dat",
+            "MD5": "6133bb2c4615beccebb898e5aaa0401e",
+            "path": "servers.dat"
+          }
         }
       ]
     }
