@@ -942,6 +942,17 @@
           }
         },
         {
+          "id": "코블몬.zip",
+          "name": "코블몬.zip",
+          "type": "File",
+          "artifact": {
+            "size": 80104,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/files/resourcepacks/%EC%BD%94%EB%B8%94%EB%AA%AC.zip",
+            "MD5": "132fd7bfa98b9d741147340a8c30356e",
+            "path": "resourcepacks/코블몬.zip"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
