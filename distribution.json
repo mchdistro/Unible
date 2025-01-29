@@ -849,6 +849,16 @@
           }
         },
         {
+          "id": "me.fallenbreath:fastipping:1.0.5@jar",
+          "name": "Fast IP Ping",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 10582,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/fast-ip-ping-v1.0.5-mc1.21.1-fabric.jar",
+            "MD5": "49b4e5543017e408b929f3b1bdfb4c2b"
+          }
+        },
+        {
           "id": "mezz.jei:jei:19.21.0.247@jar",
           "name": "Just Enough Items",
           "type": "FabricMod",
@@ -856,16 +866,6 @@
             "size": 1474082,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.21.0.247.jar",
             "MD5": "7712fb0beebc6692c4c1f35e45b8a6f3"
-          }
-        },
-        {
-          "id": "journeymap:journeymap:1.21.1-6.0.0-beta.37@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3409457,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/journeymap-fabric-1.21.1-6.0.0-beta.37.jar",
-            "MD5": "5f5f630076b2e8ad749670f18e649ec6"
           }
         },
         {
@@ -906,6 +906,16 @@
             "size": 309410,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
             "MD5": "2dce5b67904bc681b1a166b49e66efdc"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:25.0.0@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1686418,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/Xaeros_Minimap_25.0.0_Fabric_1.21.jar",
+            "MD5": "f2bdb915912893cc3eccdc9928f6a29b"
           }
         },
         {
