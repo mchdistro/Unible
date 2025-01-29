@@ -869,6 +869,16 @@
           }
         },
         {
+          "id": "com.hyfata.najoan:koreanpatch:1.6.11+mc1.21@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 462471,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/koreanpatch-fabric-1.6.11+mc1.21.jar",
+            "MD5": "b86f761c2cd1a6905acbf440d486f79f"
+          }
+        },
+        {
           "id": "com.aizistral:nochatreports:1.21.1-v2.9.1@jar",
           "name": "No Chat Reports",
           "type": "FabricMod",
