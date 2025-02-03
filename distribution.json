@@ -869,6 +869,16 @@
           }
         },
         {
+          "id": "net.starliteheart:cobbleride:0.2.2+1.21.1@jar",
+          "name": "Cobblemon: Ride On!",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 300447,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/cobbleride-fabric-0.2.2+1.21.1.jar",
+            "MD5": "a4cc9f0d906ba5946cb219ceee557618"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.115.0+1.21.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
