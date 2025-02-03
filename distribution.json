@@ -829,13 +829,33 @@
           ]
         },
         {
-          "id": "com.cobblemon.mod:cobblemon:1.6.1+1.21.1@jar",
-          "name": "Cobblemon",
+          "id": "dev.architectury.utils:architectury:13.0.8@jar",
+          "name": "Architectury",
           "type": "FabricMod",
           "artifact": {
-            "size": 120710175,
-            "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/v77SHSXW/Cobblemon-fabric-1.6.1+1.21.1.jar",
-            "MD5": "cefe6ab687c39e1a7fe9b2bf96b09188"
+            "size": 600915,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/architectury-13.0.8-fabric.jar",
+            "MD5": "702e92d09a4855c6c8aa9e738a48efa4"
+          }
+        },
+        {
+          "id": "com.cobblemon.cobblemonlegends:cobblemon_legends_reborn:2.3.4-fabric@jar",
+          "name": "Cobblemon Legends Untold Reborn",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 192470,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/Cobblemon_Legends_Reborn-2.3.4-fabric.jar",
+            "MD5": "ebc43463fc04be706fb59b350abe2355"
+          }
+        },
+        {
+          "id": "us.timinc.mc.cobblemon.unimplementeditems:cobblemon_unimplementeditems:1.6-fabric-1.0.1@jar",
+          "name": "Cobblemon Unimplemented Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 77099,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/cobblemon-unimplementeditems-1.6-fabric-1.0.1.jar",
+            "MD5": "fedbc3604fcb23c441c3cdd243d3a063"
           }
         },
         {
@@ -849,13 +869,36 @@
           }
         },
         {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.1+kotlin.2.1.10@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7107488,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar",
+            "MD5": "93f482c99cce35eeca5e1c974c936129"
+          }
+        },
+        {
           "id": "me.fallenbreath:fastipping:1.0.5@jar",
           "name": "Fast IP Ping",
           "type": "FabricMod",
           "artifact": {
             "size": 10582,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/fast-ip-ping-v1.0.5-mc1.21.1-fabric.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/optionalon/fast-ip-ping-v1.0.5-mc1.21.1-fabric.jar",
             "MD5": "49b4e5543017e408b929f3b1bdfb4c2b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.rufia:fightorflight:0.7.4@jar",
+          "name": "Cobblemon Fight or Flight Fabric",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1211747,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/fightorflight-fabric-0.7.4.jar",
+            "MD5": "0cd3e37e6f5ec9f114705c3c4ea39f5e"
           }
         },
         {
@@ -864,8 +907,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1474082,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.21.0.247.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/optionalon/jei-1.21.1-fabric-19.21.0.247.jar",
             "MD5": "7712fb0beebc6692c4c1f35e45b8a6f3"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -874,8 +920,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 462471,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/koreanpatch-fabric-1.6.11+mc1.21.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/optionalon/koreanpatch-fabric-1.6.11+mc1.21.jar",
             "MD5": "b86f761c2cd1a6905acbf440d486f79f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -884,8 +933,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 973066,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/modmenu-11.0.3.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/optionalon/modmenu-11.0.3.jar",
             "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -894,8 +946,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 75984,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/MouseTweaks-fabric-mc1.21-2.26.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/optionalon/MouseTweaks-fabric-mc1.21-2.26.jar",
             "MD5": "1d39ead1641ef522bc7ae92383f21da8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -909,13 +964,55 @@
           }
         },
         {
+          "id": "io.wispforest:owo:0.12.15+1.21@jar",
+          "name": "Oωo",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1177861,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/optionalon/owo-lib-0.12.15+1.21.jar",
+            "MD5": "282419d0424c4b338ced15cf1083df76"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.chailotl:particular:1.1.1+1.21@jar",
+          "name": "Particular",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 240308,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/optionalon/particular-1.1.1+1.21.jar",
+            "MD5": "308738268533e2fc3d1d2ac6b6cc38fa"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "xaero.minimap:xaerominimap:25.0.0@jar",
           "name": "Xaero's Minimap",
           "type": "FabricMod",
           "artifact": {
             "size": 1686418,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/Xaeros_Minimap_25.0.0_Fabric_1.21.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/optionalon/Xaeros_Minimap_25.0.0_Fabric_1.21.jar",
             "MD5": "f2bdb915912893cc3eccdc9928f6a29b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.39.2@jar",
+          "name": "Xaero's World Map",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 952412,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/optionalon/XaerosWorldMap_1.39.2_Fabric_1.21.jar",
+            "MD5": "c918de19a70ff5d7509346dc9e09648d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
