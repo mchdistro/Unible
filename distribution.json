@@ -829,6 +829,16 @@
           ]
         },
         {
+          "id": "com.cobblemon.mod:cobblemon:1.6.1+1.21.1@jar",
+          "name": "Cobblemon",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 120710175,
+            "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/v77SHSXW/Cobblemon-fabric-1.6.1+1.21.1.jar",
+            "MD5": "cefe6ab687c39e1a7fe9b2bf96b09188"
+          }
+        },
+        {
           "id": "dev.architectury.utils:architectury:13.0.8@jar",
           "name": "Architectury",
           "type": "FabricMod",
