@@ -849,6 +849,16 @@
           }
         },
         {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:15.0.140@jar",
+          "name": "Cloth Config v15",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1157166,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
+            "MD5": "a2c091b027ad6ba8e54b07020fd45884"
+          }
+        },
+        {
           "id": "com.cobblemon.cobblemonlegends:cobblemon_legends_reborn:2.3.4-fabric@jar",
           "name": "Cobblemon Legends Untold Reborn",
           "type": "FabricMod",
