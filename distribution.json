@@ -1010,6 +1010,16 @@
           }
         },
         {
+          "id": "com.tiviacz:travelersbackpack:10.1.11@jar",
+          "name": "Traveler's Backpack",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1257343,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/travelersbackpack-fabric-1.21.1-10.1.11.jar",
+            "MD5": "003347e241d8ae0d8263abbdbfc7977a"
+          }
+        },
+        {
           "id": "xaero.minimap:xaerominimap:25.0.0@jar",
           "name": "Xaero's Minimap",
           "type": "FabricMod",
