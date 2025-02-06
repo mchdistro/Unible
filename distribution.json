@@ -849,6 +849,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:cardinal-components:6.1.1@jar",
+          "name": "Cardinal Components API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 229179,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/cardinal-components-api-6.1.1.jar",
+            "MD5": "eced863af0d6e49e2545cb0ab4ef8fdf"
+          }
+        },
+        {
           "id": "me.shedaniel.autoconfig.example:cloth-config:15.0.140@jar",
           "name": "Cloth Config v15",
           "type": "FabricMod",
