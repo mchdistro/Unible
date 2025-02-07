@@ -879,6 +879,16 @@
           }
         },
         {
+          "id": "com.cobblemon.yajatkaul:mega_showdown:2.0.1-release-fabric@jar",
+          "name": "Cobblemon: Mega Showdown",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2534246,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/Cobblemon_MegaShowdown-2.0.1-release-fabric.jar",
+            "MD5": "753b8db05ad6105d8c532502864a58ba"
+          }
+        },
+        {
           "id": "us.timinc.mc.cobblemon.unimplementeditems:cobblemon_unimplementeditems:1.6-fabric-1.0.1@jar",
           "name": "Cobblemon Unimplemented Items",
           "type": "FabricMod",
@@ -991,6 +1001,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "com.github.d0ctorleon:mythsandlegends:1.7@jar",
+          "name": "Myths and Legends",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 577173,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.1/fabricmods/required/MythsAndLegends-fabric-1.7.jar",
+            "MD5": "d243596b540117c1cb9e1b4706ea97c7"
           }
         },
         {
