@@ -2,7 +2,7 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/Unible/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Unible (Minecraft 1.21.1)",
+    "name": "코블몬",
     "description": "Unible Running Minecraft 1.21.1 (Fabric v0.16.10)",
     "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
     "address": "mc.gotiger.dev:25550",

@@ -1,0 +1,4 @@
+#Tue Nov 19 22:21:39 KST 2024
+OLD_LIGHTLEAK_FIX=true
+Biome_specific_environment=false
+BLOOM_STRENGTH=0.0
