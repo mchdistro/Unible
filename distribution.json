@@ -533,6 +533,16 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
           "id": "traben.entity_texture_features:entity_texture_features:6.2.9@jar",
           "name": "Entity Texture Features",
           "type": "ForgeMod",
@@ -803,17 +813,6 @@
           }
         },
         {
-          "id": "advancementplaques-common-1.toml.bak",
-          "name": "advancementplaques-common-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 3024,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/advancementplaques-common-1.toml.bak",
-            "MD5": "fbcb9e811eada0a09154da04a72f1ddc",
-            "path": "config/advancementplaques-common-1.toml.bak"
-          }
-        },
-        {
           "id": "advancementplaques-common.toml",
           "name": "advancementplaques-common.toml",
           "type": "File",
@@ -855,17 +854,6 @@
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/car-client.toml",
             "MD5": "be7b244f1d228d57c43d658c9bdf706d",
             "path": "config/car-client.toml"
-          }
-        },
-        {
-          "id": "carryon-client-1.toml.bak",
-          "name": "carryon-client-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 590,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/carryon-client-1.toml.bak",
-            "MD5": "0b6ae0f2806ffd1f653c7c8613c409e1",
-            "path": "config/carryon-client-1.toml.bak"
           }
         },
         {
@@ -968,39 +956,6 @@
           }
         },
         {
-          "id": "dummmmmmy-client-1.toml.bak",
-          "name": "dummmmmmy-client-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 1505,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/dummmmmmy-client-1.toml.bak",
-            "MD5": "84cd3421a65d9c015a45c89175a87093",
-            "path": "config/dummmmmmy-client-1.toml.bak"
-          }
-        },
-        {
-          "id": "dummmmmmy-client-2.toml.bak",
-          "name": "dummmmmmy-client-2.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 1505,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/dummmmmmy-client-2.toml.bak",
-            "MD5": "33438de3598e45466074c68115161b62",
-            "path": "config/dummmmmmy-client-2.toml.bak"
-          }
-        },
-        {
-          "id": "dummmmmmy-client-3.toml.bak",
-          "name": "dummmmmmy-client-3.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 1505,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/dummmmmmy-client-3.toml.bak",
-            "MD5": "91d56ef542a8bdf7341f0a2cf26f762e",
-            "path": "config/dummmmmmy-client-3.toml.bak"
-          }
-        },
-        {
           "id": "dummmmmmy-client.toml",
           "name": "dummmmmmy-client.toml",
           "type": "File",
@@ -1020,61 +975,6 @@
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/dummmmmmy-common.toml",
             "MD5": "6dec4387ade25bc5dfae62afae329d62",
             "path": "config/dummmmmmy-common.toml"
-          }
-        },
-        {
-          "id": "easy_npc-common-1.toml.bak",
-          "name": "easy_npc-common-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 15211,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/easy_npc/easy_npc-common-1.toml.bak",
-            "MD5": "3301f9f75647807c1a5a732c870b18e4",
-            "path": "config/easy_npc/easy_npc-common-1.toml.bak"
-          }
-        },
-        {
-          "id": "easy_npc-common-2.toml.bak",
-          "name": "easy_npc-common-2.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 15211,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/easy_npc/easy_npc-common-2.toml.bak",
-            "MD5": "3301f9f75647807c1a5a732c870b18e4",
-            "path": "config/easy_npc/easy_npc-common-2.toml.bak"
-          }
-        },
-        {
-          "id": "easy_npc-common-3.toml.bak",
-          "name": "easy_npc-common-3.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 3710,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/easy_npc/easy_npc-common-3.toml.bak",
-            "MD5": "c50ec6ea2fb787d3e3c7231cf5c3d92d",
-            "path": "config/easy_npc/easy_npc-common-3.toml.bak"
-          }
-        },
-        {
-          "id": "easy_npc-common-4.toml.bak",
-          "name": "easy_npc-common-4.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 15211,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/easy_npc/easy_npc-common-4.toml.bak",
-            "MD5": "3301f9f75647807c1a5a732c870b18e4",
-            "path": "config/easy_npc/easy_npc-common-4.toml.bak"
-          }
-        },
-        {
-          "id": "easy_npc-common-5.toml.bak",
-          "name": "easy_npc-common-5.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 15211,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/easy_npc/easy_npc-common-5.toml.bak",
-            "MD5": "ea33316f602a867817ea7f987f1a0f6e",
-            "path": "config/easy_npc/easy_npc-common-5.toml.bak"
           }
         },
         {
@@ -1496,61 +1396,6 @@
           }
         },
         {
-          "id": "epicfight-client-1.toml.bak",
-          "name": "epicfight-client-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 1463,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/epicfight-client-1.toml.bak",
-            "MD5": "f8108b9294834482a372d89869a31b42",
-            "path": "config/epicfight-client-1.toml.bak"
-          }
-        },
-        {
-          "id": "epicfight-client-2.toml.bak",
-          "name": "epicfight-client-2.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 1298,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/epicfight-client-2.toml.bak",
-            "MD5": "bad4a86baa3d2048cb446afed877247b",
-            "path": "config/epicfight-client-2.toml.bak"
-          }
-        },
-        {
-          "id": "epicfight-client-3.toml.bak",
-          "name": "epicfight-client-3.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 1298,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/epicfight-client-3.toml.bak",
-            "MD5": "bad4a86baa3d2048cb446afed877247b",
-            "path": "config/epicfight-client-3.toml.bak"
-          }
-        },
-        {
-          "id": "epicfight-client-4.toml.bak",
-          "name": "epicfight-client-4.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 1298,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/epicfight-client-4.toml.bak",
-            "MD5": "d5e6cee5a172cd045c723caed51d91cc",
-            "path": "config/epicfight-client-4.toml.bak"
-          }
-        },
-        {
-          "id": "epicfight-client-5.toml.bak",
-          "name": "epicfight-client-5.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 1297,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/epicfight-client-5.toml.bak",
-            "MD5": "279549beb866bb5337542126b6039125",
-            "path": "config/epicfight-client-5.toml.bak"
-          }
-        },
-        {
           "id": "epicfight-client.toml",
           "name": "epicfight-client.toml",
           "type": "File",
@@ -1639,17 +1484,6 @@
           }
         },
         {
-          "id": "forge-client-1.toml.bak",
-          "name": "forge-client-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 1399,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/forge-client-1.toml.bak",
-            "MD5": "17ce4f44d2b8e9186512d7bc94501b18",
-            "path": "config/forge-client-1.toml.bak"
-          }
-        },
-        {
           "id": "forge-client.toml",
           "name": "forge-client.toml",
           "type": "File",
@@ -1672,28 +1506,6 @@
           }
         },
         {
-          "id": "guardvillagers-client-1.toml.bak",
-          "name": "guardvillagers-client-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 210,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/guardvillagers-client-1.toml.bak",
-            "MD5": "d663947b2112331f72934e85ac139a68",
-            "path": "config/guardvillagers-client-1.toml.bak"
-          }
-        },
-        {
-          "id": "guardvillagers-client-2.toml.bak",
-          "name": "guardvillagers-client-2.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 210,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/guardvillagers-client-2.toml.bak",
-            "MD5": "d663947b2112331f72934e85ac139a68",
-            "path": "config/guardvillagers-client-2.toml.bak"
-          }
-        },
-        {
           "id": "guardvillagers-client.toml",
           "name": "guardvillagers-client.toml",
           "type": "File",
@@ -1702,39 +1514,6 @@
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/guardvillagers-client.toml",
             "MD5": "d663947b2112331f72934e85ac139a68",
             "path": "config/guardvillagers-client.toml"
-          }
-        },
-        {
-          "id": "guardvillagers-common-1.toml.bak",
-          "name": "guardvillagers-common-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/guardvillagers-common-1.toml.bak",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-            "path": "config/guardvillagers-common-1.toml.bak"
-          }
-        },
-        {
-          "id": "guardvillagers-common-2.toml.bak",
-          "name": "guardvillagers-common-2.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 3408,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/guardvillagers-common-2.toml.bak",
-            "MD5": "3bb76f555edee485933818aaa9113fb2",
-            "path": "config/guardvillagers-common-2.toml.bak"
-          }
-        },
-        {
-          "id": "guardvillagers-common-3.toml.bak",
-          "name": "guardvillagers-common-3.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 3408,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/guardvillagers-common-3.toml.bak",
-            "MD5": "6e5371fae7cfc1a369618510213c92bc",
-            "path": "config/guardvillagers-common-3.toml.bak"
           }
         },
         {
@@ -2233,28 +2012,6 @@
           }
         },
         {
-          "id": "hordes-client-1.toml.bak",
-          "name": "hordes-client-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 1198,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/hordes-client-1.toml.bak",
-            "MD5": "33c7bb168c70ce671b9b63c2764d2d54",
-            "path": "config/hordes-client-1.toml.bak"
-          }
-        },
-        {
-          "id": "hordes-client-2.toml.bak",
-          "name": "hordes-client-2.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 1198,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/hordes-client-2.toml.bak",
-            "MD5": "33c7bb168c70ce671b9b63c2764d2d54",
-            "path": "config/hordes-client-2.toml.bak"
-          }
-        },
-        {
           "id": "hordes-client.toml",
           "name": "hordes-client.toml",
           "type": "File",
@@ -2420,149 +2177,6 @@
           }
         },
         {
-          "id": "blacklist.cfg",
-          "name": "blacklist.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/jei/blacklist.cfg",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-            "path": "config/jei/blacklist.cfg"
-          }
-        },
-        {
-          "id": "ingredient-list-mod-sort-order.ini",
-          "name": "ingredient-list-mod-sort-order.ini",
-          "type": "File",
-          "artifact": {
-            "size": 171,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "ef8efb55674259dc71182ddd6e2c7469",
-            "path": "config/jei/ingredient-list-mod-sort-order.ini"
-          }
-        },
-        {
-          "id": "ingredient-list-type-sort-order.ini",
-          "name": "ingredient-list-type-sort-order.ini",
-          "type": "File",
-          "artifact": {
-            "size": 74,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/jei/ingredient-list-type-sort-order.ini",
-            "MD5": "9256ba0b170fac4934f83a4e789d14a8",
-            "path": "config/jei/ingredient-list-type-sort-order.ini"
-          }
-        },
-        {
-          "id": "jei-client.ini",
-          "name": "jei-client.ini",
-          "type": "File",
-          "artifact": {
-            "size": 5308,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/jei/jei-client.ini",
-            "MD5": "4eae275f7923681afc75082b3ebff045",
-            "path": "config/jei/jei-client.ini"
-          }
-        },
-        {
-          "id": "jei-colors.ini",
-          "name": "jei-colors.ini",
-          "type": "File",
-          "artifact": {
-            "size": 1337,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/jei/jei-colors.ini",
-            "MD5": "a23718add9e4884ca9d259aedd73161b",
-            "path": "config/jei/jei-colors.ini"
-          }
-        },
-        {
-          "id": "jei-debug.ini",
-          "name": "jei-debug.ini",
-          "type": "File",
-          "artifact": {
-            "size": 425,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/jei/jei-debug.ini",
-            "MD5": "f5fb09cb8828526cfe9b9a44a9632134",
-            "path": "config/jei/jei-debug.ini"
-          }
-        },
-        {
-          "id": "jei-mod-id-format.ini",
-          "name": "jei-mod-id-format.ini",
-          "type": "File",
-          "artifact": {
-            "size": 416,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/jei/jei-mod-id-format.ini",
-            "MD5": "d9df39bf869d7344ef78697b986e3b05",
-            "path": "config/jei/jei-mod-id-format.ini"
-          }
-        },
-        {
-          "id": "recipe-category-sort-order.ini",
-          "name": "recipe-category-sort-order.ini",
-          "type": "File",
-          "artifact": {
-            "size": 294,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/jei/recipe-category-sort-order.ini",
-            "MD5": "ab9f19070d70ff608c6c286df1b85362",
-            "path": "config/jei/recipe-category-sort-order.ini"
-          }
-        },
-        {
-          "id": "bookmarks.ini",
-          "name": "bookmarks.ini",
-          "type": "File",
-          "artifact": {
-            "size": 52,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/jei/world/local/Vinh_Stadium/bookmarks.ini",
-            "MD5": "18995e08809003528cb5277f283f41b2",
-            "path": "config/jei/world/local/Vinh_Stadium/bookmarks.ini"
-          }
-        },
-        {
-          "id": "bookmarks.ini",
-          "name": "bookmarks.ini",
-          "type": "File",
-          "artifact": {
-            "size": 121,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/jei/world/local/________16/bookmarks.ini",
-            "MD5": "3b2dde9db1ce1dead1dcb6552f51aac6",
-            "path": "config/jei/world/local/________16/bookmarks.ini"
-          }
-        },
-        {
-          "id": "bookmarks.ini",
-          "name": "bookmarks.ini",
-          "type": "File",
-          "artifact": {
-            "size": 52,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/jei/world/local/________19/bookmarks.ini",
-            "MD5": "c3fafae9c1278afd45fc97f5a1bfa4eb",
-            "path": "config/jei/world/local/________19/bookmarks.ini"
-          }
-        },
-        {
-          "id": "kenjiscombatforms-Common-1.toml.bak",
-          "name": "kenjiscombatforms-Common-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 1783,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/kenjiscombatforms-Common-1.toml.bak",
-            "MD5": "81f49ef8a9a4260fbb90c0b7cdf7acdb",
-            "path": "config/kenjiscombatforms-Common-1.toml.bak"
-          }
-        },
-        {
-          "id": "kenjiscombatforms-Common-2.toml.bak",
-          "name": "kenjiscombatforms-Common-2.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/kenjiscombatforms-Common-2.toml.bak",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-            "path": "config/kenjiscombatforms-Common-2.toml.bak"
-          }
-        },
-        {
           "id": "kenjiscombatforms-Common.toml",
           "name": "kenjiscombatforms-Common.toml",
           "type": "File",
@@ -2574,94 +2188,6 @@
           }
         },
         {
-          "id": "litematica_26.75.42.217.json",
-          "name": "litematica_26.75.42.217.json",
-          "type": "File",
-          "artifact": {
-            "size": 95,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/litematica/litematica_26.75.42.217.json",
-            "MD5": "909c5fc6e45a9192364c7e32ee776ae1",
-            "path": "config/litematica/litematica_26.75.42.217.json"
-          }
-        },
-        {
-          "id": "litematica_26.75.42.217_49953.json",
-          "name": "litematica_26.75.42.217_49953.json",
-          "type": "File",
-          "artifact": {
-            "size": 210,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/litematica/litematica_26.75.42.217_49953.json",
-            "MD5": "51526f84a2a60f63fa745ea523aba179",
-            "path": "config/litematica/litematica_26.75.42.217_49953.json"
-          }
-        },
-        {
-          "id": "litematica_26.75.42.217_49953_dim_minecraft_overworld.json",
-          "name": "litematica_26.75.42.217_49953_dim_minecraft_overworld.json",
-          "type": "File",
-          "artifact": {
-            "size": 734,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/litematica/litematica_26.75.42.217_49953_dim_minecraft_overworld.json",
-            "MD5": "c22a3660d8eb93921e0fb5e4563737c9",
-            "path": "config/litematica/litematica_26.75.42.217_49953_dim_minecraft_overworld.json"
-          }
-        },
-        {
-          "id": "litematica_26.75.42.217_dim_minecraft_overworld.json",
-          "name": "litematica_26.75.42.217_dim_minecraft_overworld.json",
-          "type": "File",
-          "artifact": {
-            "size": 734,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/litematica/litematica_26.75.42.217_dim_minecraft_overworld.json",
-            "MD5": "c22a3660d8eb93921e0fb5e4563737c9",
-            "path": "config/litematica/litematica_26.75.42.217_dim_minecraft_overworld.json"
-          }
-        },
-        {
-          "id": "litematica_multiplayer_fallback.json",
-          "name": "litematica_multiplayer_fallback.json",
-          "type": "File",
-          "artifact": {
-            "size": 210,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/litematica/litematica_multiplayer_fallback.json",
-            "MD5": "51526f84a2a60f63fa745ea523aba179",
-            "path": "config/litematica/litematica_multiplayer_fallback.json"
-          }
-        },
-        {
-          "id": "litematica_multiplayer_fallback_dim_minecraft_overworld.json",
-          "name": "litematica_multiplayer_fallback_dim_minecraft_overworld.json",
-          "type": "File",
-          "artifact": {
-            "size": 734,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/litematica/litematica_multiplayer_fallback_dim_minecraft_overworld.json",
-            "MD5": "c22a3660d8eb93921e0fb5e4563737c9",
-            "path": "config/litematica/litematica_multiplayer_fallback_dim_minecraft_overworld.json"
-          }
-        },
-        {
-          "id": "litematica_______.json",
-          "name": "litematica_______.json",
-          "type": "File",
-          "artifact": {
-            "size": 210,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/litematica/litematica_______.json",
-            "MD5": "51526f84a2a60f63fa745ea523aba179",
-            "path": "config/litematica/litematica_______.json"
-          }
-        },
-        {
-          "id": "litematica________dim_minecraft_overworld.json",
-          "name": "litematica________dim_minecraft_overworld.json",
-          "type": "File",
-          "artifact": {
-            "size": 734,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/litematica/litematica________dim_minecraft_overworld.json",
-            "MD5": "c22a3660d8eb93921e0fb5e4563737c9",
-            "path": "config/litematica/litematica________dim_minecraft_overworld.json"
-          }
-        },
-        {
           "id": "litematica.json",
           "name": "litematica.json",
           "type": "File",
@@ -2670,28 +2196,6 @@
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/litematica.json",
             "MD5": "bd1887125fc673d4aef6c6f70302cf78",
             "path": "config/litematica.json"
-          }
-        },
-        {
-          "id": "common-1.toml.bak",
-          "name": "common-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 195,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/lostcities/common-1.toml.bak",
-            "MD5": "d7f0a0b1968a9ce0f7c59045467a27f7",
-            "path": "config/lostcities/common-1.toml.bak"
-          }
-        },
-        {
-          "id": "common-2.toml.bak",
-          "name": "common-2.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 195,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/lostcities/common-2.toml.bak",
-            "MD5": "d7f0a0b1968a9ce0f7c59045467a27f7",
-            "path": "config/lostcities/common-2.toml.bak"
           }
         },
         {
@@ -2992,61 +2496,6 @@
           }
         },
         {
-          "id": "parcool-client-1.toml.bak",
-          "name": "parcool-client-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/parcool-client-1.toml.bak",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-            "path": "config/parcool-client-1.toml.bak"
-          }
-        },
-        {
-          "id": "parcool-client-2.toml.bak",
-          "name": "parcool-client-2.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 7159,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/parcool-client-2.toml.bak",
-            "MD5": "5d70f2e54b5ac51436e50e8a6405ee56",
-            "path": "config/parcool-client-2.toml.bak"
-          }
-        },
-        {
-          "id": "parcool-client-3.toml.bak",
-          "name": "parcool-client-3.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 6664,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/parcool-client-3.toml.bak",
-            "MD5": "7d64c7816c346475b41a4fae8dbb5e92",
-            "path": "config/parcool-client-3.toml.bak"
-          }
-        },
-        {
-          "id": "parcool-client-4.toml.bak",
-          "name": "parcool-client-4.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 6664,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/parcool-client-4.toml.bak",
-            "MD5": "7d64c7816c346475b41a4fae8dbb5e92",
-            "path": "config/parcool-client-4.toml.bak"
-          }
-        },
-        {
-          "id": "parcool-client-5.toml.bak",
-          "name": "parcool-client-5.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 6664,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/parcool-client-5.toml.bak",
-            "MD5": "7d64c7816c346475b41a4fae8dbb5e92",
-            "path": "config/parcool-client-5.toml.bak"
-          }
-        },
-        {
           "id": "parcool-client.toml",
           "name": "parcool-client.toml",
           "type": "File",
@@ -3190,61 +2639,6 @@
           }
         },
         {
-          "id": "re-skin-1.toml.bak",
-          "name": "re-skin-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 368,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/re-skin-1.toml.bak",
-            "MD5": "8722e1d435edf4a2e79a1aba0e555bff",
-            "path": "config/re-skin-1.toml.bak"
-          }
-        },
-        {
-          "id": "re-skin-2.toml.bak",
-          "name": "re-skin-2.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 365,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/re-skin-2.toml.bak",
-            "MD5": "a4055a456006d477d129becae6d69bfc",
-            "path": "config/re-skin-2.toml.bak"
-          }
-        },
-        {
-          "id": "re-skin-3.toml.bak",
-          "name": "re-skin-3.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 292,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/re-skin-3.toml.bak",
-            "MD5": "c80efb842a1259dc4ab3eae89123ab7a",
-            "path": "config/re-skin-3.toml.bak"
-          }
-        },
-        {
-          "id": "re-skin-4.toml.bak",
-          "name": "re-skin-4.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 365,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/re-skin-4.toml.bak",
-            "MD5": "a4055a456006d477d129becae6d69bfc",
-            "path": "config/re-skin-4.toml.bak"
-          }
-        },
-        {
-          "id": "re-skin-5.toml.bak",
-          "name": "re-skin-5.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 365,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/re-skin-5.toml.bak",
-            "MD5": "a4055a456006d477d129becae6d69bfc",
-            "path": "config/re-skin-5.toml.bak"
-          }
-        },
-        {
           "id": "re-skin.toml",
           "name": "re-skin.toml",
           "type": "File",
@@ -3311,61 +2705,6 @@
           }
         },
         {
-          "id": "shouldersurfing-1.toml.bak",
-          "name": "shouldersurfing-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 6112,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/shouldersurfing-1.toml.bak",
-            "MD5": "78fc70013cd7952dc1b3996652b02269",
-            "path": "config/shouldersurfing-1.toml.bak"
-          }
-        },
-        {
-          "id": "shouldersurfing-2.toml.bak",
-          "name": "shouldersurfing-2.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 6112,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/shouldersurfing-2.toml.bak",
-            "MD5": "dfea9a1bdcdbdda3e03b1d3ac1584ff1",
-            "path": "config/shouldersurfing-2.toml.bak"
-          }
-        },
-        {
-          "id": "shouldersurfing-3.toml.bak",
-          "name": "shouldersurfing-3.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 6117,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/shouldersurfing-3.toml.bak",
-            "MD5": "709e6a1747229d3f476e8eeed757a9ce",
-            "path": "config/shouldersurfing-3.toml.bak"
-          }
-        },
-        {
-          "id": "shouldersurfing-4.toml.bak",
-          "name": "shouldersurfing-4.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 6112,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/shouldersurfing-4.toml.bak",
-            "MD5": "dfea9a1bdcdbdda3e03b1d3ac1584ff1",
-            "path": "config/shouldersurfing-4.toml.bak"
-          }
-        },
-        {
-          "id": "shouldersurfing-5.toml.bak",
-          "name": "shouldersurfing-5.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 6114,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/shouldersurfing-5.toml.bak",
-            "MD5": "69103ed8055dcd80c7dcd783d7dfaccd",
-            "path": "config/shouldersurfing-5.toml.bak"
-          }
-        },
-        {
           "id": "shouldersurfing.toml",
           "name": "shouldersurfing.toml",
           "type": "File",
@@ -3407,39 +2746,6 @@
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/walkers.json5",
             "MD5": "c3a4acf73fbaf61f820bacb88ff856c7",
             "path": "config/walkers.json5"
-          }
-        },
-        {
-          "id": "wom-client-1.toml.bak",
-          "name": "wom-client-1.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 194,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/wom-client-1.toml.bak",
-            "MD5": "305d0da94b8b88fcb043c295f745f9ec",
-            "path": "config/wom-client-1.toml.bak"
-          }
-        },
-        {
-          "id": "wom-client-2.toml.bak",
-          "name": "wom-client-2.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 194,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/wom-client-2.toml.bak",
-            "MD5": "305d0da94b8b88fcb043c295f745f9ec",
-            "path": "config/wom-client-2.toml.bak"
-          }
-        },
-        {
-          "id": "wom-client-3.toml.bak",
-          "name": "wom-client-3.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 194,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Academia-1.20.1/files/config/wom-client-3.toml.bak",
-            "MD5": "305d0da94b8b88fcb043c295f745f9ec",
-            "path": "config/wom-client-3.toml.bak"
           }
         },
         {
