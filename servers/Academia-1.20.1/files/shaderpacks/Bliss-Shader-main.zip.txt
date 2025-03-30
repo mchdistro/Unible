@@ -1,6 +1,0 @@
-#Tue Nov 19 20:26:16 KST 2024
-CLOUDS_SHADOWS=false
-VOLUMETRIC_CLOUDS=false
-CloudLayer2=false
-CloudLayer1=false
-CloudLayer0=false
