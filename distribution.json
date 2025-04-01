@@ -466,6 +466,19 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.github.alexthe666:iceandfire:2.1.13-1.20.1@jar",
           "name": "Ice and Fire",
           "type": "ForgeMod",
@@ -526,19 +539,6 @@
             "size": 2851119,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "me.jellysquid.mods.sodium.client:rubidium:0.7.1@jar",
-          "name": "Rubidium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 704856,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/optionalon/rubidium-mc1.20.1-0.7.1.jar",
-            "MD5": "5a6a9dbad21f4d67f967c6ce369ecb0e"
           },
           "required": {
             "value": false
