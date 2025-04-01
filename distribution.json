@@ -438,11 +438,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 34339,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionalon/dragonfight-1.19.2-4.4.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/dragonfight-1.19.2-4.4.jar",
             "MD5": "2fbeddb0b2aadb63a9f8597275de6a61"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -466,6 +467,16 @@
           }
         },
         {
+          "id": "journeymap:journeymap:5.9.8@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7091961,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/required/journeymap-1.19.2-5.9.8-forge.jar",
+            "MD5": "b4feb9a30457ccdc33c6c4c201a79244"
+          }
+        },
+        {
           "id": "net.coderbot.iris:oculus:1.6.9a@jar",
           "name": "Oculus",
           "type": "ForgeMod",
@@ -486,16 +497,27 @@
           }
         },
         {
+          "id": "com.tiviacz:travelersbackpack:8.2.41@jar",
+          "name": "Traveler's Backpack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 891873,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/required/travelersbackpack-forge-1.19.2-8.2.41.jar",
+            "MD5": "c6dda7d69e67904563ef1de3e4ee35c4"
+          }
+        },
+        {
           "id": "com.yungnickyoung.minecraft:yungsapi:1.19.2-Forge-3.8.10@jar",
           "name": "YUNG's API",
           "type": "ForgeMod",
           "artifact": {
             "size": 293336,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionalon/YungsApi-1.19.2-Forge-3.8.10.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsApi-1.19.2-Forge-3.8.10.jar",
             "MD5": "d49eb0504b00d99320588c681535dcc3"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -504,11 +526,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 986299,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionalon/YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar",
             "MD5": "94d1f62e9247c0f9ffe4aca5eb2eaad5"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -517,11 +540,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 997998,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionalon/YungsBetterDungeons-1.19.2-Forge-3.2.2.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterDungeons-1.19.2-Forge-3.2.2.jar",
             "MD5": "23c0c4dda050b0ac7b3893f6081d925d"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -530,11 +554,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 636740,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionalon/YungsBetterEndIsland-1.19.2-Forge-1.0.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterEndIsland-1.19.2-Forge-1.0.jar",
             "MD5": "91f6a4f40c2e354a7bf11a63cd8cd622"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -543,11 +568,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1268117,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionalon/YungsBetterJungleTemples-1.19.2-Forge-1.0.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterJungleTemples-1.19.2-Forge-1.0.1.jar",
             "MD5": "a53333f9c22cc4d9171f5d522c10ef76"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -556,11 +582,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 273478,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionalon/YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar",
             "MD5": "e33f9e1cd9936cd6371f759f15470d9d"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -569,11 +596,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 820449,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionalon/YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar",
             "MD5": "6bd55703a87dd8493412bca8bbfc459e"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -582,11 +610,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 409767,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionalon/YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar",
             "MD5": "daa46493c03703aa9f6994548b43518f"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -595,11 +624,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 241850,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionalon/YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar",
             "MD5": "352e986c69027ba98cff3f87d8358fcc"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -608,11 +638,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 379125,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionalon/YungsBridges-1.19.2-Forge-3.1.0.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBridges-1.19.2-Forge-3.1.0.jar",
             "MD5": "80ce6fcaec88b65439319ce0fd429ce2"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -621,11 +652,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 406444,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionalon/YungsExtras-1.19.2-Forge-3.1.0.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsExtras-1.19.2-Forge-3.1.0.jar",
             "MD5": "95e19cc18b2ff87e2138100ef077e849"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
