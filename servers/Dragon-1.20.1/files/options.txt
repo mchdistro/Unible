@@ -1,0 +1,13 @@
+version:3465
+autoJump:false
+enableVsync:false
+particles:2
+renderClouds:"fast"
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+onboardAccessibility:false
+key_key.chat:key.keyboard.enter
+soundCategory_music:0.0
+soundCategory_weather:0.5
