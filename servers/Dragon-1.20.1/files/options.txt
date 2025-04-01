@@ -1,6 +1,7 @@
 version:3465
 autoJump:false
 enableVsync:false
+gamma:1.0
 particles:2
 renderClouds:"fast"
 lang:ko_kr

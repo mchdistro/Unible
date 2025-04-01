@@ -694,7 +694,6 @@
           "artifact": {
             "size": 296,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/files/config/oculus.properties",
-            "MD5": "53723802cb69d7e2d09e066d0b76ac5d",
             "path": "config/oculus.properties"
           }
         },
@@ -703,9 +702,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 266,
+            "size": 277,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/files/options.txt",
-            "MD5": "05a103d73f56b9c19cc30d878a28e76d",
             "path": "options.txt"
           }
         },
