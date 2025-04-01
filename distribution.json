@@ -8,196 +8,196 @@
   },
   "servers": [
     {
-      "id": "Dragon-1.19.2",
-      "name": "드래곤",
-      "description": "Minecraft 1.19.2 (Forge v43.4.0)",
+      "id": "Dragon-1.20.1",
+      "name": "드래곤(Minecraft 1.20.1)",
+      "description": "Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
       "version": "1.0.0",
       "address": "mc.gotiger.dev:25550",
-      "minecraftVersion": "1.19.2",
+      "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.19.2-43.4.0",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.0",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7374,
-            "MD5": "be3ff619a8976b4af4e159f55032fb9c",
-            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.19.2-43.4.0/lowcodelanguage-1.19.2-43.4.0.jar"
+            "size": 7399,
+            "MD5": "a839d5603a05491f84f6c36284ab0ea8",
+            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar"
           },
           "subModules": [
             {
-              "id": "1.19.2-43.4.0",
+              "id": "1.20.1-47.4.0",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 15497,
-                "MD5": "9c53b33e3ff6e00a7203e1dad743b91a",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.19.2-forge-43.4.0/1.19.2-forge-43.4.0.json"
+                "size": 16612,
+                "MD5": "029daa8b97e10cedd4d6726a563379ab",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.20.1-forge-47.4.0/1.20.1-forge-47.4.0.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.19.2-43.4.0",
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.0",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 113639,
-                "MD5": "c1d9687413a7ba4cb394b1920fd50891",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlcore/1.19.2-43.4.0/fmlcore-1.19.2-43.4.0.jar"
+                "size": 118914,
+                "MD5": "bc798cdec9ec7eeb3354b550d5e67652",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.19.2-43.4.0",
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.0",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16491,
-                "MD5": "c14e2d1e7a0ee907f4f10dd433413505",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.19.2-43.4.0/javafmllanguage-1.19.2-43.4.0.jar"
+                "size": 16855,
+                "MD5": "10ca1edc0a62ea799c4327bfc44e5ad6",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.19.2-43.4.0",
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.0",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4984,
-                "MD5": "78beda603b4135fd6d6c9e2d9ec9cdf5",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/mclanguage/1.19.2-43.4.0/mclanguage-1.19.2-43.4.0.jar"
+                "size": 4998,
+                "MD5": "cd3d6af64b394583aa83090915469f9e",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.19.2-43.4.0:universal",
+              "id": "net.minecraftforge:forge:1.20.1-47.4.0:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2715289,
-                "MD5": "bc3d9650b61f1e593d7136c26cb2cac9",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.19.2-43.4.0/forge-1.19.2-43.4.0-universal.jar"
+                "size": 2776081,
+                "MD5": "f373b63ab9bfe53f7b35aaa425afa136",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.19.2-43.4.0:client",
+              "id": "net.minecraftforge:forge:1.20.1-47.4.0:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 5419290,
-                "MD5": "108e83968d29d55c746567a3d0e511a7",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.19.2-43.4.0/forge-1.19.2-43.4.0-client.jar"
+                "size": 4826828,
+                "MD5": "1940b09c4b066287963bde17aa375cec",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-client.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.19.2-20220805.130853:srg",
+              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
               "name": "Minecraft Forge (client srg)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 17332865,
-                "MD5": "70476cb0e2de11b97d913169c3b9d5a8",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar"
+                "size": 18842082,
+                "MD5": "8bfacfba4f54cda741019756165c5ecf",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.19.2-20220805.130853:slim",
+              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
               "name": "Minecraft Forge (client slim)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 11637719,
-                "MD5": "7ae1ac1daf86584f93ae83dd916d3bdb",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar"
+                "size": 12592249,
+                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.19.2-20220805.130853:extra",
+              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
               "name": "Minecraft Forge (client extra)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 10007043,
-                "MD5": "3014cfce92de3aff55cc50908a510051",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar"
+                "size": 10436626,
+                "MD5": "da6bb1a2c23108392fd6c103da40867c",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
             {
-              "id": "cpw.mods:securejarhandler:2.1.4",
+              "id": "cpw.mods:securejarhandler:2.1.10",
               "name": "Minecraft Forge (securejarhandler)",
               "type": "Library",
               "artifact": {
-                "size": 87315,
-                "MD5": "b49ceccef2c091769f134c47c108cb8b",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar"
+                "size": 88749,
+                "MD5": "d9ff48d1c68388270388b803fa42611e",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.7",
+              "id": "org.ow2.asm:asm:9.7.1",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 125428,
-                "MD5": "3957b18bf02a62edcb6726d074b90b08",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.7",
+              "id": "org.ow2.asm:asm-commons:9.7.1",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 73426,
-                "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.7",
+              "id": "org.ow2.asm:asm-tree:9.7.1",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 51934,
-                "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.7",
+              "id": "org.ow2.asm:asm-util:9.7.1",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 93784,
-                "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.7",
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 34776,
-                "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -221,43 +221,43 @@
               }
             },
             {
-              "id": "net.minecraftforge:eventbus:6.0.3",
+              "id": "net.minecraftforge:eventbus:6.0.5",
               "name": "Minecraft Forge (eventbus)",
               "type": "Library",
               "artifact": {
-                "size": 52624,
-                "MD5": "7c93693a70962a1c1893e3c058dca5cf",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar"
+                "size": 53985,
+                "MD5": "2a6245210b446b2144071e71ca13432b",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
-              "id": "net.minecraftforge:forgespi:6.0.0",
+              "id": "net.minecraftforge:forgespi:7.0.1",
               "name": "Minecraft Forge (forgespi)",
               "type": "Library",
               "artifact": {
-                "size": 32714,
-                "MD5": "8c04b8c26ac1d55c281bfeaa71731414",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar"
+                "size": 29831,
+                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
-              "id": "net.minecraftforge:coremods:5.0.1",
+              "id": "net.minecraftforge:coremods:5.2.4",
               "name": "Minecraft Forge (coremods)",
               "type": "Library",
               "artifact": {
-                "size": 24199,
-                "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+                "size": 31872,
+                "MD5": "5295505357ba9b98450c5e3121f82191",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
               }
             },
             {
-              "id": "cpw.mods:modlauncher:10.0.8",
+              "id": "cpw.mods:modlauncher:10.0.9",
               "name": "Minecraft Forge (modlauncher)",
               "type": "Library",
               "artifact": {
-                "size": 130263,
-                "MD5": "3e171edcc29e762d2ecafffabb9e9341",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar"
+                "size": 130343,
+                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -268,6 +268,16 @@
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
                 "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:mergetool:1.1.5:api",
+              "name": "Minecraft Forge (mergetool)",
+              "type": "Library",
+              "artifact": {
+                "size": 2572,
+                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -301,13 +311,13 @@
               }
             },
             {
-              "id": "net.jodah:typetools:0.8.3",
+              "id": "net.jodah:typetools:0.6.3",
               "name": "Minecraft Forge (typetools)",
               "type": "Library",
               "artifact": {
-                "size": 15425,
-                "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "size": 18281,
+                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -351,33 +361,33 @@
               }
             },
             {
-              "id": "org.openjdk.nashorn:nashorn-core:15.3",
+              "id": "org.openjdk.nashorn:nashorn-core:15.4",
               "name": "Minecraft Forge (nashorn-core)",
               "type": "Library",
               "artifact": {
-                "size": 2167288,
-                "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "size": 2167292,
+                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
               }
             },
             {
-              "id": "net.minecraftforge:JarJarSelector:0.3.16",
+              "id": "net.minecraftforge:JarJarSelector:0.3.19",
               "name": "Minecraft Forge (JarJarSelector)",
               "type": "Library",
               "artifact": {
                 "size": 17374,
-                "MD5": "5e859d6320cb16055febaedacb8b9806",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.16/JarJarSelector-0.3.16.jar"
+                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
-              "id": "net.minecraftforge:JarJarMetadata:0.3.16",
+              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
               "name": "Minecraft Forge (JarJarMetadata)",
               "type": "Library",
               "artifact": {
-                "size": 15242,
-                "MD5": "332b118877d33c715f3ee67b75bffdd7",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.16/JarJarMetadata-0.3.16.jar"
+                "size": 15895,
+                "MD5": "9633546d299d4282ca68d10582be1c8f",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -391,1230 +401,300 @@
               }
             },
             {
-              "id": "net.minecraftforge:JarJarFileSystems:0.3.16",
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
               "name": "Minecraft Forge (JarJarFileSystems)",
               "type": "Library",
               "artifact": {
-                "size": 32052,
-                "MD5": "f4efd51f520cb4c98483c040bdc58aab",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar"
+                "size": 32195,
+                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.19.2-43.4.0",
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.0",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 261210,
-                "MD5": "2e2f05cc5404c1771d5edb9ccc8d608a",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlloader/1.19.2-43.4.0/fmlloader-1.19.2-43.4.0.jar"
+                "size": 267079,
+                "MD5": "5b26aba9f44796d54094022c1e73a49e",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.0/fmlloader-1.20.1-47.4.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.0",
+              "name": "Minecraft Forge (fmlearlydisplay)",
+              "type": "Library",
+              "artifact": {
+                "size": 170517,
+                "MD5": "68747d96f635b0a0dc9e070d3596a562",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar"
               }
             }
           ]
         },
         {
-          "id": "com.github.alexthe666:citadel:2.1.4@jar",
+          "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
+          "name": "CaramelChat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 348530,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/optionalon/caramelChat-mc1.20.1-forge-1.2.0.jar",
+            "MD5": "5d362f779efdb0384f8b43815fd46e0c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:2.6.1@jar",
           "name": "Citadel",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3063232,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/required/citadel-2.1.4-1.19.jar",
-            "MD5": "5271cd9beb2675bd9fd76ed14a66e763"
+            "size": 3173637,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/citadel-2.6.1-1.20.1.jar",
+            "MD5": "d7c8be4b34cfd4db20ad1747b122d07c"
           }
         },
         {
-          "id": "com.cupboard:cupboard:1.19.2-2.6@jar",
+          "id": "com.cupboard:cupboard:1.20.1-2.7@jar",
           "name": "Cupboard utilities",
           "type": "ForgeMod",
           "artifact": {
-            "size": 24766,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/required/cupboard-1.19.2-2.6.jar",
-            "MD5": "231038e00de6b3bce6e7a47712045017"
+            "size": 25983,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
+            "MD5": "3620912474f47bf58d1fe5bfe133763a"
           }
         },
         {
-          "id": "com.dragonfight:dragonfight:1.19.2-4.4@jar",
-          "name": "Dragonfight mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 34339,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/dragonfight-1.19.2-4.4.jar",
-            "MD5": "2fbeddb0b2aadb63a9f8597275de6a61"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
-          "id": "com.github.alexthe666:iceandfire:1.19.2-2.1.13+build.beta-3@jar",
+          "id": "com.github.alexthe666:iceandfire:2.1.13-1.20.1@jar",
           "name": "Ice and Fire",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21620315,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/required/iceandfire-1.19.2-2.1.13-beta-3.jar",
-            "MD5": "32d8f8ee56ecce9b923b5f51556a1a19"
+            "size": 21854126,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/iceandfire-2.1.13-1.20.1-beta-5.jar",
+            "MD5": "cadbfab46fa1b02f9a9b09fa5cf86803"
           }
         },
         {
-          "id": "mezz.jei:jei:11.8.1.1034@jar",
+          "id": "net.raphimc:immediatelyfast:1.5.0+1.20.4@jar",
+          "name": "ImmediatelyFast",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 428350,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/optionalon/ImmediatelyFast-Forge-1.5.0+1.20.4.jar",
+            "MD5": "c46791160a43bc35040f8f947e959024"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.20.0.106@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1177872,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/required/jei-1.19.2-forge-11.8.1.1034.jar",
-            "MD5": "98d31def2ac964ae99575ccb329d8538"
+            "size": 1379220,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.106.jar",
+            "MD5": "245af433575aef3a47ae73492196018f"
           }
         },
         {
-          "id": "journeymap:journeymap:5.9.8@jar",
+          "id": "journeymap:journeymap:5.10.3@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7091961,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/required/journeymap-1.19.2-5.9.8-forge.jar",
-            "MD5": "b4feb9a30457ccdc33c6c4c201a79244"
+            "size": 7160406,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
           }
         },
         {
-          "id": "net.coderbot.iris:oculus:1.6.9a@jar",
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.20.2+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 821631,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/modernfix-forge-5.20.2+mc1.20.1.jar",
+            "MD5": "05ba904400eb9505f619689b0f5a220c"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3503720,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/required/oculus-mc1.19.2-1.6.9a.jar",
-            "MD5": "9d41127433fdeb778e51658fb9696a8a"
+            "size": 2851119,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
+          },
+          "required": {
+            "value": false
           }
         },
         {
-          "id": "me.jellysquid.mods.sodium.client:rubidium:0.6.2c@jar",
+          "id": "me.jellysquid.mods.sodium.client:rubidium:0.7.1@jar",
           "name": "Rubidium",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1407451,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/required/rubidium-mc1.19.2-0.6.2c.jar",
-            "MD5": "b9d54d5171598463ef4456083eeb3ce8"
+            "size": 704856,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/optionalon/rubidium-mc1.20.1-0.7.1.jar",
+            "MD5": "5a6a9dbad21f4d67f967c6ce369ecb0e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
-          "id": "com.tiviacz:travelersbackpack:8.2.41@jar",
+          "id": "com.tiviacz:travelersbackpack:9.1.34@jar",
           "name": "Traveler's Backpack",
           "type": "ForgeMod",
           "artifact": {
-            "size": 891873,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/required/travelersbackpack-forge-1.19.2-8.2.41.jar",
-            "MD5": "c6dda7d69e67904563ef1de3e4ee35c4"
+            "size": 1161488,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/travelersbackpack-forge-1.20.1-9.1.34.jar",
+            "MD5": "d1701365307b87dee0a8da1c4316c141"
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:yungsapi:1.19.2-Forge-3.8.10@jar",
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Forge-4.0.6@jar",
           "name": "YUNG's API",
           "type": "ForgeMod",
           "artifact": {
-            "size": 293336,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsApi-1.19.2-Forge-3.8.10.jar",
-            "MD5": "d49eb0504b00d99320588c681535dcc3"
-          },
-          "required": {
-            "value": false,
-            "def": false
+            "size": 370524,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
+            "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c"
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:betterdeserttemples:1.19.2-Forge-2.2.2@jar",
+          "id": "com.yungnickyoung.minecraft:betterdeserttemples:1.20-Forge-3.0.3@jar",
           "name": "YUNG's Better Desert Temples",
           "type": "ForgeMod",
           "artifact": {
-            "size": 986299,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar",
-            "MD5": "94d1f62e9247c0f9ffe4aca5eb2eaad5"
-          },
-          "required": {
-            "value": false,
-            "def": false
+            "size": 918012,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+            "MD5": "183e2c817e9094ce215c9e70c114825f"
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:betterdungeons:1.19.2-Forge-3.2.2@jar",
+          "id": "com.yungnickyoung.minecraft:betterdungeons:1.20-Forge-4.0.4@jar",
           "name": "YUNG's Better Dungeons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 997998,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterDungeons-1.19.2-Forge-3.2.2.jar",
-            "MD5": "23c0c4dda050b0ac7b3893f6081d925d"
-          },
-          "required": {
-            "value": false,
-            "def": false
+            "size": 792381,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+            "MD5": "2de2f1be8f528ad139003bb5c73d49f3"
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:betterendisland:1.19.2-Forge-1.0@jar",
+          "id": "com.yungnickyoung.minecraft:betterdungeons:1.20-Forge-4.0.4@jar",
+          "name": "YUNG's Better Dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 792381,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/YungsBetterDungeons-1.20-Forge-4.0.4%20(1).jar",
+            "MD5": "2de2f1be8f528ad139003bb5c73d49f3"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterendisland:1.20-Forge-2.0.6@jar",
           "name": "YUNG's Better End Island",
           "type": "ForgeMod",
           "artifact": {
-            "size": 636740,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterEndIsland-1.19.2-Forge-1.0.jar",
-            "MD5": "91f6a4f40c2e354a7bf11a63cd8cd622"
-          },
-          "required": {
-            "value": false,
-            "def": false
+            "size": 387111,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+            "MD5": "7f5ed661e5478668a91ea199fba75fb3"
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:betterjungletemples:1.19.2-Forge-1.0.1@jar",
+          "id": "com.yungnickyoung.minecraft:betterjungletemples:1.20-Forge-2.0.5@jar",
           "name": "YUNG's Better Jungle Temples",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1268117,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterJungleTemples-1.19.2-Forge-1.0.1.jar",
-            "MD5": "a53333f9c22cc4d9171f5d522c10ef76"
-          },
-          "required": {
-            "value": false,
-            "def": false
+            "size": 806652,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+            "MD5": "abf4f9ef692311aef1eccb98bcee8956"
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:bettermineshafts:1.19.2-Forge-3.2.1@jar",
+          "id": "com.yungnickyoung.minecraft:bettermineshafts:1.20-Forge-4.0.4@jar",
           "name": "YUNG's Better Mineshafts",
           "type": "ForgeMod",
           "artifact": {
-            "size": 273478,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar",
-            "MD5": "e33f9e1cd9936cd6371f759f15470d9d"
-          },
-          "required": {
-            "value": false,
-            "def": false
+            "size": 492998,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+            "MD5": "fe8d205c98cb02840d46646fb7cf5ab8"
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:betterfortresses:1.19.2-Forge-1.0.6@jar",
+          "id": "com.yungnickyoung.minecraft:betterfortresses:1.20-Forge-2.0.6@jar",
           "name": "YUNG's Better Nether Fortresses",
           "type": "ForgeMod",
           "artifact": {
-            "size": 820449,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar",
-            "MD5": "6bd55703a87dd8493412bca8bbfc459e"
-          },
-          "required": {
-            "value": false,
-            "def": false
+            "size": 619255,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+            "MD5": "8f0011690923efb6e2d59514181f0bc9"
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:betterstrongholds:1.19.2-Forge-3.2.0@jar",
+          "id": "com.yungnickyoung.minecraft:betterstrongholds:1.20-Forge-4.0.3@jar",
           "name": "YUNG's Better Strongholds",
           "type": "ForgeMod",
           "artifact": {
-            "size": 409767,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar",
-            "MD5": "daa46493c03703aa9f6994548b43518f"
-          },
-          "required": {
-            "value": false,
-            "def": false
+            "size": 473564,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+            "MD5": "8c00ed5d2bab232040a1d4d0ef746ae6"
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:betterwitchhuts:1.19.2-Forge-2.1.0@jar",
+          "id": "com.yungnickyoung.minecraft:betterwitchhuts:1.20-Forge-3.0.3@jar",
           "name": "YUNG's Better Witch Huts",
           "type": "ForgeMod",
           "artifact": {
-            "size": 241850,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar",
-            "MD5": "352e986c69027ba98cff3f87d8358fcc"
-          },
-          "required": {
-            "value": false,
-            "def": false
+            "size": 179190,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+            "MD5": "cb6d73e271fdfb2e8698b7c6bd9df0d9"
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:yungsbridges:1.19.2-Forge-3.1.0@jar",
-          "name": "YUNG's Bridges",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 379125,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsBridges-1.19.2-Forge-3.1.0.jar",
-            "MD5": "80ce6fcaec88b65439319ce0fd429ce2"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
-          "id": "com.yungnickyoung.minecraft:yungsextras:1.19.2-Forge-3.1.0@jar",
+          "id": "com.yungnickyoung.minecraft:yungsextras:1.20-Forge-4.0.3@jar",
           "name": "YUNG's Extras",
           "type": "ForgeMod",
           "artifact": {
-            "size": 406444,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/forgemods/optionaloff/YungsExtras-1.19.2-Forge-3.1.0.jar",
-            "MD5": "95e19cc18b2ff87e2138100ef077e849"
-          },
-          "required": {
-            "value": false,
-            "def": false
+            "size": 200341,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/YungsExtras-1.20-Forge-4.0.3.jar",
+            "MD5": "6a592ed7502e13d840fa25587325202d"
           }
         },
         {
-          "id": "armorstands.json",
-          "name": "armorstands.json",
+          "id": "servers.dat",
+          "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 1104,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterdeserttemples/forge-1_19/armorstands.json",
-            "MD5": "1525da9db0fe2b61c39c0b72dd1b219d",
-            "path": "config/betterdeserttemples/forge-1_19/armorstands.json"
+            "size": 66,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/files/servers.dat",
+            "MD5": "b32268c0981fc4b98c716ebea7b1e918",
+            "path": "servers.dat"
           }
         },
         {
-          "id": "itemframes.json",
-          "name": "itemframes.json",
+          "id": "Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+          "name": "Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
           "type": "File",
           "artifact": {
-            "size": 614,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterdeserttemples/forge-1_19/itemframes.json",
-            "MD5": "32e5bfa44bafcd8069f13bcee5988ad2",
-            "path": "config/betterdeserttemples/forge-1_19/itemframes.json"
+            "size": 1669167,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/files/shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+            "MD5": "fb757db17e378d3174611d4d0698280d",
+            "path": "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip"
           }
         },
         {
-          "id": "README.txt",
-          "name": "README.txt",
+          "id": "ComplementaryUnbound_r5.4.zip",
+          "name": "ComplementaryUnbound_r5.4.zip",
           "type": "File",
           "artifact": {
-            "size": 1683,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterdeserttemples/forge-1_19/README.txt",
-            "MD5": "ca46ae3cbbc0d993e6c5f4b78e3abad4",
-            "path": "config/betterdeserttemples/forge-1_19/README.txt"
-          }
-        },
-        {
-          "id": "README.txt",
-          "name": "README.txt",
-          "type": "File",
-          "artifact": {
-            "size": 722,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterdeserttemples/README.txt",
-            "MD5": "058aefa47551a5e105df5613d6d24ea7",
-            "path": "config/betterdeserttemples/README.txt"
-          }
-        },
-        {
-          "id": "betterdeserttemples-forge-1_19.toml",
-          "name": "betterdeserttemples-forge-1_19.toml",
-          "type": "File",
-          "artifact": {
-            "size": 618,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterdeserttemples-forge-1_19.toml",
-            "MD5": "27016896345c37eb7cde4df36bfa8b23",
-            "path": "config/betterdeserttemples-forge-1_19.toml"
-          }
-        },
-        {
-          "id": "betterdungeons-forge-1_19.toml",
-          "name": "betterdungeons-forge-1_19.toml",
-          "type": "File",
-          "artifact": {
-            "size": 3486,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterdungeons-forge-1_19.toml",
-            "MD5": "9855cf19509981af8a96f9dc11eae9da",
-            "path": "config/betterdungeons-forge-1_19.toml"
-          }
-        },
-        {
-          "id": "itemframes.json",
-          "name": "itemframes.json",
-          "type": "File",
-          "artifact": {
-            "size": 901,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterfortresses/forge-1_19/itemframes.json",
-            "MD5": "dbec12a509e8ae8a217d191407654feb",
-            "path": "config/betterfortresses/forge-1_19/itemframes.json"
-          }
-        },
-        {
-          "id": "README.txt",
-          "name": "README.txt",
-          "type": "File",
-          "artifact": {
-            "size": 1339,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterfortresses/forge-1_19/README.txt",
-            "MD5": "77f5c32923f20baf9ee380e7c1c24b1c",
-            "path": "config/betterfortresses/forge-1_19/README.txt"
-          }
-        },
-        {
-          "id": "README.txt",
-          "name": "README.txt",
-          "type": "File",
-          "artifact": {
-            "size": 871,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterfortresses/README.txt",
-            "MD5": "eceef9412a301d8cac9d2c98b2a2256f",
-            "path": "config/betterfortresses/README.txt"
-          }
-        },
-        {
-          "id": "betterfortresses-forge-1_19.toml",
-          "name": "betterfortresses-forge-1_19.toml",
-          "type": "File",
-          "artifact": {
-            "size": 468,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterfortresses-forge-1_19.toml",
-            "MD5": "7882d065dfd197ea7c6f644236548d53",
-            "path": "config/betterfortresses-forge-1_19.toml"
-          }
-        },
-        {
-          "id": "betterjungletemples-forge-1_19_2.toml",
-          "name": "betterjungletemples-forge-1_19_2.toml",
-          "type": "File",
-          "artifact": {
-            "size": 126,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterjungletemples-forge-1_19_2.toml",
-            "MD5": "1da790b268e12ea41fcec9645eaacb16",
-            "path": "config/betterjungletemples-forge-1_19_2.toml"
-          }
-        },
-        {
-          "id": "README.txt",
-          "name": "README.txt",
-          "type": "File",
-          "artifact": {
-            "size": 371,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/bettermineshafts/forge-1_19/README.txt",
-            "MD5": "5647700e33f8e542fb4e6522f6304236",
-            "path": "config/bettermineshafts/forge-1_19/README.txt"
-          }
-        },
-        {
-          "id": "README.txt",
-          "name": "README.txt",
-          "type": "File",
-          "artifact": {
-            "size": 682,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/bettermineshafts/README.txt",
-            "MD5": "5defcfb450fb63ff9893aed4dd4edbd9",
-            "path": "config/bettermineshafts/README.txt"
-          }
-        },
-        {
-          "id": "bettermineshafts-forge-1_19.toml",
-          "name": "bettermineshafts-forge-1_19.toml",
-          "type": "File",
-          "artifact": {
-            "size": 3773,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/bettermineshafts-forge-1_19.toml",
-            "MD5": "5d8c354b2a62e7a4cb40f52696fcc972",
-            "path": "config/bettermineshafts-forge-1_19.toml"
-          }
-        },
-        {
-          "id": "armorstands.json",
-          "name": "armorstands.json",
-          "type": "File",
-          "artifact": {
-            "size": 1131,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterstrongholds/forge-1_19/armorstands.json",
-            "MD5": "c3a16ef6d876d49c05da7fe90ec71a5c",
-            "path": "config/betterstrongholds/forge-1_19/armorstands.json"
-          }
-        },
-        {
-          "id": "itemframes.json",
-          "name": "itemframes.json",
-          "type": "File",
-          "artifact": {
-            "size": 680,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterstrongholds/forge-1_19/itemframes.json",
-            "MD5": "0cb89f2c05ebf03f1a210beabea61ca8",
-            "path": "config/betterstrongholds/forge-1_19/itemframes.json"
-          }
-        },
-        {
-          "id": "ores.json",
-          "name": "ores.json",
-          "type": "File",
-          "artifact": {
-            "size": 346,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterstrongholds/forge-1_19/ores.json",
-            "MD5": "3fd13aa38ee82591f3edb1e0dd5afa0a",
-            "path": "config/betterstrongholds/forge-1_19/ores.json"
-          }
-        },
-        {
-          "id": "rareblocks.json",
-          "name": "rareblocks.json",
-          "type": "File",
-          "artifact": {
-            "size": 238,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterstrongholds/forge-1_19/rareblocks.json",
-            "MD5": "be9e9b1ff631d20c5ce89b47a6c14ddd",
-            "path": "config/betterstrongholds/forge-1_19/rareblocks.json"
-          }
-        },
-        {
-          "id": "README.txt",
-          "name": "README.txt",
-          "type": "File",
-          "artifact": {
-            "size": 2830,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterstrongholds/forge-1_19/README.txt",
-            "MD5": "38d8610721769459e29aa78954bca2d7",
-            "path": "config/betterstrongholds/forge-1_19/README.txt"
-          }
-        },
-        {
-          "id": "README.txt",
-          "name": "README.txt",
-          "type": "File",
-          "artifact": {
-            "size": 707,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterstrongholds/README.txt",
-            "MD5": "9c87e3750c4f479deef3c9ae7c3fabb9",
-            "path": "config/betterstrongholds/README.txt"
-          }
-        },
-        {
-          "id": "betterstrongholds-forge-1_19.toml",
-          "name": "betterstrongholds-forge-1_19.toml",
-          "type": "File",
-          "artifact": {
-            "size": 813,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterstrongholds-forge-1_19.toml",
-            "MD5": "318ea1867c399423ae69f7a3c1c0abf8",
-            "path": "config/betterstrongholds-forge-1_19.toml"
-          }
-        },
-        {
-          "id": "betterwitchhuts-forge-1_19.toml",
-          "name": "betterwitchhuts-forge-1_19.toml",
-          "type": "File",
-          "artifact": {
-            "size": 440,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/betterwitchhuts-forge-1_19.toml",
-            "MD5": "5ec17c67ccc3bb9f524bf3a30a03be3f",
-            "path": "config/betterwitchhuts-forge-1_19.toml"
-          }
-        },
-        {
-          "id": "citadel-common.toml",
-          "name": "citadel-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 648,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/citadel-common.toml",
-            "MD5": "f211eac94129201b25acdeee49218d43",
-            "path": "config/citadel-common.toml"
-          }
-        },
-        {
-          "id": "cupboard.json",
-          "name": "cupboard.json",
-          "type": "File",
-          "artifact": {
-            "size": 683,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/cupboard.json",
-            "MD5": "89d3c27f5d5a6b10901a1f91761c564a",
-            "path": "config/cupboard.json"
-          }
-        },
-        {
-          "id": "dragonfight.json",
-          "name": "dragonfight.json",
-          "type": "File",
-          "artifact": {
-            "size": 2208,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/dragonfight.json",
-            "MD5": "cf0946034a7d243bb4d8647904f69d86",
-            "path": "config/dragonfight.json"
-          }
-        },
-        {
-          "id": "fml.toml",
-          "name": "fml.toml",
-          "type": "File",
-          "artifact": {
-            "size": 309,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/fml.toml",
-            "MD5": "5829888c0be966fa241b4e7bbf274dce",
-            "path": "config/fml.toml"
-          }
-        },
-        {
-          "id": "forge-client.toml",
-          "name": "forge-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 878,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/forge-client.toml",
-            "MD5": "97401cc1dce4ef7a382b89953c8e6b90",
-            "path": "config/forge-client.toml"
-          }
-        },
-        {
-          "id": "forge-common.toml",
-          "name": "forge-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 566,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/forge-common.toml",
-            "MD5": "74719f4a0ed1e053a9ffad049ace6325",
-            "path": "config/forge-common.toml"
-          }
-        },
-        {
-          "id": "forge-resource-caching.toml",
-          "name": "forge-resource-caching.toml",
-          "type": "File",
-          "artifact": {
-            "size": 637,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/forge-resource-caching.toml",
-            "MD5": "10be5650c065e0013517d49833889d94",
-            "path": "config/forge-resource-caching.toml"
-          }
-        },
-        {
-          "id": "amphithere_biomes.json",
-          "name": "amphithere_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 767,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/amphithere_biomes.json",
-            "MD5": "7f65e1eea64b0ce81b2e982a266ac3e1",
-            "path": "config/iceandfire/amphithere_biomes.json"
-          }
-        },
-        {
-          "id": "cockatrice_biomes.json",
-          "name": "cockatrice_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 907,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/cockatrice_biomes.json",
-            "MD5": "e492fff25200e1ca641de208ae40593c",
-            "path": "config/iceandfire/cockatrice_biomes.json"
-          }
-        },
-        {
-          "id": "cyclops_cave_biomes.json",
-          "name": "cyclops_cave_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 610,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/cyclops_cave_biomes.json",
-            "MD5": "c396d1ee4812565788a5f3db1bc11e98",
-            "path": "config/iceandfire/cyclops_cave_biomes.json"
-          }
-        },
-        {
-          "id": "deathworm_biomes.json",
-          "name": "deathworm_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 1369,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/deathworm_biomes.json",
-            "MD5": "1ebce8c26f686df1db9e6159d9cf856f",
-            "path": "config/iceandfire/deathworm_biomes.json"
-          }
-        },
-        {
-          "id": "desert_myrmex_biomes.json",
-          "name": "desert_myrmex_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 1369,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/desert_myrmex_biomes.json",
-            "MD5": "1ebce8c26f686df1db9e6159d9cf856f",
-            "path": "config/iceandfire/desert_myrmex_biomes.json"
-          }
-        },
-        {
-          "id": "fire_dragon_biomes.json",
-          "name": "fire_dragon_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 2113,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/fire_dragon_biomes.json",
-            "MD5": "137a6179c1db3fced175589bd9d2e935",
-            "path": "config/iceandfire/fire_dragon_biomes.json"
-          }
-        },
-        {
-          "id": "fire_dragon_cave_biomes.json",
-          "name": "fire_dragon_cave_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 2113,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/fire_dragon_cave_biomes.json",
-            "MD5": "137a6179c1db3fced175589bd9d2e935",
-            "path": "config/iceandfire/fire_dragon_cave_biomes.json"
-          }
-        },
-        {
-          "id": "fire_dragon_skeleton_biomes.json",
-          "name": "fire_dragon_skeleton_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 1369,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/fire_dragon_skeleton_biomes.json",
-            "MD5": "1ebce8c26f686df1db9e6159d9cf856f",
-            "path": "config/iceandfire/fire_dragon_skeleton_biomes.json"
-          }
-        },
-        {
-          "id": "fire_lily_biomes.json",
-          "name": "fire_lily_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 277,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/fire_lily_biomes.json",
-            "MD5": "5fa444eee38addb87c6901233aa4bb79",
-            "path": "config/iceandfire/fire_lily_biomes.json"
-          }
-        },
-        {
-          "id": "forest_troll_biomes.json",
-          "name": "forest_troll_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 255,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/forest_troll_biomes.json",
-            "MD5": "8645141c4fb7a8520d7024abc8d77144",
-            "path": "config/iceandfire/forest_troll_biomes.json"
-          }
-        },
-        {
-          "id": "frost_lily_biomes.json",
-          "name": "frost_lily_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 624,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/frost_lily_biomes.json",
-            "MD5": "d5abdffe41f381661f6760f644f49ceb",
-            "path": "config/iceandfire/frost_lily_biomes.json"
-          }
-        },
-        {
-          "id": "gorgon_temple_biomes.json",
-          "name": "gorgon_temple_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 610,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/gorgon_temple_biomes.json",
-            "MD5": "c396d1ee4812565788a5f3db1bc11e98",
-            "path": "config/iceandfire/gorgon_temple_biomes.json"
-          }
-        },
-        {
-          "id": "graveyard_biomes.json",
-          "name": "graveyard_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 467,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/graveyard_biomes.json",
-            "MD5": "8aad3ab2466e50e35a014cd0b8b971c4",
-            "path": "config/iceandfire/graveyard_biomes.json"
-          }
-        },
-        {
-          "id": "hippocampus_biomes.json",
-          "name": "hippocampus_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 254,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/hippocampus_biomes.json",
-            "MD5": "fdc28e3f4a8ae1594cc7e56e112282e1",
-            "path": "config/iceandfire/hippocampus_biomes.json"
-          }
-        },
-        {
-          "id": "hippogryph_biomes.json",
-          "name": "hippogryph_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 855,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/hippogryph_biomes.json",
-            "MD5": "607a83fcd92489ffe629c9630d5f242d",
-            "path": "config/iceandfire/hippogryph_biomes.json"
-          }
-        },
-        {
-          "id": "hippogryph_black_biomes.json",
-          "name": "hippogryph_black_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 279,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/hippogryph_black_biomes.json",
-            "MD5": "0f88db708f65a8d662b84f0df2c2370e",
-            "path": "config/iceandfire/hippogryph_black_biomes.json"
-          }
-        },
-        {
-          "id": "hippogryph_brown_biomes.json",
-          "name": "hippogryph_brown_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 486,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/hippogryph_brown_biomes.json",
-            "MD5": "5c9d096ec1bef1fd91fd1b64c7a2c85a",
-            "path": "config/iceandfire/hippogryph_brown_biomes.json"
-          }
-        },
-        {
-          "id": "hippogryph_chestnut_biomes.json",
-          "name": "hippogryph_chestnut_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 601,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/hippogryph_chestnut_biomes.json",
-            "MD5": "43ce8581248fe3edb241da1ceccdd996",
-            "path": "config/iceandfire/hippogryph_chestnut_biomes.json"
-          }
-        },
-        {
-          "id": "hippogryph_creamy_biomes.json",
-          "name": "hippogryph_creamy_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 286,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/hippogryph_creamy_biomes.json",
-            "MD5": "d1d2f88b1f880497028cf8053fcde1b0",
-            "path": "config/iceandfire/hippogryph_creamy_biomes.json"
-          }
-        },
-        {
-          "id": "hippogryph_dark_brown_biomes.json",
-          "name": "hippogryph_dark_brown_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 1050,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/hippogryph_dark_brown_biomes.json",
-            "MD5": "86b897ce039077b967baf059e2daca1a",
-            "path": "config/iceandfire/hippogryph_dark_brown_biomes.json"
-          }
-        },
-        {
-          "id": "hippogryph_gray_biomes.json",
-          "name": "hippogryph_gray_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 418,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/hippogryph_gray_biomes.json",
-            "MD5": "75f5303720b2c5425b4f95d636bf147a",
-            "path": "config/iceandfire/hippogryph_gray_biomes.json"
-          }
-        },
-        {
-          "id": "hippogryph_white_biomes.json",
-          "name": "hippogryph_white_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 1249,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/hippogryph_white_biomes.json",
-            "MD5": "2a5348c73480fbdb6a1969fdb424da63",
-            "path": "config/iceandfire/hippogryph_white_biomes.json"
-          }
-        },
-        {
-          "id": "hydra_cave_biomes.json",
-          "name": "hydra_cave_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 747,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/hydra_cave_biomes.json",
-            "MD5": "cd25cc30beaf737678aa8d58dd5e2d29",
-            "path": "config/iceandfire/hydra_cave_biomes.json"
-          }
-        },
-        {
-          "id": "ice_dragon_biomes.json",
-          "name": "ice_dragon_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 534,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/ice_dragon_biomes.json",
-            "MD5": "fe4e82bd1233c6392116013dda963f44",
-            "path": "config/iceandfire/ice_dragon_biomes.json"
-          }
-        },
-        {
-          "id": "ice_dragon_cave_biomes.json",
-          "name": "ice_dragon_cave_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 534,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/ice_dragon_cave_biomes.json",
-            "MD5": "fe4e82bd1233c6392116013dda963f44",
-            "path": "config/iceandfire/ice_dragon_cave_biomes.json"
-          }
-        },
-        {
-          "id": "ice_dragon_skeleton_biomes.json",
-          "name": "ice_dragon_skeleton_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 624,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/ice_dragon_skeleton_biomes.json",
-            "MD5": "d5abdffe41f381661f6760f644f49ceb",
-            "path": "config/iceandfire/ice_dragon_skeleton_biomes.json"
-          }
-        },
-        {
-          "id": "jungle_myrmex_biomes.json",
-          "name": "jungle_myrmex_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 767,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/jungle_myrmex_biomes.json",
-            "MD5": "7f65e1eea64b0ce81b2e982a266ac3e1",
-            "path": "config/iceandfire/jungle_myrmex_biomes.json"
-          }
-        },
-        {
-          "id": "lightning_dragon_biomes.json",
-          "name": "lightning_dragon_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 1748,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/lightning_dragon_biomes.json",
-            "MD5": "af77e7ade7ab572f9fb2378a26a30166",
-            "path": "config/iceandfire/lightning_dragon_biomes.json"
-          }
-        },
-        {
-          "id": "lightning_dragon_cave_biomes.json",
-          "name": "lightning_dragon_cave_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 1748,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/lightning_dragon_cave_biomes.json",
-            "MD5": "af77e7ade7ab572f9fb2378a26a30166",
-            "path": "config/iceandfire/lightning_dragon_cave_biomes.json"
-          }
-        },
-        {
-          "id": "lightning_dragon_skeleton_biomes.json",
-          "name": "lightning_dragon_skeleton_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 907,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/lightning_dragon_skeleton_biomes.json",
-            "MD5": "e492fff25200e1ca641de208ae40593c",
-            "path": "config/iceandfire/lightning_dragon_skeleton_biomes.json"
-          }
-        },
-        {
-          "id": "lightning_lily_biomes.json",
-          "name": "lightning_lily_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 907,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/lightning_lily_biomes.json",
-            "MD5": "e492fff25200e1ca641de208ae40593c",
-            "path": "config/iceandfire/lightning_lily_biomes.json"
-          }
-        },
-        {
-          "id": "mausoleum_biomes.json",
-          "name": "mausoleum_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 728,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/mausoleum_biomes.json",
-            "MD5": "fe18b4c2eebb60f3f45903954309adff",
-            "path": "config/iceandfire/mausoleum_biomes.json"
-          }
-        },
-        {
-          "id": "mountain_troll_biomes.json",
-          "name": "mountain_troll_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 486,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/mountain_troll_biomes.json",
-            "MD5": "5c9d096ec1bef1fd91fd1b64c7a2c85a",
-            "path": "config/iceandfire/mountain_troll_biomes.json"
-          }
-        },
-        {
-          "id": "ore_gen_biomes.json",
-          "name": "ore_gen_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 145,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/ore_gen_biomes.json",
-            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
-            "path": "config/iceandfire/ore_gen_biomes.json"
-          }
-        },
-        {
-          "id": "pixie_village_biomes.json",
-          "name": "pixie_village_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 2194,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/pixie_village_biomes.json",
-            "MD5": "3cff4b5b8b4204374671b7d98c55af6e",
-            "path": "config/iceandfire/pixie_village_biomes.json"
-          }
-        },
-        {
-          "id": "sapphire_gen_biomes.json",
-          "name": "sapphire_gen_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 624,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/sapphire_gen_biomes.json",
-            "MD5": "d5abdffe41f381661f6760f644f49ceb",
-            "path": "config/iceandfire/sapphire_gen_biomes.json"
-          }
-        },
-        {
-          "id": "sea_serpent_biomes.json",
-          "name": "sea_serpent_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 254,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/sea_serpent_biomes.json",
-            "MD5": "fdc28e3f4a8ae1594cc7e56e112282e1",
-            "path": "config/iceandfire/sea_serpent_biomes.json"
-          }
-        },
-        {
-          "id": "siren_biomes.json",
-          "name": "siren_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 254,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/siren_biomes.json",
-            "MD5": "fdc28e3f4a8ae1594cc7e56e112282e1",
-            "path": "config/iceandfire/siren_biomes.json"
-          }
-        },
-        {
-          "id": "snowy_troll_biomes.json",
-          "name": "snowy_troll_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 250,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/snowy_troll_biomes.json",
-            "MD5": "48171261e1dc6809cddb7c5bd301ffdd",
-            "path": "config/iceandfire/snowy_troll_biomes.json"
-          }
-        },
-        {
-          "id": "stymphalian_bird_biomes.json",
-          "name": "stymphalian_bird_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 747,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/stymphalian_bird_biomes.json",
-            "MD5": "cd25cc30beaf737678aa8d58dd5e2d29",
-            "path": "config/iceandfire/stymphalian_bird_biomes.json"
-          }
-        },
-        {
-          "id": "wandering_cyclops_biomes.json",
-          "name": "wandering_cyclops_biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 632,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire/wandering_cyclops_biomes.json",
-            "MD5": "6044cd1e67bce8cc520b98a7ecace3af",
-            "path": "config/iceandfire/wandering_cyclops_biomes.json"
-          }
-        },
-        {
-          "id": "iceandfire-client.toml",
-          "name": "iceandfire-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 320,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire-client.toml",
-            "MD5": "c776acdf46547dac5b992ad662c2c71f",
-            "path": "config/iceandfire-client.toml"
-          }
-        },
-        {
-          "id": "iceandfire-common.toml",
-          "name": "iceandfire-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 15912,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/iceandfire-common.toml",
-            "MD5": "40e4152c5acedea7ddd185b163e5fbab",
-            "path": "config/iceandfire-common.toml"
-          }
-        },
-        {
-          "id": "blacklist.cfg",
-          "name": "blacklist.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/jei/blacklist.cfg",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-            "path": "config/jei/blacklist.cfg"
-          }
-        },
-        {
-          "id": "ingredient-list-mod-sort-order.ini",
-          "name": "ingredient-list-mod-sort-order.ini",
-          "type": "File",
-          "artifact": {
-            "size": 25,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "e4ed642952d5cda1ad8b7baca9c477c4",
-            "path": "config/jei/ingredient-list-mod-sort-order.ini"
-          }
-        },
-        {
-          "id": "ingredient-list-type-sort-order.ini",
-          "name": "ingredient-list-type-sort-order.ini",
-          "type": "File",
-          "artifact": {
-            "size": 74,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/jei/ingredient-list-type-sort-order.ini",
-            "MD5": "9256ba0b170fac4934f83a4e789d14a8",
-            "path": "config/jei/ingredient-list-type-sort-order.ini"
-          }
-        },
-        {
-          "id": "jei-client.ini",
-          "name": "jei-client.ini",
-          "type": "File",
-          "artifact": {
-            "size": 4685,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/jei/jei-client.ini",
-            "MD5": "2d4ca700dece77f1dc99081101b40e84",
-            "path": "config/jei/jei-client.ini"
-          }
-        },
-        {
-          "id": "jei-colors.ini",
-          "name": "jei-colors.ini",
-          "type": "File",
-          "artifact": {
-            "size": 1337,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/jei/jei-colors.ini",
-            "MD5": "a23718add9e4884ca9d259aedd73161b",
-            "path": "config/jei/jei-colors.ini"
-          }
-        },
-        {
-          "id": "jei-debug.ini",
-          "name": "jei-debug.ini",
-          "type": "File",
-          "artifact": {
-            "size": 245,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/jei/jei-debug.ini",
-            "MD5": "93e6df80ab4be396571f42debfbd14b7",
-            "path": "config/jei/jei-debug.ini"
-          }
-        },
-        {
-          "id": "jei-mod-id-format.ini",
-          "name": "jei-mod-id-format.ini",
-          "type": "File",
-          "artifact": {
-            "size": 416,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/jei/jei-mod-id-format.ini",
-            "MD5": "d9df39bf869d7344ef78697b986e3b05",
-            "path": "config/jei/jei-mod-id-format.ini"
-          }
-        },
-        {
-          "id": "recipe-category-sort-order.ini",
-          "name": "recipe-category-sort-order.ini",
-          "type": "File",
-          "artifact": {
-            "size": 319,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/jei/recipe-category-sort-order.ini",
-            "MD5": "ddcbd179b6f538c3a01f8d08912fd68d",
-            "path": "config/jei/recipe-category-sort-order.ini"
-          }
-        },
-        {
-          "id": "bookmarks.ini",
-          "name": "bookmarks.ini",
-          "type": "File",
-          "artifact": {
-            "size": 37,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/jei/world/local/bookmarks.ini",
-            "MD5": "60faa8fc7e473e327ef3b620b8502bd9",
-            "path": "config/jei/world/local/bookmarks.ini"
-          }
-        },
-        {
-          "id": "oculus.properties",
-          "name": "oculus.properties",
-          "type": "File",
-          "artifact": {
-            "size": 268,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/oculus.properties",
-            "MD5": "56c24c9ed7d120967af4de98a52f3d3a",
-            "path": "config/oculus.properties"
-          }
-        },
-        {
-          "id": "rubidium-mixins.properties",
-          "name": "rubidium-mixins.properties",
-          "type": "File",
-          "artifact": {
-            "size": 268,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/rubidium-mixins.properties",
-            "MD5": "930aecb1937f8b4122ce63b01b1e5ad3",
-            "path": "config/rubidium-mixins.properties"
-          }
-        },
-        {
-          "id": "rubidium-options.json",
-          "name": "rubidium-options.json",
-          "type": "File",
-          "artifact": {
-            "size": 696,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/rubidium-options.json",
-            "MD5": "59da1f2d42f83dfd0db3d0f5cc6f1efa",
-            "path": "config/rubidium-options.json"
-          }
-        },
-        {
-          "id": "README.txt",
-          "name": "README.txt",
-          "type": "File",
-          "artifact": {
-            "size": 1359,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/YungsExtras/forge-1_19/README.txt",
-            "MD5": "cd8c7897487beb4b10d9f55e9593222b",
-            "path": "config/YungsExtras/forge-1_19/README.txt"
-          }
-        },
-        {
-          "id": "wishing_wells.json",
-          "name": "wishing_wells.json",
-          "type": "File",
-          "artifact": {
-            "size": 202,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/YungsExtras/forge-1_19/wishing_wells.json",
-            "MD5": "cb8d4facd114339e405669a0710e95e9",
-            "path": "config/YungsExtras/forge-1_19/wishing_wells.json"
-          }
-        },
-        {
-          "id": "README.txt",
-          "name": "README.txt",
-          "type": "File",
-          "artifact": {
-            "size": 625,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.19.2/files/config/YungsExtras/README.txt",
-            "MD5": "122b6447903ebb4f5e2e43f97926ef41",
-            "path": "config/YungsExtras/README.txt"
+            "size": 452408,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
+            "MD5": "94f56d5c5c343b9a0f4ad7eb135f9afa",
+            "path": "shaderpacks/ComplementaryUnbound_r5.4.zip"
           }
         }
       ]
