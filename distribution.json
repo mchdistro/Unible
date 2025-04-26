@@ -608,16 +608,6 @@
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:betterdungeons:1.20-Forge-4.0.4@jar",
-          "name": "YUNG's Better Dungeons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 792381,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/YungsBetterDungeons-1.20-Forge-4.0.4%20(1).jar",
-            "MD5": "2de2f1be8f528ad139003bb5c73d49f3"
-          }
-        },
-        {
           "id": "com.yungnickyoung.minecraft:betterendisland:1.20-Forge-2.0.6@jar",
           "name": "YUNG's Better End Island",
           "type": "ForgeMod",
