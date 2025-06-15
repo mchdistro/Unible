@@ -5,7 +5,7 @@
     "name": "럭키블럭 켠왕",
     "description": "Minecraft 1.21.4 (Fabric v0.16.14)",
     "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
-    "address": "mc.gotigerd.dev:25551",
+    "address": "mc.gotiger.dev:25551",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
