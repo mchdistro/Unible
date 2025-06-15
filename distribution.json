@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "Unible-1.21.4",
+      "id": "luckyblock-kyunwang-1.21.4",
       "name": "럭키블럭 켠왕",
       "description": "Minecraft 1.21.4 (Fabric v0.16.14)",
       "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11418,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
             "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2148367,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.4/fabricmods/required/fabric-api-0.119.3+1.21.4.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/fabric-api-0.119.3+1.21.4.jar",
             "MD5": "179994db46a00373614c47fb669d1dd3"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3514383,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
             "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 539319,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.3+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.3+mc1.21.3.jar",
             "MD5": "369e9cceabd11bb2d47d7e323b59a972"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 154830,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4.jar",
             "MD5": "1062016a1608823555c1bf16fafeb6cd"
           }
         },
@@ -191,7 +191,7 @@
           "type": "File",
           "artifact": {
             "size": 196,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.4/files/options.txt",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -201,7 +201,7 @@
           "type": "File",
           "artifact": {
             "size": 106,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.4/files/servers.dat",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/files/servers.dat",
             "MD5": "5866428c92e8de277f449f1f7715b057",
             "path": "servers.dat"
           }
