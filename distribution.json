@@ -186,16 +186,6 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 179,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Unible-1.21.4/files/options.txt",
-            "path": "options.txt"
-          }
-        },
-        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
