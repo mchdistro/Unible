@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 120710175,
-            "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/v77SHSXW/Cobblemon-fabric-1.6.1%2B1.21.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/Cobblemon-fabric-1.6.1+1.21.1.jar",
             "MD5": "cefe6ab687c39e1a7fe9b2bf96b09188"
           }
         },
@@ -191,83 +191,83 @@
       },
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.16.10",
+          "id": "net.fabricmc:fabric-loader:0.16.14",
           "name": "Fabric (fabric-loader)",
           "type": "Fabric",
           "artifact": {
-            "size": 1387408,
-            "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "size": 1416842,
+            "MD5": "e041ec21fad8f4dbd2ba7e73c25900d1",
+            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/fabricmc/fabric-loader/0.16.14/fabric-loader-0.16.14.jar"
           },
           "subModules": [
             {
-              "id": "1.21.1-fabric-0.16.10",
+              "id": "1.21.1-fabric-0.16.14",
               "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 2859,
-                "MD5": "e175a3647cdaa7601660e7a636a5be55",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.21.1-fabric-0.16.10/1.21.1-fabric-0.16.10.json"
+                "size": 2849,
+                "MD5": "0f43bd619bc0327834ed994a02b2318b",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.21.1-fabric-0.16.14/1.21.1-fabric-0.16.14.json"
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.7.1",
+              "id": "org.ow2.asm:asm:9.8",
               "name": "Fabric (asm)",
               "type": "Library",
               "artifact": {
-                "size": 126093,
-                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "size": 126113,
+                "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "id": "org.ow2.asm:asm-analysis:9.8",
               "name": "Fabric (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 35126,
-                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "size": 35151,
+                "MD5": "3d63508405f5610fc2ea673ff5471553",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.7.1",
+              "id": "org.ow2.asm:asm-commons:9.8",
               "name": "Fabric (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 73459,
-                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "size": 73498,
+                "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "id": "org.ow2.asm:asm-tree:9.8",
               "name": "Fabric (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 51939,
-                "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "size": 51934,
+                "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.7.1",
+              "id": "org.ow2.asm:asm-util:9.8",
               "name": "Fabric (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 94519,
-                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "size": 94559,
+                "MD5": "62498ef324bdab15f407d703f7d78d19",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
               }
             },
             {
-              "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
+              "id": "net.fabricmc:sponge-mixin:0.15.5+mixin.0.8.7",
               "name": "Fabric (sponge-mixin)",
               "type": "Library",
               "artifact": {
-                "size": 1494834,
-                "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "size": 1499194,
+                "MD5": "f810932fdff9aa436d7d4f4ac69ce8c2",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar"
               }
             },
             {
@@ -468,7 +468,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 120710175,
-            "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/v77SHSXW/Cobblemon-fabric-1.6.1%2B1.21.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/Cobblemon-fabric-1.6.1+1.21.1.jar",
             "MD5": "cefe6ab687c39e1a7fe9b2bf96b09188"
           }
         },
@@ -823,6 +823,16 @@
           }
         },
         {
+          "id": "mezz.jei:jei:19.22.0.315@jar",
+          "name": "Just Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1494045,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.22.0.315.jar",
+            "MD5": "7d09379bb6bce21c5fcd935bedc14103"
+          }
+        },
+        {
           "id": "de.keksuccino:konkrete:1.9.9@jar",
           "name": "Konkrete",
           "type": "FabricMod",
@@ -830,6 +840,16 @@
             "size": 786695,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/konkrete_fabric_1.9.9_MC_1.21.jar",
             "MD5": "287ee9cfc6015f706672fd8c20f5ef9c"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.8.5+mc1.21@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 567849,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/koreanpatch-fabric-1.8.5+mc1.21.jar",
+            "MD5": "c8b3245265bfcdfbd3d45328e870e7d8"
           }
         },
         {
