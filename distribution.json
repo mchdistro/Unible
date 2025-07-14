@@ -134,6 +134,36 @@
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/fabric-api-0.116.4+1.21.1.jar",
             "MD5": "aa1660d1af25eb18790182753f977615"
           }
+        },
+        {
+          "id": "mezz.jei:jei:19.22.0.315@jar",
+          "name": "Just Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1494045,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.22.0.315.jar",
+            "MD5": "7d09379bb6bce21c5fcd935bedc14103"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.1-6.0.0-beta.52@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3564300,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/journeymap-fabric-1.21.1-6.0.0-beta.52.jar",
+            "MD5": "30012982dc1580f49e3c1569dc059203"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.8.5+mc1.21@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 567849,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/koreanpatch-fabric-1.8.5+mc1.21.jar",
+            "MD5": "c8b3245265bfcdfbd3d45328e870e7d8"
+          }
         }
       ]
     }
