@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 120710175,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/Cobblemon-fabric-1.6.1+1.21.1.jar",
+            "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/v77SHSXW/Cobblemon-fabric-1.6.1%2B1.21.1.jar",
             "MD5": "cefe6ab687c39e1a7fe9b2bf96b09188"
           }
         },
@@ -468,7 +468,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 120710175,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/Cobblemon-fabric-1.6.1+1.21.1.jar",
+            "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/v77SHSXW/Cobblemon-fabric-1.6.1%2B1.21.1.jar",
             "MD5": "cefe6ab687c39e1a7fe9b2bf96b09188"
           }
         },
@@ -820,16 +820,6 @@
             "size": 2690177,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/iris-fabric-1.8.8+mc1.21.1.jar",
             "MD5": "1179fe09b9ba970e84ed59259adfe65a"
-          }
-        },
-        {
-          "id": "mezz.jei:jei:19.22.0.315@jar",
-          "name": "Just Enough Items",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1494045,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.22.0.315.jar",
-            "MD5": "7d09379bb6bce21c5fcd935bedc14103"
           }
         },
         {
