@@ -2,10 +2,10 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/Unible/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "럭키블럭 켠왕",
-    "description": "Minecraft 1.21.4 (Fabric v0.16.14)",
+    "name": "코블몬",
+    "description": "Minecraft 1.21.1 (Fabric v0.16.10)",
     "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
-    "address": "mc.gotiger.dev:25551",
+    "address": "mc.gotiger.dev:25550",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -15,12 +15,7 @@
     "autoconnect": true
   },
   "fabric": {
-    "version": "0.16.14"
+    "version": "0.16.10"
   },
-  "untrackedFiles": [
-    {
-      "appliesTo": ["files"],
-      "patterns": ["options.txt"]
-    }
-  ]
+  "untrackedFiles": []
 }

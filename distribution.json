@@ -8,13 +8,13 @@
   },
   "servers": [
     {
-      "id": "luckyblock-kyunwang-1.21.4",
-      "name": "럭키블럭 켠왕",
-      "description": "Minecraft 1.21.4 (Fabric v0.16.14)",
+      "id": "Cobblemon-1.21.1",
+      "name": "코블몬",
+      "description": "Minecraft 1.21.1 (Fabric v0.16.10)",
       "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "mc.gotiger.dev:25551",
-      "minecraftVersion": "1.21.4",
+      "address": "mc.gotiger.dev:25550",
+      "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -24,186 +24,115 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.16.14",
+          "id": "net.fabricmc:fabric-loader:0.16.10",
           "name": "Fabric (fabric-loader)",
           "type": "Fabric",
           "artifact": {
-            "size": 1416842,
-            "MD5": "e041ec21fad8f4dbd2ba7e73c25900d1",
-            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/fabricmc/fabric-loader/0.16.14/fabric-loader-0.16.14.jar"
+            "size": 1387408,
+            "MD5": "239d59118dec4324672b3d9e9d75efef",
+            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
-              "id": "1.21.4-fabric-0.16.14",
+              "id": "1.21.1-fabric-0.16.10",
               "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 2849,
-                "MD5": "0daacaabdc9810307f70efa95b96308d",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.21.4-fabric-0.16.14/1.21.4-fabric-0.16.14.json"
+                "size": 2859,
+                "MD5": "e175a3647cdaa7601660e7a636a5be55",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.21.1-fabric-0.16.10/1.21.1-fabric-0.16.10.json"
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.8",
+              "id": "org.ow2.asm:asm:9.7.1",
               "name": "Fabric (asm)",
               "type": "Library",
               "artifact": {
-                "size": 126113,
-                "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.8",
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
               "name": "Fabric (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 35151,
-                "MD5": "3d63508405f5610fc2ea673ff5471553",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.8",
+              "id": "org.ow2.asm:asm-commons:9.7.1",
               "name": "Fabric (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 73498,
-                "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.8",
+              "id": "org.ow2.asm:asm-tree:9.7.1",
               "name": "Fabric (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 51934,
-                "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.8",
+              "id": "org.ow2.asm:asm-util:9.7.1",
               "name": "Fabric (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 94559,
-                "MD5": "62498ef324bdab15f407d703f7d78d19",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
-              "id": "net.fabricmc:sponge-mixin:0.15.5+mixin.0.8.7",
+              "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
               "name": "Fabric (sponge-mixin)",
               "type": "Library",
               "artifact": {
-                "size": 1499194,
-                "MD5": "f810932fdff9aa436d7d4f4ac69ce8c2",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar"
+                "size": 1494834,
+                "MD5": "991ca8be2c408fe19eb64014d8a18243",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
-              "id": "net.fabricmc:intermediary:1.21.4",
+              "id": "net.fabricmc:intermediary:1.21.1",
               "name": "Fabric (intermediary)",
               "type": "Library",
               "artifact": {
-                "size": 701826,
-                "MD5": "d0f4187a62328d4a95f3428434efbd48",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+                "size": 657725,
+                "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
               }
             }
           ]
         },
         {
-          "id": "kr.shihyeon:blurserveraddress:1.2.0+mc1.21.2@jar",
-          "name": "BlurServerAddress",
+          "id": "com.cobblemon.mod:cobblemon:1.6.1+1.21.1@jar",
+          "name": "Cobblemon",
           "type": "FabricMod",
           "artifact": {
-            "size": 11418,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
-            "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2"
+            "size": 120710175,
+            "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/v77SHSXW/Cobblemon-fabric-1.6.1%2B1.21.1.jar",
+            "MD5": "cefe6ab687c39e1a7fe9b2bf96b09188"
           }
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.119.3+1.21.4@jar",
+          "id": "generated.fabricmod:fabric-api:0.116.4+1.21.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
-            "size": 2148367,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/fabric-api-0.119.3+1.21.4.jar",
-            "MD5": "179994db46a00373614c47fb669d1dd3"
-          }
-        },
-        {
-          "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
-          "name": "Iris",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2682702,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
-            "MD5": "59d373e4874efbcb8fb426bdefa588d9"
-          }
-        },
-        {
-          "id": "journeymap:journeymap:1.21.4-6.0.0-beta.47@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3514383,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
-            "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd"
-          }
-        },
-        {
-          "id": "com.hyfata.najoan:koreanpatch:1.8.3+mc1.21.3@jar",
-          "name": "Korean Patch",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 539319,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.3+mc1.21.3.jar",
-            "MD5": "369e9cceabd11bb2d47d7e323b59a972"
-          }
-        },
-        {
-          "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.4@jar",
-          "name": "Sodium",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1306799,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
-            "MD5": "28922a78d1876ee062e3265f10abcc46"
-          }
-        },
-        {
-          "id": "net.wurstclient.zoom:wi_zoom:1.6-MC1.21.4@jar",
-          "name": "WI Zoom",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 154830,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4.jar",
-            "MD5": "1062016a1608823555c1bf16fafeb6cd"
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 196,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/files/options.txt",
-            "path": "options.txt"
-          }
-        },
-        {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
-          "artifact": {
-            "size": 106,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/luckyblock-kyunwang-1.21.4/files/servers.dat",
-            "MD5": "5866428c92e8de277f449f1f7715b057",
-            "path": "servers.dat"
+            "size": 2423497,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/fabric-api-0.116.4+1.21.1.jar",
+            "MD5": "aa1660d1af25eb18790182753f977615"
           }
         }
       ]
