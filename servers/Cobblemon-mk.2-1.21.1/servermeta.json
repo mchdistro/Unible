@@ -12,7 +12,11 @@
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": true,
-    "autoconnect": true
+    "autoconnect": true,
+    "javaOptions": {
+      "supported": ">=21",
+      "ram": { "minimum": 6144, "recommended": 8192 }
+    }
   },
   "fabric": {
     "version": "0.16.10"
