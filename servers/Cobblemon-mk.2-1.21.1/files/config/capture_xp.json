@@ -1,0 +1,6 @@
+{
+  "inBattleExpMultiplier": 0.4,
+  "inBattleGrantEvs": true,
+  "outOfBattleExpMultiplier": 0.2,
+  "outOfBattleGrantEvs": false
+}
