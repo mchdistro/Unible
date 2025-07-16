@@ -14694,9 +14694,20 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 524,
+            "size": 84,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.3-1.21.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 82,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.3-1.21.1/files/servers.dat",
+            "MD5": "c44bdc98aa2bfe7932fd856d2684354d",
+            "path": "servers.dat"
           }
         }
       ]
