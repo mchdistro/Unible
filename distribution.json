@@ -14390,6 +14390,26 @@
           ]
         },
         {
+          "id": "dev.architectury.utils:architectury:13.0.8@jar",
+          "name": "Architectury",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 600915,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.3-1.21.1/fabricmods/required/architectury-13.0.8-fabric.jar",
+            "MD5": "702e92d09a4855c6c8aa9e738a48efa4"
+          }
+        },
+        {
+          "id": "earth.terrarium.athena.impl:athena:4.0.2@jar",
+          "name": "Athena",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 82788,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.3-1.21.1/fabricmods/required/athena-fabric-1.21-4.0.2.jar",
+            "MD5": "15aefefa313da7447f53b2276e0d0645"
+          }
+        },
+        {
           "id": "me.shedaniel.autoconfig.example:cloth-config:15.0.140@jar",
           "name": "Cloth Config v15",
           "type": "FabricMod",
@@ -14657,6 +14677,16 @@
             "size": 903592,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.3-1.21.1/fabricmods/required/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar",
             "MD5": "416f18c07f78f12c5de71d1cc87c14a9"
+          }
+        },
+        {
+          "id": "dev.emi:trinkets:3.10.0@jar",
+          "name": "Trinkets",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 272944,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.3-1.21.1/fabricmods/required/trinkets-3.10.0.jar",
+            "MD5": "4a42e243d6d5c25dea83be3ddc0b28b1"
           }
         },
         {
