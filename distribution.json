@@ -1133,16 +1133,6 @@
           }
         },
         {
-          "id": "com.gitlab.srcmc:rctmod:0.16.5-beta@jar",
-          "name": "Radical Cobblemon Trainers",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 4709589,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/rctmod-fabric-1.21.1-0.16.5-beta.jar",
-            "MD5": "70ca21509d0db04bae67b2dfb8cef683"
-          }
-        },
-        {
           "id": "generated.fabricmod:reeses-sodium-options:1.8.3+mc1.21.4@jar",
           "name": "Reese's Sodium Options",
           "type": "FabricMod",
