@@ -433,16 +433,6 @@
           }
         },
         {
-          "id": "com.lunazstudios:cobblefurnies:0.5@jar",
-          "name": "CobbleFurnies",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1607333,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/CobbleFurnies-fabric-0.5.jar",
-            "MD5": "1169eda2995baea461e404e0f8e9357f"
-          }
-        },
-        {
           "id": "com.cobblemon.yajatkaul:mega_showdown:9.8.0-beta-fabric@jar",
           "name": "Cobblemon: Mega Showdown",
           "type": "FabricMod",
@@ -530,16 +520,6 @@
             "size": 246151,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/Cobbreeding-fabric-1.9.1.jar",
             "MD5": "aa6503c39b63ec01c14b152571560cd4"
-          }
-        },
-        {
-          "id": "com.illusivesoulworks:comforts:9.0.4+1.21.1@jar",
-          "name": "Comforts",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 914358,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/comforts-fabric-9.0.4+1.21.1.jar",
-            "MD5": "a62bca642967b3ee5b4e7a25a0ced247"
           }
         },
         {
@@ -743,16 +723,6 @@
           }
         },
         {
-          "id": "earth.terrarium:handcrafted:4.0.3@jar",
-          "name": "Handcrafted",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 7127377,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/handcrafted-fabric-1.21.1-4.0.3.jar",
-            "MD5": "4ae4f2fe6a71eaeeade3ce0eb1db7997"
-          }
-        },
-        {
           "id": "generated.fabricmod:highlight:3.0.0@jar",
           "name": "Highlight",
           "type": "FabricMod",
@@ -880,16 +850,6 @@
             "size": 13349,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/loadsupport-1.1.0-fabric-1.21.1.jar",
             "MD5": "bf687bb29219bce1baa153cc300fcda9"
-          }
-        },
-        {
-          "id": "net.luckystudio:cozyhome:1.1.15@jar",
-          "name": "Cozy Home",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3002296,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/Luckys-Cozyhome-Refurnished-1.1.15.jar",
-            "MD5": "56e282166109830e67848238e7bba32a"
           }
         },
         {
@@ -1023,16 +983,6 @@
           }
         },
         {
-          "id": "dev.tr7zw:notenoughanimations:1.9.3@jar",
-          "name": "NotEnoughAnimations",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 445973,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/notenoughanimations-fabric-1.9.3-mc1.21.jar",
-            "MD5": "ef755c64beaea69655018f4ca43a358b"
-          }
-        },
-        {
           "id": "fudge.notenoughcrashes:notenoughcrashes:4.4.9+1.21.1@jar",
           "name": "Not Enough Crashes",
           "type": "FabricMod",
@@ -1110,16 +1060,6 @@
             "size": 6563,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/playerxp-fabric-1.0.0+1.21.1.jar",
             "MD5": "b733f9e0a59b8adb5ade2ee16576f654"
-          }
-        },
-        {
-          "id": "dev.mrshawn:pokeblocks:1.4.0-1.21.1@jar",
-          "name": "Pokeblocks",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1606467,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/pokeblocks-1.4.0-1.21.1.jar",
-            "MD5": "a576344a9af471b67b47437adcdd2a63"
           }
         },
         {
@@ -1260,16 +1200,6 @@
             "size": 2982006,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/sophisticatedcore-1.21.1-1.2.9.14.154.jar",
             "MD5": "94dedbc495c4a24c15173619298febe2"
-          }
-        },
-        {
-          "id": "net.p3pp3rf1y:sophisticatedstorage:1.21.1-1.3.7.5.124@jar",
-          "name": "Sophisticated Storage",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1625660,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/sophisticatedstorage-1.21.1-1.3.7.5.124.jar",
-            "MD5": "f54af8797b90bd8de4227fb5871a675e"
           }
         },
         {
