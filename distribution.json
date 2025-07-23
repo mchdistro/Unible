@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 120710175,
-            "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/v77SHSXW/Cobblemon-fabric-1.6.1%2B1.21.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/Cobblemon-fabric-1.6.1+1.21.1.jar",
             "MD5": "cefe6ab687c39e1a7fe9b2bf96b09188"
           }
         },
@@ -458,7 +458,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 120710175,
-            "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/v77SHSXW/Cobblemon-fabric-1.6.1%2B1.21.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-mk.2-1.21.1/fabricmods/required/Cobblemon-fabric-1.6.1+1.21.1.jar",
             "MD5": "cefe6ab687c39e1a7fe9b2bf96b09188"
           }
         },
@@ -14629,6 +14629,36 @@
             "size": 1012611,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.3.jar",
             "MD5": "771fb21a83d735260ff271092d8cc311"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.20.0.112@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1385600,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.112.jar",
+            "MD5": "c899d5b549ace1e9fa46700c778c3809"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.10.3@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7160406,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.8.6+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299342,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dragon-1.20.1/forgemods/required/koreanpatch-forge-1.8.6+mc1.20.1.jar",
+            "MD5": "3217675cd4759254dd755c55cfb2c55c"
           }
         }
       ]
