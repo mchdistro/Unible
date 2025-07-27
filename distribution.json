@@ -230,7 +230,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 545,
+            "size": 541,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/files/options.txt",
             "path": "options.txt"
           }
