@@ -186,16 +186,6 @@
           }
         },
         {
-          "id": "journeymap:journeymap:1.21.1-6.0.0-beta.52@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3564300,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/journeymap-fabric-1.21.1-6.0.0-beta.52.jar",
-            "MD5": "30012982dc1580f49e3c1569dc059203"
-          }
-        },
-        {
           "id": "com.hyfata.najoan:koreanpatch:1.8.5+mc1.21@jar",
           "name": "Korean Patch",
           "type": "FabricMod",
