@@ -1,0 +1,7 @@
+version:3955
+narrator:0
+resourcePacks:["vanilla","fabric","cobblemon:regionbiasforms","cobblemon:gyaradosjump","file/pokemans_v15_toxicCloud.zip","file/emissive-cobblemon-ores.zip","file/OJsAnimationsv1.0.4.zip","file/E19 Cobblemon Minimap Icons.zip","file/Cobblemon Interface v1.4.1.zip","file/Genomons 1.6 [Beta V3].zip","file/LegendsMyths(Resourcepack).zip","file/Cobblemon 3D Poké Rods 1.0.zip"]
+incompatibleResourcePacks:["jei","koreanpatch","file/Genomons 1.6 [Beta V3].zip"]
+lang:ko_kr
+tutorialStep:none
+skipMultiplayerWarning:true

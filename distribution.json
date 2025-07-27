@@ -224,6 +224,27 @@
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
             "MD5": "73c845d833c030f1b38363b5d4252ff7"
           }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 545,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 100,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/files/servers.dat",
+            "MD5": "4f7188117a66c9495ee8d8e0226d67d3",
+            "path": "servers.dat"
+          }
         }
       ]
     },
