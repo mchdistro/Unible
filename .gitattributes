@@ -1,1 +1,2 @@
 servers/Cobblemon-mk.2-1.21.1/files/resourcepacks/JigglyRadio.zip filter=lfs diff=lfs merge=lfs -text
+servers/**/fabricmods/required/Cobblemon-fabric-1.6.1+1.21.1.jar filter=lfs diff=lfs merge=lfs -text
