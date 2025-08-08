@@ -969,19 +969,6 @@
           }
         },
         {
-          "id": "tictim.paraglider:paraglider:20.1.3@jar",
-          "name": "Paraglider",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 589055,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/server_error404-1.20.1/forgemods/optionalon/Paraglider-forge-20.1.3.jar",
-            "MD5": "35eba1f897eb09eaff91579d65696565"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "dev.duzo:players:2.0.4@jar",
           "name": "Fake Players",
           "type": "ForgeMod",
@@ -1002,6 +989,19 @@
             "size": 13623263,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/server_error404-1.20.1/forgemods/optionalon/supplementaries-1.20-3.1.36.jar",
             "MD5": "98178d688af6bedcd5730d592c7dca6d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.sk89q:worldedit:7.2.15+6463-5ca4dff@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5825402,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/server_error404-1.20.1/forgemods/optionalon/worldedit-mod-7.2.15.jar",
+            "MD5": "bd0e7cff7896348faab92e43300d0639"
           },
           "required": {
             "value": false
