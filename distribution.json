@@ -882,13 +882,13 @@
           }
         },
         {
-          "id": "com.seibel:distanthorizons:2.2.0-a@jar",
+          "id": "com.seibel:distanthorizons:2.3.4-b@jar",
           "name": "Distant Horizons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 16515332,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/DistantHorizons-2.2.0-a-1.20.1-forge-fabric.jar",
-            "MD5": "a1a502b6773ed98de71c9d533ce163e8"
+            "size": 17926585,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar",
+            "MD5": "a1400fe73ebdbd4f2900604435174924"
           }
         },
         {
@@ -1172,13 +1172,13 @@
           }
         },
         {
-          "id": "com.saltywater:sittingplus:2.0.2@jar",
-          "name": "Sitting+",
+          "id": "com.saltywater:sittingplus:2.0.5@jar",
+          "name": "Sittingplus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 23422,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/Sitting+-2.0.2-forge-1.20_1.20.4.jar",
-            "MD5": "10b0cb24917d7a114eb619f76d7f2f9b"
+            "size": 25210,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/sittingplus-2.0.5-1.20.1.jar",
+            "MD5": "31c753d3107ff2ac3df3d92a1909aa14"
           }
         },
         {
