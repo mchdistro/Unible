@@ -1,6 +1,0 @@
-#Fri Mar 28 08:40:44 KST 2025
-TLCF_G=0.30
-PLANAR_CLOUDS=false
-DISTANT_FADE=false
-TLCF_B=0.00
-VC=false

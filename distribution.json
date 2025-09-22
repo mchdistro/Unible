@@ -337,9 +337,9 @@
       ]
     },
     {
-      "id": "Demon_Slayer-1.20.1",
-      "name": "귀멸의 칼날",
-      "description": "Minecraft 1.20.1 (Forge v47.4.6)",
+      "id": "Dayz-1.20.1",
+      "name": "Dayz",
+      "description": "Minecraft 1.20.1 (Forge v47.4.9)",
       "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
       "version": "1.0.0",
       "address": "mc.gotiger.dev:25550",
@@ -349,87 +349,87 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.6",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.9",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7399,
-            "MD5": "9862132d0a0a37f068c889b0ad375891",
-            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.6/lowcodelanguage-1.20.1-47.4.6.jar"
+            "size": 7398,
+            "MD5": "7fb1c4afb795cb1d577d6fed0b902a41",
+            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.9/lowcodelanguage-1.20.1-47.4.9.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.4.6",
+              "id": "1.20.1-47.4.9",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16612,
-                "MD5": "3ce7115d31535823f1ff2833d52d111e",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.20.1-forge-47.4.6/1.20.1-forge-47.4.6.json"
+                "size": 16542,
+                "MD5": "589462e8f1c0c9a37b2e802a7f7ac590",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.20.1-forge-47.4.9/1.20.1-forge-47.4.9.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.6",
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.9",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 118914,
-                "MD5": "92d54a31cb969a217ff40951505f5ca2",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.6/fmlcore-1.20.1-47.4.6.jar"
+                "size": 118912,
+                "MD5": "09083e00d2530c4065f9e59e04a74fd1",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.9/fmlcore-1.20.1-47.4.9.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.6",
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.9",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16855,
-                "MD5": "2d45834d0825f64a179e8d6c9bc55c86",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.6/javafmllanguage-1.20.1-47.4.6.jar"
+                "size": 16854,
+                "MD5": "6913d7a3219e9b935c31be5db456669b",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.9/javafmllanguage-1.20.1-47.4.9.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.6",
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.9",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4999,
-                "MD5": "9dadcf0b0d9d367ba1657cff4e1c494f",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.6/mclanguage-1.20.1-47.4.6.jar"
+                "size": 4997,
+                "MD5": "ab13c76fe2b3aef975591d4d66ce4dcf",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.9/mclanguage-1.20.1-47.4.9.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.6:universal",
+              "id": "net.minecraftforge:forge:1.20.1-47.4.9:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2777559,
-                "MD5": "cf5c836bee40de8be50d319a73eea8d5",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.6/forge-1.20.1-47.4.6-universal.jar"
+                "size": 2777624,
+                "MD5": "ad2715523994b69479d592500e7a855b",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.9/forge-1.20.1-47.4.9-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.6:client",
+              "id": "net.minecraftforge:forge:1.20.1-47.4.9:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 4847909,
-                "MD5": "d7513f255b916168f0893987b2a9de55",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.6/forge-1.20.1-47.4.6-client.jar"
+                "size": 4847974,
+                "MD5": "120cd44e8206f7329b9f8b6a1bc3fc51",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.9/forge-1.20.1-47.4.9-client.jar"
               },
               "subModules": []
             },
@@ -480,53 +480,53 @@
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.7.1",
+              "id": "org.ow2.asm:asm:9.8",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 126093,
-                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "size": 126113,
+                "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.7.1",
+              "id": "org.ow2.asm:asm-commons:9.8",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 73459,
-                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "size": 73498,
+                "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "id": "org.ow2.asm:asm-tree:9.8",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 51939,
-                "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "size": 51934,
+                "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.7.1",
+              "id": "org.ow2.asm:asm-util:9.8",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 94519,
-                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "size": 94559,
+                "MD5": "62498ef324bdab15f407d703f7d78d19",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "id": "org.ow2.asm:asm-analysis:9.8",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 35126,
-                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "size": 35151,
+                "MD5": "3d63508405f5610fc2ea673ff5471553",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
               }
             },
             {
@@ -740,591 +740,26 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.6",
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.9",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 267078,
-                "MD5": "081d4b34be3e580f7fc0904b23f971bf",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.6/fmlloader-1.20.1-47.4.6.jar"
+                "size": 267077,
+                "MD5": "1fb6a0c2a73c6154b29d8868a32c4d39",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.9/fmlloader-1.20.1-47.4.9.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.6",
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.9",
               "name": "Minecraft Forge (fmlearlydisplay)",
               "type": "Library",
               "artifact": {
                 "size": 170517,
-                "MD5": "15335060711d494f864cf23d97802b8f",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.6/fmlearlydisplay-1.20.1-47.4.6.jar"
+                "MD5": "18a2acd7d3dd0c02415120c79a106039",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.9/fmlearlydisplay-1.20.1-47.4.9.jar"
               }
             }
           ]
-        },
-        {
-          "id": "com.anthonyhilyard:advancementplaques:1.6.7@jar",
-          "name": "Advancement Plaques",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 208851,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/AdvancementPlaques-1.20.1-forge-1.6.7.jar",
-            "MD5": "a8c63afeac05f6c356f96df9a8c13dfb"
-          }
-        },
-        {
-          "id": "com.builtbroken.ai.improvements:aiimprovements:0.5.2@jar",
-          "name": "AI-Improvements",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 29553,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/AI-Improvements-1.20-0.5.2.jar",
-            "MD5": "9a6776ce2deab597d198e8755daa56ff"
-          }
-        },
-        {
-          "id": "net.smileycorp.atlas:atlaslib:1.1.12@jar",
-          "name": "Atlas Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 124436,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/Atlas%20Lib-1.20.1-1.1.12.jar",
-            "MD5": "b63616d984991ee60d313938143eda3f"
-          }
-        },
-        {
-          "id": "net.darkhax:badmobs:19.0.4@jar",
-          "name": "BadMobs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10425,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/BadMobs-1.20.1-19.0.4.jar",
-            "MD5": "c82edfea81516b7f8c9607ad5b2f75d6"
-          }
-        },
-        {
-          "id": "betteradvancements:betteradvancements:0.4.2.25@jar",
-          "name": "Better Advancements",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 98124,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/BetterAdvancements-Forge-1.20.1-0.4.2.25.jar",
-            "MD5": "30f0ea1a5da2f22cb25d7794544b3c1f"
-          }
-        },
-        {
-          "id": "com.betterfpsdist:betterfpsdist:1.20.1-6.0@jar",
-          "name": "Betterfpsdist mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 19917,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/betterfpsdist-1.20.1-6.0.jar",
-            "MD5": "34280e25bfb67f8ce08157129c8cb09d"
-          }
-        },
-        {
-          "id": "com.jtorleonstudios:bettervillage:3.2.0@jar",
-          "name": "Better village",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2257497,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/bettervillage-forge-1.20.1-3.2.0.jar",
-            "MD5": "8b221bcbb033cb822c808df8c7ac48a0"
-          }
-        },
-        {
-          "id": "carbonconfiglib:carbonconfig:1.20-1.2.6@jar",
-          "name": "Carbon Config Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1037169,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/CarbonConfig-1.20-1.2.6.jar",
-            "MD5": "eea1315fa060305587354caaed524f98"
-          }
-        },
-        {
-          "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
-          "name": "Cloth Config v10 API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1181413,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
-            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
-          }
-        },
-        {
-          "id": "com.natamus:collective:7.87@jar",
-          "name": "Collective",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 648876,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/collective-1.20.1-7.87.jar",
-            "MD5": "b0bcc1d5e282bab76d0f8f39a85a1a92"
-          }
-        },
-        {
-          "id": "team.creative:creativecore:2.12.31@jar",
-          "name": "CreativeCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1158550,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.31_mc1.20.1.jar",
-            "MD5": "1ba328e0a3dfb34261c234b5f02f8935"
-          }
-        },
-        {
-          "id": "com.cupboard:cupboard:1.20.1-2.7@jar",
-          "name": "Cupboard utilities",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 25983,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
-            "MD5": "3620912474f47bf58d1fe5bfe133763a"
-          }
-        },
-        {
-          "id": "com.seibel:distanthorizons:2.3.4-b@jar",
-          "name": "Distant Horizons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 17926585,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar",
-            "MD5": "a1400fe73ebdbd4f2900604435174924"
-          }
-        },
-        {
-          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
-          "name": "Embeddium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1320675,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
-            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
-          }
-        },
-        {
-          "id": "dev.tr7zw:entityculling:1.7.3@jar",
-          "name": "EntityCulling",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 77548,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/entityculling-forge-1.7.3-mc1.20.1.jar",
-            "MD5": "34ae0d54004066bac5c13ab2129978b8"
-          }
-        },
-        {
-          "id": "com.gitlab.srcmc:epiccompat_parcool:1.0.3@jar",
-          "name": "Epic Compat: ParCool",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 24759,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/epiccompat_parcool-forge-1.20.1-1.0.3.jar",
-            "MD5": "268a7a845aa3028f71c528a257efb2dc"
-          }
-        },
-        {
-          "id": "yesman.epicfight.main:epicfight:20.9.7@jar",
-          "name": "Epic Fight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6772178,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/epicfight-forge-20.9.7-1.20.1.jar",
-            "MD5": "5c8ee615c061a789b1a3d7ba8999367d"
-          }
-        },
-        {
-          "id": "net.corruptdog.cdm.main:cdmoveset:1.19@jar",
-          "name": "EpicFight-Resurrection",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 14213255,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/EpicFight-Resurrection-forge1.20.1-0.1.20-Fix.jar",
-            "MD5": "c882e6ba1797b245020061de9821cee5"
-          }
-        },
-        {
-          "id": "net.mcreator.efkny:ef_kny:1.0.0@jar",
-          "name": "KimetsuNoYaiba X EpicFight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 97375,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/EpicKimetsuNoYaiba-20.9.1.jar",
-            "MD5": "bdd1b893f189fb2a668804ef2755e7bf"
-          }
-        },
-        {
-          "id": "generated.forgemod:essential_1:3-5-8_forge_1-20-1@jar",
-          "name": "Essential_1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 52883681,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/essential_1-3-5-8_forge_1-20-1.jar",
-            "MD5": "9109dd128a62d65ccf84a677f8978b7b"
-          }
-        },
-        {
-          "id": "com.farsight:farsight_view:1.20.1-3.7@jar",
-          "name": "Farsight mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 440849,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/farsight-1.20.1-3.7.jar",
-            "MD5": "4914b08ef1ce60daf701f84e1cb1834a"
-          }
-        },
-        {
-          "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
-          "name": "Ferrite Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 123034,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
-            "MD5": "f52f538207a4829d7060550092ce2383"
-          }
-        },
-        {
-          "id": "software.bernie.example:geckolib:4.7@jar",
-          "name": "GeckoLib 4",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1004042,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.jar",
-            "MD5": "96dddfb78d375bdd330ae1577ee28bfe"
-          }
-        },
-        {
-          "id": "tallestegg.guardvillagers:guardvillagers:1.20.1-1.6.10@jar",
-          "name": "Guard Villagers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 199803,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/guardvillagers-1.20.1-1.6.10.jar",
-            "MD5": "67662a7eafb7e48d3003af1d115645f8"
-          }
-        },
-        {
-          "id": "com.anthonyhilyard:iceberg:1.1.25@jar",
-          "name": "Iceberg",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 134551,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/Iceberg-1.20.1-forge-1.1.25.jar",
-            "MD5": "cda8af806d0de012f5c7012ea51c155f"
-          }
-        },
-        {
-          "id": "com.nameless.indestructible.main:indestructible:20.9.2@jar",
-          "name": "Indestructible",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 167416,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/indestructible-20.9.2.jar",
-            "MD5": "033b404f982a62a09552711b7e6e7267"
-          }
-        },
-        {
-          "id": "team.creative:itemphysic:1.8.4@jar",
-          "name": "ItemPhysic",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 53321,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/ItemPhysic_FORGE_v1.8.4_mc1.20.1.jar",
-            "MD5": "3cf9192117f63edd27852da17bb9fbbc"
-          }
-        },
-        {
-          "id": "de.keksuccino:justzoom:2.0.0@jar",
-          "name": "Just Zoom",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 196560,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/justzoom_forge_2.0.0_MC_1.20.1.jar",
-            "MD5": "10fd88f5e5a4faf73df0c41bad8374a3"
-          }
-        },
-        {
-          "id": "net.mcreator:kimetsunoyaiba:1@jar",
-          "name": "Kimetsunoyaiba",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12661011,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/KimetsunoYaiba-ver1.3-forge-1.20.1.jar",
-            "MD5": "3d26e7ad08eaeba39faeb664cb34efc0"
-          }
-        },
-        {
-          "id": "com.kleiders.kleidersplayerrenderer:kleiders_custom_renderer:7.2.0@jar",
-          "name": "Kleiders Custom Renderer",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 43993,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/Kleiders%20Custom%20Renderer%20API%207.2.0%201.20.1.jar",
-            "MD5": "a5ad4606f38bffbceea0ee6c38eee8d8"
-          }
-        },
-        {
-          "id": "de.keksuccino:konkrete:1.8.0@jar",
-          "name": "Konkrete",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 625185,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-            "MD5": "d69107c593e361e1b7b96733250bd098"
-          }
-        },
-        {
-          "id": "com.jtorleonstudios:libraryferret:4.0.0@jar",
-          "name": "Library ferret",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 190536,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/libraryferret-forge-1.20.1-4.0.0.jar",
-            "MD5": "68ba05aaf09f053934537af691e959df"
-          }
-        },
-        {
-          "id": "yalter.mousetweaks:mousetweaks:2.25.1@jar",
-          "name": "Mouse Tweaks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 76237,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
-            "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
-          }
-        },
-        {
-          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
-          "name": "Oculus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2851119,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
-            "MD5": "1dd891634ac21591b5a692471f112572"
-          }
-        },
-        {
-          "id": "com.alrex:parcool:3.3.1.0@jar",
-          "name": "ParCool!",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 931481,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/ParCool-1.20.1-3.3.1.0.jar",
-            "MD5": "87fe9e714c097ed93404a98fa417a933"
-          }
-        },
-        {
-          "id": "virtuoel.pehkui:pehkui:3.8.2+1.20.1-forge@jar",
-          "name": "Pehkui",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 671605,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
-            "MD5": "95bdd5558d34044f54aab0ce292e679b"
-          }
-        },
-        {
-          "id": "com.lowdragmc:photon:1.0.7@jar",
-          "name": "Photon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3529745,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/photon-forge-1.20.1-1.0.7.jar",
-            "MD5": "cd40173aeb5dfa2386e103b3fc49b8d8"
-          }
-        },
-        {
-          "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
-          "name": "Player Animator",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 181437,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-            "MD5": "46f8554181d4d240075ea4919d01fd01"
-          }
-        },
-        {
-          "id": "team.creative:playerrevive:2.0.31@jar",
-          "name": "PlayerRevive",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5298162,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
-            "MD5": "e07fc42680a0163c99c21cfa9afb9816"
-          }
-        },
-        {
-          "id": "net.yonchi:refm:0.2.13@jar",
-          "name": "Rapier For EpicFightMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2630845,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/refm-0.2.13-1.20.1.jar",
-            "MD5": "d94a0bd1bb9c1e3706ae65977117924f"
-          }
-        },
-        {
-          "id": "com.sekwah:sekclib:1.0.2@jar",
-          "name": "SekC Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 48945,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/SekCLib-1.20-1.0.2-universal.jar",
-            "MD5": "1b04ed76f85e95590487dab638cba44d"
-          }
-        },
-        {
-          "id": "com.saltywater:sittingplus:2.0.5@jar",
-          "name": "Sittingplus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 25210,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/sittingplus-2.0.5-1.20.1.jar",
-            "MD5": "31c753d3107ff2ac3df3d92a1909aa14"
-          }
-        },
-        {
-          "id": "ca.spottedleaf:starlight:1.1.2+forge.1cda73c@jar",
-          "name": "Starlight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 110583,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/starlight-1.1.2+forge.1cda73c.jar",
-            "MD5": "da99a054428fb62342b6767b993c4c8d"
-          }
-        },
-        {
-          "id": "net.tctcore:tctcore:1.6@jar",
-          "name": "Tctcore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1583469,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/tctcore-1.6-forge-1.20.1.jar",
-            "MD5": "2a91d8845dd7e4cdab6e7e8095641ed1"
-          }
-        },
-        {
-          "id": "dev.worldgen:tectonic:2.4.1@jar",
-          "name": "Tectonic",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 349125,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/tectonic-forge-1.20.1-2.4.1.jar",
-            "MD5": "e4646116efca671837889dd58cad9844"
-          }
-        },
-        {
-          "id": "generated.forgemod:terralith:2.5.4@jar",
-          "name": "Terralith",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3156901,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/Terralith_1.20.x_v2.5.4.jar",
-            "MD5": "b143cfd648086c68d7f47a86b8994ee3"
-          }
-        },
-        {
-          "id": "reascer.wom.main:wom:20.1.8.5.6@jar",
-          "name": "Weapons of miracle",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 14050970,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/forgemods/required/WeaponsOfMiracles-20.1.8.5.6.jar",
-            "MD5": "ca2263d0e56281e1c82d28ecab522b35"
-          }
-        },
-        {
-          "id": "BSL_v8.4.zip",
-          "name": "BSL_v8.4.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1105442,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/files/shaderpacks/BSL_v8.4.zip",
-            "MD5": "9cbe8c2b70a992a50853875482eec66a",
-            "path": "shaderpacks/BSL_v8.4.zip"
-          }
-        },
-        {
-          "id": "BSL_v8.4.zip.txt",
-          "name": "BSL_v8.4.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 134,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/files/shaderpacks/BSL_v8.4.zip.txt",
-            "path": "shaderpacks/BSL_v8.4.zip.txt"
-          }
-        },
-        {
-          "id": "ComplementaryReimagined_r5.4.zip",
-          "name": "ComplementaryReimagined_r5.4.zip",
-          "type": "File",
-          "artifact": {
-            "size": 452405,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.4.zip",
-            "MD5": "1a67030845ad123f56a3b5f6d8fb9b7c",
-            "path": "shaderpacks/ComplementaryReimagined_r5.4.zip"
-          }
-        },
-        {
-          "id": "ComplementaryReimagined_r5.4.zip.txt",
-          "name": "ComplementaryReimagined_r5.4.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 128,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.4.zip.txt",
-            "path": "shaderpacks/ComplementaryReimagined_r5.4.zip.txt"
-          }
-        },
-        {
-          "id": "Ebin-Resurrected-v1.5.5.zip",
-          "name": "Ebin-Resurrected-v1.5.5.zip",
-          "type": "File",
-          "artifact": {
-            "size": 12666285,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/files/shaderpacks/Ebin-Resurrected-v1.5.5.zip",
-            "MD5": "5299edcec497a95a1295386aaabdf53b",
-            "path": "shaderpacks/Ebin-Resurrected-v1.5.5.zip"
-          }
-        },
-        {
-          "id": "Hysteria-Shaders-Universal-v1.2.1.zip",
-          "name": "Hysteria-Shaders-Universal-v1.2.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1578052,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/files/shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip",
-            "MD5": "9cd9d2b33532f1774f7465e76b92a4e3",
-            "path": "shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip"
-          }
-        },
-        {
-          "id": "Hysteria-Shaders-Universal-v1.2.1.zip.txt",
-          "name": "Hysteria-Shaders-Universal-v1.2.1.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 67,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/files/shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip.txt",
-            "path": "shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip.txt"
-          }
-        },
-        {
-          "id": "Solas Shader V2.6.zip",
-          "name": "Solas Shader V2.6.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1267054,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/files/shaderpacks/Solas%20Shader%20V2.6.zip",
-            "MD5": "b7ccabe7e4a4883e6b7badb2a7f74f60",
-            "path": "shaderpacks/Solas Shader V2.6.zip"
-          }
-        },
-        {
-          "id": "Solas Shader V2.6.zip.txt",
-          "name": "Solas Shader V2.6.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 108,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Demon_Slayer-1.20.1/files/shaderpacks/Solas%20Shader%20V2.6.zip.txt",
-            "path": "shaderpacks/Solas Shader V2.6.zip.txt"
-          }
         }
       ]
     },
