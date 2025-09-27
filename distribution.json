@@ -866,6 +866,19 @@
           }
         },
         {
+          "id": "net.mcreator:motorcycles:0.0.1@jar",
+          "name": "Motorcycles",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9936164,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/motorcycles-0.0.1-forge-1.20.1.jar",
+            "MD5": "6c1c7e6b29e3cfe493e1562e9b964b7d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.mcreator:mres:0.4@jar",
           "name": "MREs",
           "type": "ForgeMod",
