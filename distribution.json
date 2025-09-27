@@ -827,13 +827,13 @@
           }
         },
         {
-          "id": "mcinterface1201:mts:1.20.1-22.18.0-pre@jar",
+          "id": "mcinterface1201:mts:1.20.1-22.18.1@jar",
           "name": "Immersive Vehicles (formerly MTS)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6203626,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/Immersive%20Vehicles-1.20.1-22.18.0-pre.jar",
-            "MD5": "437d9e9d6bc89e382d841a1aee7a9325"
+            "size": 6210313,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/Immersive%20Vehicles-1.20.1-22.18.1.jar",
+            "MD5": "a98c259562cdfb5a69bcf87cb37b99e5"
           },
           "required": {
             "value": false
