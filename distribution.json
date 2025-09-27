@@ -827,19 +827,6 @@
           }
         },
         {
-          "id": "mcinterface1201:mts:1.20.1-22.18.1@jar",
-          "name": "Immersive Vehicles (formerly MTS)",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6210313,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/Immersive%20Vehicles-1.20.1-22.18.1.jar",
-            "MD5": "a98c259562cdfb5a69bcf87cb37b99e5"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "me.xjqsh:lrtactical:0.3.0@jar",
           "name": "LesRaisins Tactical Equipments",
           "type": "ForgeMod",
@@ -886,19 +873,6 @@
             "size": 800823,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/mres-0.4-forge-1.20.1.jar",
             "MD5": "2f5e3dd2ea57824fce60463251f953f4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "mtsofficialpack:mtsofficialpack:28@jar",
-          "name": "Immersive Vehicles (MTS/IV) - Official Content Pack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 89590985,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/MTS%20Official%20Pack-1.20.1-V28.2.jar",
-            "MD5": "5e6b81c240b4f8f7e4bd30be4065b596"
           },
           "required": {
             "value": false
