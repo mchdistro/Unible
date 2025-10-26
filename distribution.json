@@ -342,7 +342,7 @@
       "description": "Minecraft 1.20.1 (Forge v47.4.9)",
       "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "mc.gotiger.dev:25550",
+      "address": "mc.gotiger.dev:20202",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -827,6 +827,19 @@
           }
         },
         {
+          "id": "journeymap:journeymap:5.10.3@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7160406,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/journeymap-1.20.1-5.10.3-forge.jar",
+            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "me.xjqsh:lrtactical:0.3.0@jar",
           "name": "LesRaisins Tactical Equipments",
           "type": "ForgeMod",
@@ -947,7 +960,7 @@
           "artifact": {
             "size": 100,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/files/servers.dat",
-            "MD5": "4f7188117a66c9495ee8d8e0226d67d3",
+            "MD5": "075bed639b51cfb3348b108982b9ffa9",
             "path": "servers.dat"
           }
         }

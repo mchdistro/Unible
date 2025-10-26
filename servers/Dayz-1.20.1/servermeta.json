@@ -5,7 +5,7 @@
     "name": "Dayz",
     "description": "Minecraft 1.20.1 (Forge v47.4.9)",
     "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
-    "address": "mc.gotiger.dev:25550",
+    "address": "mc.gotiger.dev:20202",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
