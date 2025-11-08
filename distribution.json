@@ -1015,6 +1015,39 @@
             "MD5": "075bed639b51cfb3348b108982b9ffa9",
             "path": "servers.dat"
           }
+        },
+        {
+          "id": "MCPT-preview-2.zip",
+          "name": "MCPT-preview-2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 50313,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/files/shaderpacks/MCPT-preview-2.zip",
+            "MD5": "9dbc9793bdd2e1cdac72d6113af6f004",
+            "path": "shaderpacks/MCPT-preview-2.zip"
+          }
+        },
+        {
+          "id": "Shrimple_v0.12.zip",
+          "name": "Shrimple_v0.12.zip",
+          "type": "File",
+          "artifact": {
+            "size": 10884315,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/files/shaderpacks/Shrimple_v0.12.zip",
+            "MD5": "d5d6f377820188147d46775673ea9945",
+            "path": "shaderpacks/Shrimple_v0.12.zip"
+          }
+        },
+        {
+          "id": "Spooklementary_v2.0.2.zip",
+          "name": "Spooklementary_v2.0.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 551578,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/files/shaderpacks/Spooklementary_v2.0.2.zip",
+            "MD5": "2c5e4a4297c303cd4680a2c79a4a02dd",
+            "path": "shaderpacks/Spooklementary_v2.0.2.zip"
+          }
         }
       ]
     }
