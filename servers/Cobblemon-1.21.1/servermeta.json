@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "코블몬",
     "description": "Minecraft 1.21.1 (Fabric v0.16.10)",
-    "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
+    "icon": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/server-icon.png",
     "address": "mc.gotiger.dev:25550",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
