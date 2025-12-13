@@ -905,19 +905,6 @@
           }
         },
         {
-          "id": "net.marblednull:marbledsarsenal:2.3.0.3@jar",
-          "name": "Marbled's Arsenal",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 442733,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/marbledsarsenal-1.20.1forge-2.3.0.3.jar",
-            "MD5": "a9f18d1874102d62ec710c86205e192e"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.marblednull:mcore:1.0.3.0@jar",
           "name": "Marbled's Core",
           "type": "ForgeMod",
