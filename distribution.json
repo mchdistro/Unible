@@ -353,83 +353,83 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.9",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.10",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
             "size": 7398,
-            "MD5": "7fb1c4afb795cb1d577d6fed0b902a41",
-            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.9/lowcodelanguage-1.20.1-47.4.9.jar"
+            "MD5": "39c68f8be018557068512f16cf3f97fa",
+            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.4.9",
+              "id": "1.20.1-47.4.10",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16542,
-                "MD5": "589462e8f1c0c9a37b2e802a7f7ac590",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.20.1-forge-47.4.9/1.20.1-forge-47.4.9.json"
+                "size": 16554,
+                "MD5": "eede38b0c090f69c7789cd35e753853d",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.9",
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.10",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 118912,
-                "MD5": "09083e00d2530c4065f9e59e04a74fd1",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.9/fmlcore-1.20.1-47.4.9.jar"
+                "size": 118913,
+                "MD5": "340eb6124a32dab3bfaea8f1b2f3dd02",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.9",
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.10",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
                 "size": 16854,
-                "MD5": "6913d7a3219e9b935c31be5db456669b",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.9/javafmllanguage-1.20.1-47.4.9.jar"
+                "MD5": "1193446859d078e83d9fcc4d8a39f44d",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.9",
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.10",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4997,
-                "MD5": "ab13c76fe2b3aef975591d4d66ce4dcf",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.9/mclanguage-1.20.1-47.4.9.jar"
+                "size": 4999,
+                "MD5": "13e469f44fc6fff975688c6b18f8e9a1",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.9:universal",
+              "id": "net.minecraftforge:forge:1.20.1-47.4.10:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2777624,
-                "MD5": "ad2715523994b69479d592500e7a855b",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.9/forge-1.20.1-47.4.9-universal.jar"
+                "size": 2777708,
+                "MD5": "f202df135ad32fef7e7c42e957c142af",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.9:client",
+              "id": "net.minecraftforge:forge:1.20.1-47.4.10:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 4847974,
-                "MD5": "120cd44e8206f7329b9f8b6a1bc3fc51",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.9/forge-1.20.1-47.4.9-client.jar"
+                "size": 4848366,
+                "MD5": "5c4d8867f3152f9c397859436a06321c",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.jar"
               },
               "subModules": []
             },
@@ -740,23 +740,23 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.9",
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.10",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 267077,
-                "MD5": "1fb6a0c2a73c6154b29d8868a32c4d39",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.9/fmlloader-1.20.1-47.4.9.jar"
+                "size": 267079,
+                "MD5": "9446521da84ab53aa7a81af82d4e854a",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.9",
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.10",
               "name": "Minecraft Forge (fmlearlydisplay)",
               "type": "Library",
               "artifact": {
-                "size": 170517,
-                "MD5": "18a2acd7d3dd0c02415120c79a106039",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.9/fmlearlydisplay-1.20.1-47.4.9.jar"
+                "size": 170518,
+                "MD5": "828cdcc361baffcdd38d7b7d05c62e35",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar"
               }
             }
           ]
@@ -768,7 +768,7 @@
           "artifact": {
             "size": 69097,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/ad_astra_cannedfood-forge-1.2.5.jar",
-            "MD5": "f5440519be5efa96aed42429972ea194"
+            "MD5": "c0a7d954f70efb434e8d13eca840b96f"
           },
           "required": {
             "value": false
@@ -898,20 +898,7 @@
           "artifact": {
             "size": 5185963,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/lrtactical-1.20.1-0.3.0.jar",
-            "MD5": "218c4e633fedc5a077770953aaba57a8"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.marblednull:mcore:1.0.3.0@jar",
-          "name": "Marbled's Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 121205,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/mcore-1.20.1-1.0.3.0.jar",
-            "MD5": "da142d7a183dae31812590b95173915f"
+            "MD5": "58d8b9fecff957f8c8bd2887593187a0"
           },
           "required": {
             "value": false
@@ -937,7 +924,7 @@
           "artifact": {
             "size": 794780,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/mres-0.4-forge-1.20.1.jar",
-            "MD5": "064c11b9a294873b4cde21248778d649"
+            "MD5": "9a462f3319ac401b6c9078e598993679"
           },
           "required": {
             "value": false
@@ -957,13 +944,13 @@
           }
         },
         {
-          "id": "com.tacz.guns:tacz:1.1.6-hotfix@jar",
+          "id": "com.tacz.guns:tacz:1.1.7@jar",
           "name": "Timeless & Classics Guns: Zero",
           "type": "ForgeMod",
           "artifact": {
-            "size": 47826468,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/tacz-1.20.1-1.1.6-hotfix.jar",
-            "MD5": "51636447584a75f8d2db2fb930d110b1"
+            "size": 52403127,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/tacz-1.20.1-1.1.7-release.jar",
+            "MD5": "27696ec987eefbec8e7ba6596e418b35"
           },
           "required": {
             "value": false
@@ -976,7 +963,7 @@
           "artifact": {
             "size": 544155,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/takkit-1.3.1-1.20.1.jar",
-            "MD5": "ce06c685cd60941f0c44223ef165d98a"
+            "MD5": "88448163b2464f47a03bd8196e3f872b"
           },
           "required": {
             "value": false
@@ -987,9 +974,9 @@
           "name": "Zmodfood",
           "type": "ForgeMod",
           "artifact": {
-            "size": 548919,
+            "size": 548884,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/zmodfood%200.6.5.jar",
-            "MD5": "4d9062c36316c20e0fbabe4808ca4bbf"
+            "MD5": "81204e98f567cd2b7ce9cb51a514a45d"
           },
           "required": {
             "value": false
