@@ -766,9 +766,9 @@
           "name": "Ad-Astra: CannedFood",
           "type": "ForgeMod",
           "artifact": {
-            "size": 70012,
+            "size": 69097,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/ad_astra_cannedfood-forge-1.2.5.jar",
-            "MD5": "2f74fecad302167a4edfa78136b7f911"
+            "MD5": "f5440519be5efa96aed42429972ea194"
           },
           "required": {
             "value": false
@@ -896,9 +896,9 @@
           "name": "LesRaisins Tactical Equipments",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5193935,
+            "size": 5185963,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/lrtactical-1.20.1-0.3.0.jar",
-            "MD5": "73f94347bbc9050c0a28cb9aff3c3d26"
+            "MD5": "218c4e633fedc5a077770953aaba57a8"
           },
           "required": {
             "value": false
@@ -935,9 +935,9 @@
           "name": "MREs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 800823,
+            "size": 794780,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/mres-0.4-forge-1.20.1.jar",
-            "MD5": "2f5e3dd2ea57824fce60463251f953f4"
+            "MD5": "064c11b9a294873b4cde21248778d649"
           },
           "required": {
             "value": false
@@ -974,9 +974,9 @@
           "name": "TakKit",
           "type": "ForgeMod",
           "artifact": {
-            "size": 550601,
+            "size": 544155,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/takkit-1.3.1-1.20.1.jar",
-            "MD5": "c6d4d81a7d744c37e3287397dfae51fb"
+            "MD5": "ce06c685cd60941f0c44223ef165d98a"
           },
           "required": {
             "value": false
@@ -987,9 +987,9 @@
           "name": "Zmodfood",
           "type": "ForgeMod",
           "artifact": {
-            "size": 557359,
+            "size": 548916,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/zmodfood%200.6.5.jar",
-            "MD5": "d244b11ebd45760d78060e0ff6bacd50"
+            "MD5": "0dead38c0235e7e641ea5f077479c6ae"
           },
           "required": {
             "value": false
