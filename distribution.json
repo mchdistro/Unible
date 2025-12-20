@@ -987,9 +987,9 @@
           "name": "Zmodfood",
           "type": "ForgeMod",
           "artifact": {
-            "size": 548916,
+            "size": 548919,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/zmodfood%200.6.5.jar",
-            "MD5": "0dead38c0235e7e641ea5f077479c6ae"
+            "MD5": "4d9062c36316c20e0fbabe4808ca4bbf"
           },
           "required": {
             "value": false
