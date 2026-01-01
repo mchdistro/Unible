@@ -337,7 +337,7 @@
       ]
     },
     {
-      "id": "Dayz-1.20.1",
+      "id": "Dayz_v260102-1.20.1",
       "name": "Dayz",
       "description": "Minecraft 1.20.1 (Forge v47.4.9)",
       "icon": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/server-icon.png",
@@ -767,7 +767,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 69097,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/ad_astra_cannedfood-forge-1.2.5.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/ad_astra_cannedfood-forge-1.2.5.jar",
             "MD5": "c0a7d954f70efb434e8d13eca840b96f"
           },
           "required": {
@@ -780,7 +780,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3080423,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/apocalypticarsenal-1.0.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/apocalypticarsenal-1.0.1.jar",
             "MD5": "1e3fb8c28a51ddd2ef3d4bf21bb1a86d"
           },
           "required": {
@@ -793,7 +793,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
           },
           "required": {
@@ -806,7 +806,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 580602,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/architectury-9.2.14-forge.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/architectury-9.2.14-forge.jar",
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
           },
           "required": {
@@ -819,7 +819,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 398066,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/curios-forge-5.14.1+1.20.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/curios-forge-5.14.1+1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
           },
           "required": {
@@ -832,7 +832,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1394709,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/dyairdrop-1.0.0-1.20.1-hotfix3.0.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/dyairdrop-1.0.0-1.20.1-hotfix3.0.jar",
             "MD5": "7f96948c37ef32946b5b49f81335395f"
           },
           "required": {
@@ -845,7 +845,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           },
           "required": {
@@ -858,7 +858,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1038979,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/geckolib-forge-1.20.1-4.8.2.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/geckolib-forge-1.20.1-4.8.2.jar",
             "MD5": "d1ff73da16b6fc163d6c5ed3d9734dde"
           },
           "required": {
@@ -871,7 +871,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 95330,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/gtnick-forge-1.20.1-2.0.4.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/gtnick-forge-1.20.1-2.0.4.jar",
             "MD5": "18a2d798e7e91b998f2b9188b3bf6293"
           },
           "required": {
@@ -884,7 +884,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1408216,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.20.0.118.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.20.0.118.jar",
             "MD5": "dd11c9a22aec410047adc5d08fe5e7dd"
           },
           "required": {
@@ -897,7 +897,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7160406,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/journeymap-1.20.1-5.10.3-forge.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/journeymap-1.20.1-5.10.3-forge.jar",
             "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
           },
           "required": {
@@ -910,7 +910,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 315488,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/koreanpatch-forge-1.9.0+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/koreanpatch-forge-1.9.0+mc1.20.1.jar",
             "MD5": "dc6a73dcbec683185bd2e3c87ad8fb17"
           },
           "required": {
@@ -923,7 +923,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5185963,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/lrtactical-1.20.1-0.3.0.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/lrtactical-1.20.1-0.3.0.jar",
             "MD5": "58d8b9fecff957f8c8bd2887593187a0"
           },
           "required": {
@@ -936,7 +936,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9936164,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/motorcycles-0.0.1-forge-1.20.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/motorcycles-0.0.1-forge-1.20.1.jar",
             "MD5": "6c1c7e6b29e3cfe493e1562e9b964b7d"
           },
           "required": {
@@ -949,7 +949,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 794780,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/mres-0.4-forge-1.20.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/mres-0.4-forge-1.20.1.jar",
             "MD5": "9a462f3319ac401b6c9078e598993679"
           },
           "required": {
@@ -957,13 +957,13 @@
           }
         },
         {
-          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
-          "name": "Oculus",
+          "id": "su.plo.voice:plasmovoice:2.1.8@jar",
+          "name": "Plasmo Voice",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2851119,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.8.0.jar",
-            "MD5": "1dd891634ac21591b5a692471f112572"
+            "size": 12182458,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/plasmovoice-forge-1.20.1-2.1.8.jar",
+            "MD5": "234d1a76ae25f5efc220ac879981c7e0"
           },
           "required": {
             "value": false
@@ -975,7 +975,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1138178,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/polytone-1.20-3.5.17.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/polytone-1.20-3.5.17.jar",
             "MD5": "495e685fe1a76bdbd0e83f3a1e477921"
           },
           "required": {
@@ -988,7 +988,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 52425650,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/tacz-1.20.1-1.1.7-hotfix.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/tacz-1.20.1-1.1.7-hotfix.jar",
             "MD5": "e91391b09e25ec5994c28593117f5908"
           },
           "required": {
@@ -1001,7 +1001,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 544155,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/takkit-1.3.1-1.20.1.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/takkit-1.3.1-1.20.1.jar",
             "MD5": "88448163b2464f47a03bd8196e3f872b"
           },
           "required": {
@@ -1014,7 +1014,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 548884,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/zmodfood%200.6.5.jar",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/zmodfood%200.6.5.jar",
             "MD5": "81204e98f567cd2b7ce9cb51a514a45d"
           },
           "required": {
@@ -1026,8 +1026,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 145,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/files/options.txt",
+            "size": 2276,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -1037,9 +1037,20 @@
           "type": "File",
           "artifact": {
             "size": 62358,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/files/resourcepacks/DarkAtmosphere2.0.zip",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/resourcepacks/DarkAtmosphere2.0.zip",
             "MD5": "c3591ad41d65062f67bf55bacc4d096d",
             "path": "resourcepacks/DarkAtmosphere2.0.zip"
+          }
+        },
+        {
+          "id": "폰트.zip",
+          "name": "폰트.zip",
+          "type": "File",
+          "artifact": {
+            "size": 461344,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/resourcepacks/%ED%8F%B0%ED%8A%B8.zip",
+            "MD5": "87f33323c1e5d394d52d2fd9dd2e8055",
+            "path": "resourcepacks/폰트.zip"
           }
         },
         {
@@ -1048,42 +1059,9 @@
           "type": "File",
           "artifact": {
             "size": 100,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/files/servers.dat",
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/servers.dat",
             "MD5": "075bed639b51cfb3348b108982b9ffa9",
             "path": "servers.dat"
-          }
-        },
-        {
-          "id": "MCPT-preview-2.zip",
-          "name": "MCPT-preview-2.zip",
-          "type": "File",
-          "artifact": {
-            "size": 50313,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/files/shaderpacks/MCPT-preview-2.zip",
-            "MD5": "9dbc9793bdd2e1cdac72d6113af6f004",
-            "path": "shaderpacks/MCPT-preview-2.zip"
-          }
-        },
-        {
-          "id": "Shrimple_v0.12.zip",
-          "name": "Shrimple_v0.12.zip",
-          "type": "File",
-          "artifact": {
-            "size": 10884315,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/files/shaderpacks/Shrimple_v0.12.zip",
-            "MD5": "d5d6f377820188147d46775673ea9945",
-            "path": "shaderpacks/Shrimple_v0.12.zip"
-          }
-        },
-        {
-          "id": "Spooklementary_v2.0.2.zip",
-          "name": "Spooklementary_v2.0.2.zip",
-          "type": "File",
-          "artifact": {
-            "size": 551578,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/files/shaderpacks/Spooklementary_v2.0.2.zip",
-            "MD5": "2c5e4a4297c303cd4680a2c79a4a02dd",
-            "path": "shaderpacks/Spooklementary_v2.0.2.zip"
           }
         }
       ]
