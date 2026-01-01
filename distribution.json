@@ -831,9 +831,9 @@
           "name": "Dyairdrop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1394413,
+            "size": 1394709,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/dyairdrop-1.0.0-1.20.1-hotfix3.0.jar",
-            "MD5": "9a247844aa88fd072cabef79fbf5d048"
+            "MD5": "7f96948c37ef32946b5b49f81335395f"
           },
           "required": {
             "value": false
@@ -860,6 +860,19 @@
             "size": 1038979,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/geckolib-forge-1.20.1-4.8.2.jar",
             "MD5": "d1ff73da16b6fc163d6c5ed3d9734dde"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.gitter:gtnick:1.0.0@jar",
+          "name": "GTNick Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 95330,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/gtnick-forge-1.20.1-2.0.4.jar",
+            "MD5": "18a2d798e7e91b998f2b9188b3bf6293"
           },
           "required": {
             "value": false
@@ -957,13 +970,26 @@
           }
         },
         {
-          "id": "com.tacz.guns:tacz:1.1.7@jar",
+          "id": "net.mehvahdjukaar:polytone:1.20-3.5.17@jar",
+          "name": "Polytone",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1138178,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/polytone-1.20-3.5.17.jar",
+            "MD5": "495e685fe1a76bdbd0e83f3a1e477921"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.tacz.guns:tacz:1.1.7-hotfix@jar",
           "name": "Timeless & Classics Guns: Zero",
           "type": "ForgeMod",
           "artifact": {
-            "size": 52403127,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/tacz-1.20.1-1.1.7-release.jar",
-            "MD5": "27696ec987eefbec8e7ba6596e418b35"
+            "size": 52425650,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/tacz-1.20.1-1.1.7-hotfix.jar",
+            "MD5": "e91391b09e25ec5994c28593117f5908"
           },
           "required": {
             "value": false
@@ -1003,6 +1029,17 @@
             "size": 145,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "DarkAtmosphere2.0.zip",
+          "name": "DarkAtmosphere2.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 62358,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/files/resourcepacks/DarkAtmosphere2.0.zip",
+            "MD5": "c3591ad41d65062f67bf55bacc4d096d",
+            "path": "resourcepacks/DarkAtmosphere2.0.zip"
           }
         },
         {
