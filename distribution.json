@@ -827,6 +827,19 @@
           }
         },
         {
+          "id": "net.mcreator:dyairdrop:1.0.0@jar",
+          "name": "Dyairdrop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1394413,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/forgemods/optionalon/dyairdrop-1.0.0-1.20.1-hotfix3.0.jar",
+            "MD5": "9a247844aa88fd072cabef79fbf5d048"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
