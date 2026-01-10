@@ -983,6 +983,19 @@
           }
         },
         {
+          "id": "xyz.przemyk:simpleplanes:1.20.1-5.3.3@jar",
+          "name": "Simple Planes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 890514,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/simpleplanes-1.20.1-5.3.3.jar",
+            "MD5": "407482dbca93e31015f0fb7d4692cf3c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.tacz.guns:tacz:1.1.7-hotfix@jar",
           "name": "Timeless & Classics Guns: Zero",
           "type": "ForgeMod",
