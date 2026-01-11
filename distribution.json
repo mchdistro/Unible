@@ -879,6 +879,19 @@
           }
         },
         {
+          "id": "immersive_aircraft:immersive_aircraft:1.4.0+1.20.1@jar",
+          "name": "Immersive Aircraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2428368,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/immersive_aircraft-1.4.0+1.20.1-forge.jar",
+            "MD5": "f49ff767f611a95f9bd29a0e9977d9d5"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "mezz.jei:jei:15.20.0.118@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
@@ -977,19 +990,6 @@
             "size": 1138178,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/polytone-1.20-3.5.17.jar",
             "MD5": "495e685fe1a76bdbd0e83f3a1e477921"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "xyz.przemyk:simpleplanes:1.20.1-5.3.3@jar",
-          "name": "Simple Planes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 890514,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/simpleplanes-1.20.1-5.3.3.jar",
-            "MD5": "407482dbca93e31015f0fb7d4692cf3c"
           },
           "required": {
             "value": false
