@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/Unible/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "Dayz",
     "description": "Minecraft 1.20.1 (Forge v47.4.9)",
     "icon": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/server-icon.png",

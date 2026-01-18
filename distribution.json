@@ -341,7 +341,7 @@
       "name": "Dayz",
       "description": "Minecraft 1.20.1 (Forge v47.4.9)",
       "icon": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/server-icon.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "mc.gotiger.dev:20202",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -866,6 +866,19 @@
           }
         },
         {
+          "id": "de.maxhenkel:gravestone:1.20.1-1.0.35@jar",
+          "name": "Gravestone Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 317181,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/gravestone-forge-1.20.1-1.0.35.jar",
+            "MD5": "c9a1a01c302368ed43270ceebb2c2251"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.gitter:gtnick:1.0.0@jar",
           "name": "GTNick Mod",
           "type": "ForgeMod",
@@ -944,19 +957,6 @@
           }
         },
         {
-          "id": "net.mcreator:motorcycles:0.0.1@jar",
-          "name": "Motorcycles",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9936164,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/motorcycles-0.0.1-forge-1.20.1.jar",
-            "MD5": "6c1c7e6b29e3cfe493e1562e9b964b7d"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.mcreator:mres:0.4@jar",
           "name": "MREs",
           "type": "ForgeMod",
@@ -964,6 +964,19 @@
             "size": 794780,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/mres-0.4-forge-1.20.1.jar",
             "MD5": "9a462f3319ac401b6c9078e598993679"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.mcreator:parachutemod:1.0.0@jar",
+          "name": "ParachuteMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 69924,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/Parachute-Forge.jar",
+            "MD5": "12123adb2048c0bc9e97e34c5e6173d2"
           },
           "required": {
             "value": false
