@@ -1069,6 +1069,83 @@
           }
         },
         {
+          "id": "cheque.json",
+          "name": "cheque.json",
+          "type": "File",
+          "artifact": {
+            "size": 81,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/resourcepacks/%EC%B6%94%EB%9D%BD/assets/minecraft/models/item/cheque.json",
+            "MD5": "0937cfc3e44360e36531a76f5717e519",
+            "path": "resourcepacks/추락/assets/minecraft/models/item/cheque.json"
+          }
+        },
+        {
+          "id": "paper.json",
+          "name": "paper.json",
+          "type": "File",
+          "artifact": {
+            "size": 255,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/resourcepacks/%EC%B6%94%EB%9D%BD/assets/minecraft/models/item/paper.json",
+            "MD5": "1281ca5dc0767b14c75fa20fa2b510fc",
+            "path": "resourcepacks/추락/assets/minecraft/models/item/paper.json"
+          }
+        },
+        {
+          "id": "random_ticket.json",
+          "name": "random_ticket.json",
+          "type": "File",
+          "artifact": {
+            "size": 94,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/resourcepacks/%EC%B6%94%EB%9D%BD/assets/minecraft/models/item/random_ticket.json",
+            "MD5": "cdcdf7f76b1147b368b2bd1b663eb5b2",
+            "path": "resourcepacks/추락/assets/minecraft/models/item/random_ticket.json"
+          }
+        },
+        {
+          "id": "cheque.png",
+          "name": "cheque.png",
+          "type": "File",
+          "artifact": {
+            "size": 2946,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/resourcepacks/%EC%B6%94%EB%9D%BD/assets/minecraft/textures/item/cheque.png",
+            "MD5": "f4fc42e70ff9691658edc0f7346edc9e",
+            "path": "resourcepacks/추락/assets/minecraft/textures/item/cheque.png"
+          }
+        },
+        {
+          "id": "random_ticket.png",
+          "name": "random_ticket.png",
+          "type": "File",
+          "artifact": {
+            "size": 3387,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/resourcepacks/%EC%B6%94%EB%9D%BD/assets/minecraft/textures/item/random_ticket.png",
+            "MD5": "7d7f5eeaa9aaefc64fed29aca8447ac1",
+            "path": "resourcepacks/추락/assets/minecraft/textures/item/random_ticket.png"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 87,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/resourcepacks/%EC%B6%94%EB%9D%BD/pack.mcmeta",
+            "MD5": "1c16359fb73aa1e59b83f67ee88c8c02",
+            "path": "resourcepacks/추락/pack.mcmeta"
+          }
+        },
+        {
+          "id": "pack.png",
+          "name": "pack.png",
+          "type": "File",
+          "artifact": {
+            "size": 130133,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/resourcepacks/%EC%B6%94%EB%9D%BD/pack.png",
+            "MD5": "8a92c460f8b491f20141ad911890c893",
+            "path": "resourcepacks/추락/pack.png"
+          }
+        },
+        {
           "id": "폰트.zip",
           "name": "폰트.zip",
           "type": "File",
