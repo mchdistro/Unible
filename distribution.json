@@ -814,6 +814,19 @@
           }
         },
         {
+          "id": "com.yourname:bleedingmod:1.2@jar",
+          "name": "Bleeding & First Aid",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341325,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/bleedingmod-1.2.jar",
+            "MD5": "740390d29cb1cadc61626dcb39885bb2"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
           "name": "Curios API",
           "type": "ForgeMod",
@@ -827,6 +840,19 @@
           }
         },
         {
+          "id": "com.nanaios:curiosable_ammo_box:0.4.0@jar",
+          "name": "Curiosable_ammo_box",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20393,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/curiosable_ammo_box-0.4.0.jar",
+            "MD5": "4c23f19b4912edcea364202ccd0d0e30"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.mcreator:dyairdrop:1.0.0@jar",
           "name": "Dyairdrop",
           "type": "ForgeMod",
@@ -834,6 +860,19 @@
             "size": 1394709,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/dyairdrop-1.0.0-1.20.1-hotfix3.0.jar",
             "MD5": "7f96948c37ef32946b5b49f81335395f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.argos_garcia:elitex:4.2@jar",
+          "name": "Elite X Quality Guns",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 52977435,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/Elite%20X%20Quality%20Guns%20Forge%20v4.2%20-%201.20.1.jar",
+            "MD5": "3972c31840214c512e34b73b5203a47d"
           },
           "required": {
             "value": false
@@ -931,13 +970,13 @@
           }
         },
         {
-          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.0+mc1.20.1@jar",
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.5+mc1.20.1@jar",
           "name": "Korean Patch",
           "type": "ForgeMod",
           "artifact": {
-            "size": 315488,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/koreanpatch-forge-1.9.0+mc1.20.1.jar",
-            "MD5": "dc6a73dcbec683185bd2e3c87ad8fb17"
+            "size": 316542,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/koreanpatch-forge-1.9.5+mc1.20.1.jar",
+            "MD5": "b7c99a33c48f6ae31de7f7f6038800c2"
           },
           "required": {
             "value": false
@@ -970,6 +1009,32 @@
           }
         },
         {
+          "id": "com.aizistral:nochatreports:1.20.1-v2.2.2@jar",
+          "name": "No Chat Reports",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 272740,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+            "MD5": "3153d1e860c6fefe6dac26efdb5c40c6"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "stev6.nomindlessshooting:nomindlessshooting:2.1.0-1.20.1@jar",
+          "name": "NoMindlessShooting",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19065,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/nomindlessshooting-2.1.0-1.20.1.jar",
+            "MD5": "05077d37019c1ec298d7e2539c7afb79"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.mcreator:parachutemod:1.0.0@jar",
           "name": "ParachuteMod",
           "type": "ForgeMod",
@@ -996,13 +1061,39 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:polytone:1.20-3.5.17@jar",
+          "id": "net.mehvahdjukaar:polytone:1.20-3.5.21@jar",
           "name": "Polytone",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1138178,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/polytone-1.20-3.5.17.jar",
-            "MD5": "495e685fe1a76bdbd0e83f3a1e477921"
+            "size": 1167305,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/polytone-1.20-3.5.21.jar",
+            "MD5": "976aab6d7b9ebdc53243551654dd2130"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "toni.sodiumdynamiclights:sodiumdynamiclights:1.0.9@jar",
+          "name": "Sodium Dynamic Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 511601,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+            "MD5": "687c18cefa558ca8101ef97914d9ba6b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.tacz.presence:tacz_presence:1.1@jar",
+          "name": "TACZ: Presence",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5209806,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/tacz_presence-1.1.jar",
+            "MD5": "4fe8e8bc839efc0583ba6c8b8d2023ec"
           },
           "required": {
             "value": false
@@ -1016,6 +1107,32 @@
             "size": 52425650,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/tacz-1.20.1-1.1.7-hotfix.jar",
             "MD5": "e91391b09e25ec5994c28593117f5908"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.hlhtstudios:taczcustomdeath:1.0.2c@jar",
+          "name": "TACZCustomDeath",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38636,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/taczcustomdeath-1.0.2c.jar",
+            "MD5": "be57eef952224954ca8adac47937f576"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.armatyrich:taczxgunlightsaddon:1.0.7@jar",
+          "name": "TaCZ x Guns Lights Addon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 39464,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/taczxgunlightsaddon-1.20.1-1.0.7.jar",
+            "MD5": "4c0ea0dc537a0346b38e99efa3cc5ead"
           },
           "required": {
             "value": false
