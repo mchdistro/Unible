@@ -1,6 +1,6 @@
 version:3465
 guiScale:2
-resourcePacks:["vanilla","tacz_resources","mod_resources","file/DarkAtmosphere2.0.zip","file/폰트.zip"]
+resourcePacks:["vanilla","tacz_resources","mod_resources"]
 lang:ko_kr
 narrator:0
 tutorialStep:none
@@ -58,4 +58,5 @@ key_key.lrtactical.normal_attack.desc:key.mouse.left
 key_key.lrtactical.sp_attack.desc:key.mouse.right
 key_key.curios.open.desc:key.keyboard.t
 key_key.plasmovoice.settings:key.keyboard.grave.accent
+soundCategory_master:0.5
 soundCategory_music:0.0
