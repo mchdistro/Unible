@@ -1178,11 +1178,33 @@
           }
         },
         {
+          "id": "sodiumdynamiclights-client.toml",
+          "name": "sodiumdynamiclights-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 654,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/config/sodiumdynamiclights-client.toml",
+            "MD5": "a8fcd1a216272d77755b09bdf532219a",
+            "path": "config/sodiumdynamiclights-client.toml"
+          }
+        },
+        {
+          "id": "tacz_presence-client.toml",
+          "name": "tacz_presence-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3068,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/config/tacz_presence-client.toml",
+            "MD5": "9c68401c4bc0c778d7fdc67291ae0839",
+            "path": "config/tacz_presence-client.toml"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2255,
+            "size": 2289,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/options.txt",
             "path": "options.txt"
           }

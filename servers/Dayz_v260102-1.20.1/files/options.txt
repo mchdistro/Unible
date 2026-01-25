@@ -1,5 +1,7 @@
 version:3465
 guiScale:2
+particles:2
+renderClouds:"fast"
 resourcePacks:["vanilla","tacz_resources","mod_resources"]
 lang:ko_kr
 narrator:0
