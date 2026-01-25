@@ -866,13 +866,13 @@
           }
         },
         {
-          "id": "com.argos_garcia:elitex:4.2@jar",
-          "name": "Elite X Quality Guns",
+          "id": "ua.lazydev418:echo_compass_hud:1.0.0@jar",
+          "name": "Echo Compass HUD",
           "type": "ForgeMod",
           "artifact": {
-            "size": 52977435,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/Elite%20X%20Quality%20Guns%20Forge%20v4.2%20-%201.20.1.jar",
-            "MD5": "3972c31840214c512e34b73b5203a47d"
+            "size": 14578,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/echo_compass_hud-1.0.0.jar",
+            "MD5": "7d4227805c232e36915a2d984f6e391a"
           },
           "required": {
             "value": false
@@ -1143,9 +1143,9 @@
           "name": "TakKit",
           "type": "ForgeMod",
           "artifact": {
-            "size": 544155,
+            "size": 544159,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/takkit-1.3.1-1.20.1.jar",
-            "MD5": "88448163b2464f47a03bd8196e3f872b"
+            "MD5": "04be0dcecc94731d7dbf87a922d1fcc6"
           },
           "required": {
             "value": false
