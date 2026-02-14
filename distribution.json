@@ -8,340 +8,11 @@
   },
   "servers": [
     {
-      "id": "Cobblemon-1.21.1",
-      "name": "코블몬",
-      "description": "Minecraft 1.21.1 (Fabric v0.16.10)",
-      "icon": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/server-icon.png",
+      "id": "Draconia_3-1.20.1",
+      "name": "Draconia 3",
+      "description": "Minecraft 1.20.1 (Forge v47.4.16)",
+      "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "mc.gotiger.dev:25550",
-      "minecraftVersion": "1.21.1",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": true,
-      "autoconnect": true,
-      "modules": [
-        {
-          "id": "net.fabricmc:fabric-loader:0.16.10",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
-          "artifact": {
-            "size": 1387408,
-            "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
-          },
-          "subModules": [
-            {
-              "id": "1.21.1-fabric-0.16.10",
-              "name": "Fabric (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 2859,
-                "MD5": "e175a3647cdaa7601660e7a636a5be55",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.21.1-fabric-0.16.10/1.21.1-fabric-0.16.10.json"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm:9.7.1",
-              "name": "Fabric (asm)",
-              "type": "Library",
-              "artifact": {
-                "size": 126093,
-                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-analysis:9.7.1",
-              "name": "Fabric (asm-analysis)",
-              "type": "Library",
-              "artifact": {
-                "size": 35126,
-                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-commons:9.7.1",
-              "name": "Fabric (asm-commons)",
-              "type": "Library",
-              "artifact": {
-                "size": 73459,
-                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-tree:9.7.1",
-              "name": "Fabric (asm-tree)",
-              "type": "Library",
-              "artifact": {
-                "size": 51939,
-                "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-util:9.7.1",
-              "name": "Fabric (asm-util)",
-              "type": "Library",
-              "artifact": {
-                "size": 94519,
-                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
-              "name": "Fabric (sponge-mixin)",
-              "type": "Library",
-              "artifact": {
-                "size": 1494834,
-                "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:intermediary:1.21.1",
-              "name": "Fabric (intermediary)",
-              "type": "Library",
-              "artifact": {
-                "size": 657725,
-                "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
-              }
-            }
-          ]
-        },
-        {
-          "id": "com.cobblemon.yajatkaul:mega_showdown:10.0.6-release-fabric@jar",
-          "name": "Cobblemon: Mega Showdown",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 15301449,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/Cobblemon_MegaShowdown-10.0.6-release-fabric.jar",
-            "MD5": "5d666447dbba3d29bc95ebf5d820a1ef"
-          }
-        },
-        {
-          "id": "com.cobblemon.mod:cobblemon:1.6.1+1.21.1@jar",
-          "name": "Cobblemon",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 120710175,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/Cobblemon-fabric-1.6.1+1.21.1.jar",
-            "MD5": "cefe6ab687c39e1a7fe9b2bf96b09188"
-          }
-        },
-        {
-          "id": "net.starliteheart:cobbleride:0.3.3+1.21.1@jar",
-          "name": "Cobblemon: Ride On!",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 388611,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/cobbleride-fabric-0.3.3+1.21.1.jar",
-            "MD5": "ab043def2c336f72ac9285019d4aa516"
-          }
-        },
-        {
-          "id": "me.pepperbell:continuity:3.0.0+1.21@jar",
-          "name": "Continuity",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1014044,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/continuity-3.0.0+1.21.jar",
-            "MD5": "daee3841730e2576a621943f289deadb"
-          }
-        },
-        {
-          "id": "generated.fabricmod:fabric-api:0.116.4+1.21.1@jar",
-          "name": "Fabric API",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2423497,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/fabric-api-0.116.4+1.21.1.jar",
-            "MD5": "aa1660d1af25eb18790182753f977615"
-          }
-        },
-        {
-          "id": "generated.fabricmod:mr_hiddenmons_cobblemon:1-v0.6@jar",
-          "name": "HiddenMons [Cobblemon]",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1163633,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/hiddenmons-cobblemon-v0.6.jar",
-            "MD5": "c51f22964a05496ccd91f5b516a057e6"
-          }
-        },
-        {
-          "id": "mezz.jei:jei:19.22.0.315@jar",
-          "name": "Just Enough Items",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1494045,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.22.0.315.jar",
-            "MD5": "7d09379bb6bce21c5fcd935bedc14103"
-          }
-        },
-        {
-          "id": "com.hyfata.najoan:koreanpatch:1.8.5+mc1.21@jar",
-          "name": "Korean Patch",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 567849,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/koreanpatch-fabric-1.8.5+mc1.21.jar",
-            "MD5": "c8b3245265bfcdfbd3d45328e870e7d8"
-          }
-        },
-        {
-          "id": "generated.fabricmod:mr_tdmon:1.3.1a-gastly@jar",
-          "name": "TDmon",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1158541,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/tdmon-1.3.1a-gastly.jar",
-            "MD5": "e24d893ebc5b918826503752d5743bc4"
-          }
-        },
-        {
-          "id": "dev.emi:trinkets:3.10.0@jar",
-          "name": "Trinkets",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 272944,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/trinkets-3.10.0.jar",
-            "MD5": "4a42e243d6d5c25dea83be3ddc0b28b1"
-          }
-        },
-        {
-          "id": "xaero.minimap:xaerominimap:25.2.10@jar",
-          "name": "Xaero's Minimap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1745107,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/fabricmods/required/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
-            "MD5": "73c845d833c030f1b38363b5d4252ff7"
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 541,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/files/options.txt",
-            "path": "options.txt"
-          }
-        },
-        {
-          "id": "Cobblemon 3D Poké Rods 1.0.zip",
-          "name": "Cobblemon 3D Poké Rods 1.0.zip",
-          "type": "File",
-          "artifact": {
-            "size": 167546,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/files/resourcepacks/Cobblemon%203D%20Pok%C3%A9%20Rods%201.0.zip",
-            "MD5": "3f9942822210093cd9bed79ce3ae8a0c",
-            "path": "resourcepacks/Cobblemon 3D Poké Rods 1.0.zip"
-          }
-        },
-        {
-          "id": "Cobblemon Interface v1.4.1.zip",
-          "name": "Cobblemon Interface v1.4.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 14079240,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/files/resourcepacks/Cobblemon%20Interface%20v1.4.1.zip",
-            "MD5": "00fcda11290dc67d1a8394e4993c3bbf",
-            "path": "resourcepacks/Cobblemon Interface v1.4.1.zip"
-          }
-        },
-        {
-          "id": "E19 Cobblemon Minimap Icons.zip",
-          "name": "E19 Cobblemon Minimap Icons.zip",
-          "type": "File",
-          "artifact": {
-            "size": 15941923,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/files/resourcepacks/E19%20Cobblemon%20Minimap%20Icons.zip",
-            "MD5": "8773266a08ab37788df0b926aae82042",
-            "path": "resourcepacks/E19 Cobblemon Minimap Icons.zip"
-          }
-        },
-        {
-          "id": "emissive-cobblemon-ores.zip",
-          "name": "emissive-cobblemon-ores.zip",
-          "type": "File",
-          "artifact": {
-            "size": 801252,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/files/resourcepacks/emissive-cobblemon-ores.zip",
-            "MD5": "edae385d1a30ae8ff3ef7ffd70aa928b",
-            "path": "resourcepacks/emissive-cobblemon-ores.zip"
-          }
-        },
-        {
-          "id": "Genomons 1.6 Beta_V3.zip",
-          "name": "Genomons 1.6 Beta_V3.zip",
-          "type": "File",
-          "artifact": {
-            "size": 2346624,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/files/resourcepacks/Genomons%201.6%20Beta_V3.zip",
-            "MD5": "1e67c48de2d6d346d919c08269be511e",
-            "path": "resourcepacks/Genomons 1.6 Beta_V3.zip"
-          }
-        },
-        {
-          "id": "LegendsMyths(Resourcepack).zip",
-          "name": "LegendsMyths(Resourcepack).zip",
-          "type": "File",
-          "artifact": {
-            "size": 875980,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/files/resourcepacks/LegendsMyths(Resourcepack).zip",
-            "MD5": "8676d328e472f674ce6bfe9e48faa69a",
-            "path": "resourcepacks/LegendsMyths(Resourcepack).zip"
-          }
-        },
-        {
-          "id": "OJsAnimationsv1.0.4.zip",
-          "name": "OJsAnimationsv1.0.4.zip",
-          "type": "File",
-          "artifact": {
-            "size": 143210,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/files/resourcepacks/OJsAnimationsv1.0.4.zip",
-            "MD5": "27d245aaf28c98dfc4d61a6db0dd4a0d",
-            "path": "resourcepacks/OJsAnimationsv1.0.4.zip"
-          }
-        },
-        {
-          "id": "pokemans_v15_toxicCloud.zip",
-          "name": "pokemans_v15_toxicCloud.zip",
-          "type": "File",
-          "artifact": {
-            "size": 3826705,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/files/resourcepacks/pokemans_v15_toxicCloud.zip",
-            "MD5": "89f13f9a3eac0e82776784e8d11c22bd",
-            "path": "resourcepacks/pokemans_v15_toxicCloud.zip"
-          }
-        },
-        {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
-          "artifact": {
-            "size": 100,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Cobblemon-1.21.1/files/servers.dat",
-            "MD5": "4f7188117a66c9495ee8d8e0226d67d3",
-            "path": "servers.dat"
-          }
-        }
-      ]
-    },
-    {
-      "id": "Dayz_v260102-1.20.1",
-      "name": "Dayz",
-      "description": "Minecraft 1.20.1 (Forge v47.4.9)",
-      "icon": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz-1.20.1/server-icon.png",
-      "version": "1.0.1",
       "address": "mc.gotiger.dev:20202",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -351,85 +22,100 @@
       },
       "mainServer": true,
       "autoconnect": true,
+      "javaOptions": {
+        "supported": "=>21",
+        "suggestedMajor": 21,
+        "platformOptions": [
+          {
+            "platform": "win32",
+            "architecture": "x64",
+            "distribution": "TEMURIN"
+          }
+        ],
+        "ram": {
+          "minimum": 4096,
+          "recommended": 8192
+        }
+      },
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.10",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.16",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7398,
-            "MD5": "39c68f8be018557068512f16cf3f97fa",
-            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar"
+            "size": 7393,
+            "MD5": "eef5a959280fbbbfcaa20e71a1f21f47",
+            "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.16/lowcodelanguage-1.20.1-47.4.16.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.4.10",
+              "id": "1.20.1-47.4.16",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16554,
-                "MD5": "eede38b0c090f69c7789cd35e753853d",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
+                "size": 16559,
+                "MD5": "0209821dfee7da8866d879bae8a48c45",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/versions/1.20.1-forge-47.4.16/1.20.1-forge-47.4.16.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.10",
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.16",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 118913,
-                "MD5": "340eb6124a32dab3bfaea8f1b2f3dd02",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar"
+                "size": 118907,
+                "MD5": "a3c587d8de59520103fffa5d389a37e0",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.16/fmlcore-1.20.1-47.4.16.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.10",
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.16",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16854,
-                "MD5": "1193446859d078e83d9fcc4d8a39f44d",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar"
+                "size": 16849,
+                "MD5": "8621fbf34f936765341b673b6cd766d4",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.16/javafmllanguage-1.20.1-47.4.16.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.10",
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.16",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4999,
-                "MD5": "13e469f44fc6fff975688c6b18f8e9a1",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar"
+                "size": 4993,
+                "MD5": "04824559b568359bc1f13e7747c92102",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.16/mclanguage-1.20.1-47.4.16.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.10:universal",
+              "id": "net.minecraftforge:forge:1.20.1-47.4.16:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2777708,
-                "MD5": "f202df135ad32fef7e7c42e957c142af",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar"
+                "size": 2507137,
+                "MD5": "4f50127e5e1c8a73a48efc1564cf0998",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.16/forge-1.20.1-47.4.16-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.10:client",
+              "id": "net.minecraftforge:forge:1.20.1-47.4.16:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 4848366,
-                "MD5": "5c4d8867f3152f9c397859436a06321c",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.jar"
+                "size": 4848917,
+                "MD5": "a653895344f94e59c864480cda1031d1",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.16/forge-1.20.1-47.4.16-client.jar"
               },
               "subModules": []
             },
@@ -550,13 +236,13 @@
               }
             },
             {
-              "id": "net.minecraftforge:eventbus:6.0.5",
+              "id": "net.minecraftforge:eventbus:6.2.33",
               "name": "Minecraft Forge (eventbus)",
               "type": "Library",
               "artifact": {
-                "size": 53985,
-                "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "size": 64014,
+                "MD5": "0b419ea48f46de30ee4e6241e4fdf9d4",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/eventbus/6.2.33/eventbus-6.2.33.jar"
               }
             },
             {
@@ -740,485 +426,26 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.10",
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.16",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 267079,
-                "MD5": "9446521da84ab53aa7a81af82d4e854a",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar"
+                "size": 269260,
+                "MD5": "5f1fcafc3cd40bbac360316491d8acc7",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.16/fmlloader-1.20.1-47.4.16.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.10",
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.16",
               "name": "Minecraft Forge (fmlearlydisplay)",
               "type": "Library",
               "artifact": {
-                "size": 170518,
-                "MD5": "828cdcc361baffcdd38d7b7d05c62e35",
-                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar"
+                "size": 170511,
+                "MD5": "b41388809b3ecd36f3f607116bf6d6ec",
+                "url": "https://github.com/mchdistro/Unible/raw/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.16/fmlearlydisplay-1.20.1-47.4.16.jar"
               }
             }
           ]
-        },
-        {
-          "id": "com.github.argon4w:acceleratedrendering:1.0.8-1.20.1-alpha@jar",
-          "name": "Accelerated Rendering",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 686792,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/acceleratedrendering-1.0.8-1.20.1-alpha.jar",
-            "MD5": "a6b03daabcd2b2420c1403e5291bb5b7"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.valuefinve:ad_astra_cannedfood:1.2.5@jar",
-          "name": "Ad-Astra: CannedFood",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 69097,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/ad_astra_cannedfood-forge-1.2.5.jar",
-            "MD5": "c0a7d954f70efb434e8d13eca840b96f"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "org.admany:apocalypticarsenal:1.0.1@jar",
-          "name": "Apocalyptic Arsenal",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3080423,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/apocalypticarsenal-1.0.1.jar",
-            "MD5": "1e3fb8c28a51ddd2ef3d4bf21bb1a86d"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
-          "name": "AppleSkin",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 47428,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/appleskin-forge-mc1.20.1-2.5.1.jar",
-            "MD5": "dae63cea9c951dda542a4005ceef3953"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "dev.architectury:architectury:9.2.14@jar",
-          "name": "Architectury",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 580602,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/architectury-9.2.14-forge.jar",
-            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.yourname:bleedingmod:1.2@jar",
-          "name": "Bleeding & First Aid",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 341325,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/bleedingmod-1.2.jar",
-            "MD5": "740390d29cb1cadc61626dcb39885bb2"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
-          "name": "Curios API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 398066,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/curios-forge-5.14.1+1.20.1.jar",
-            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.nanaios:curiosable_ammo_box:0.4.0@jar",
-          "name": "Curiosable_ammo_box",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 20393,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/curiosable_ammo_box-0.4.0.jar",
-            "MD5": "4c23f19b4912edcea364202ccd0d0e30"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.mcreator:dyairdrop:1.0.0@jar",
-          "name": "Dyairdrop",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1394709,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/dyairdrop-1.0.0-1.20.1-hotfix3.0.jar",
-            "MD5": "7f96948c37ef32946b5b49f81335395f"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "ua.lazydev418:echo_compass_hud:1.0.0@jar",
-          "name": "Echo Compass HUD",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 14578,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/echo_compass_hud-1.0.0.jar",
-            "MD5": "7d4227805c232e36915a2d984f6e391a"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
-          "name": "Embeddium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1320675,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar",
-            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "software.bernie.example:geckolib:4.8.2@jar",
-          "name": "GeckoLib 4",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1038979,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/geckolib-forge-1.20.1-4.8.2.jar",
-            "MD5": "d1ff73da16b6fc163d6c5ed3d9734dde"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "de.maxhenkel:gravestone:1.20.1-1.0.35@jar",
-          "name": "Gravestone Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 317181,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/gravestone-forge-1.20.1-1.0.35.jar",
-            "MD5": "c9a1a01c302368ed43270ceebb2c2251"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.gitter:gtnick:1.0.0@jar",
-          "name": "GTNick Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 95330,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/gtnick-forge-1.20.1-2.0.4.jar",
-            "MD5": "18a2d798e7e91b998f2b9188b3bf6293"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "immersive_aircraft:immersive_aircraft:1.4.0+1.20.1@jar",
-          "name": "Immersive Aircraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2428368,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/immersive_aircraft-1.4.0+1.20.1-forge.jar",
-            "MD5": "f49ff767f611a95f9bd29a0e9977d9d5"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "mezz.jei:jei:15.20.0.118@jar",
-          "name": "Just Enough Items",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1408216,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.20.0.118.jar",
-            "MD5": "dd11c9a22aec410047adc5d08fe5e7dd"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "journeymap:journeymap:5.10.3@jar",
-          "name": "Journeymap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7160406,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/journeymap-1.20.1-5.10.3-forge.jar",
-            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.5+mc1.20.1@jar",
-          "name": "Korean Patch",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 316542,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/koreanpatch-forge-1.9.5+mc1.20.1.jar",
-            "MD5": "b7c99a33c48f6ae31de7f7f6038800c2"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "me.xjqsh:lrtactical:0.3.0@jar",
-          "name": "LesRaisins Tactical Equipments",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5185963,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/lrtactical-1.20.1-0.3.0.jar",
-            "MD5": "58d8b9fecff957f8c8bd2887593187a0"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.mcreator:mres:0.4@jar",
-          "name": "MREs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 794780,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/mres-0.4-forge-1.20.1.jar",
-            "MD5": "9a462f3319ac401b6c9078e598993679"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.aizistral:nochatreports:1.20.1-v2.2.2@jar",
-          "name": "No Chat Reports",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 272740,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
-            "MD5": "3153d1e860c6fefe6dac26efdb5c40c6"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "stev6.nomindlessshooting:nomindlessshooting:2.1.0-1.20.1@jar",
-          "name": "NoMindlessShooting",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 19065,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/nomindlessshooting-2.1.0-1.20.1.jar",
-            "MD5": "05077d37019c1ec298d7e2539c7afb79"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.mcreator:parachutemod:1.0.0@jar",
-          "name": "ParachuteMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 69924,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/Parachute-Forge.jar",
-            "MD5": "12123adb2048c0bc9e97e34c5e6173d2"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "su.plo.voice:plasmovoice:2.1.8@jar",
-          "name": "Plasmo Voice",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12182458,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/plasmovoice-forge-1.20.1-2.1.8.jar",
-            "MD5": "234d1a76ae25f5efc220ac879981c7e0"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.mehvahdjukaar:polytone:1.20-3.5.21@jar",
-          "name": "Polytone",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1167305,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/polytone-1.20-3.5.21.jar",
-            "MD5": "976aab6d7b9ebdc53243551654dd2130"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "toni.sodiumdynamiclights:sodiumdynamiclights:1.0.9@jar",
-          "name": "Sodium Dynamic Lights",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 511601,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
-            "MD5": "687c18cefa558ca8101ef97914d9ba6b"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.tacz.presence:tacz_presence:1.1@jar",
-          "name": "TACZ: Presence",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5209806,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/tacz_presence-1.1.jar",
-            "MD5": "4fe8e8bc839efc0583ba6c8b8d2023ec"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.tacz.guns:tacz:1.1.7-hotfix@jar",
-          "name": "Timeless & Classics Guns: Zero",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 52425650,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/tacz-1.20.1-1.1.7-hotfix.jar",
-            "MD5": "e91391b09e25ec5994c28593117f5908"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.hlhtstudios:taczcustomdeath:1.0.2c@jar",
-          "name": "TACZCustomDeath",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 38636,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/taczcustomdeath-1.0.2c.jar",
-            "MD5": "be57eef952224954ca8adac47937f576"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.armatyrich:taczxgunlightsaddon:1.0.7@jar",
-          "name": "TaCZ x Guns Lights Addon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 39464,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/taczxgunlightsaddon-1.20.1-1.0.7.jar",
-            "MD5": "4c0ea0dc537a0346b38e99efa3cc5ead"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.mcreator:takkit:1.3.1@jar",
-          "name": "TakKit",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 544159,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/takkit-1.3.1-1.20.1.jar",
-            "MD5": "04be0dcecc94731d7dbf87a922d1fcc6"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.mcreator:zmodfood:1.0.0@jar",
-          "name": "Zmodfood",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 548884,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/forgemods/optionalon/zmodfood%200.6.5.jar",
-            "MD5": "81204e98f567cd2b7ce9cb51a514a45d"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "sodiumdynamiclights-client.toml",
-          "name": "sodiumdynamiclights-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 654,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/config/sodiumdynamiclights-client.toml",
-            "MD5": "a8fcd1a216272d77755b09bdf532219a",
-            "path": "config/sodiumdynamiclights-client.toml"
-          }
-        },
-        {
-          "id": "tacz_presence-client.toml",
-          "name": "tacz_presence-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 3068,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/config/tacz_presence-client.toml",
-            "MD5": "9c68401c4bc0c778d7fdc67291ae0839",
-            "path": "config/tacz_presence-client.toml"
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 2289,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/options.txt",
-            "path": "options.txt"
-          }
-        },
-        {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
-          "artifact": {
-            "size": 100,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Dayz_v260102-1.20.1/files/servers.dat",
-            "MD5": "075bed639b51cfb3348b108982b9ffa9",
-            "path": "servers.dat"
-          }
         }
       ]
     }
