@@ -474,19 +474,6 @@
           }
         },
         {
-          "id": "net.unusual.blockfactorysbosses:block_factorys_bosses:1.0.9.2.@jar",
-          "name": "Bosses'Rises",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 21696354,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/bossesrise-1.20.1-forge-1.0.9.2b.jar",
-            "MD5": "e4633b2ee6376af022037ba96c2d4349"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.github.alexthe666:citadel:2.6.3@jar",
           "name": "Citadel",
           "type": "ForgeMod",
@@ -807,6 +794,17 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "bossesrise-1.20.1-forge-1.0.9.2b.jar",
+          "name": "bossesrise-1.20.1-forge-1.0.9.2b.jar",
+          "type": "File",
+          "artifact": {
+            "size": 21696354,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/files/mods/bossesrise-1.20.1-forge-1.0.9.2b.jar",
+            "MD5": "e4633b2ee6376af022037ba96c2d4349",
+            "path": "mods/bossesrise-1.20.1-forge-1.0.9.2b.jar"
           }
         },
         {
