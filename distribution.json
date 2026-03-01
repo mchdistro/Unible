@@ -446,6 +446,368 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.forgemod:atistructures:1.4.0@jar",
+          "name": "Structory",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3195854,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/ATi%20Structures%20V1.4.3%20(1.20+).jar",
+            "MD5": "155e1184bc52323687e21b50ad2ff5e7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.jtorleonstudios:awesomedungeonocean:3.3.0@jar",
+          "name": "Awesome dungeon edition ocean",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 297321,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/awesomedungeonocean-forge-1.20.1-3.3.0.jar",
+            "MD5": "8cf9bfaa469269a866806a7e7d9bdf48"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.unusual.blockfactorysbosses:block_factorys_bosses:1.0.9.2.@jar",
+          "name": "Bosses'Rises",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21696354,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/bossesrise-1.20.1-forge-1.0.9.2b.jar",
+            "MD5": "e4633b2ee6376af022037ba96c2d4349"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:2.6.3@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3185275,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/citadel-2.6.3-1.20.1.jar",
+            "MD5": "da80c09b998d829b6d580e5be76dcc7b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.min01:crypticfoes:1.0.4@jar",
+          "name": "Cryptic Foes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1465937,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/crypticfoes-1.0.4.jar",
+            "MD5": "ae39968d4d9f21f212af57f5b5ec95ca"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398066,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/curios-forge-5.14.1+1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.mcreator:dragonforged:1.0.6@jar",
+          "name": "Dragonforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16711106,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/dragonforged-1.0.6-forge-1.20.1.jar",
+            "MD5": "972d35a5192f8339a475b0d9d188fa01"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "yesman.epicfight.main:epicfight:20.14.9@jar",
+          "name": "Epic Fight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8052226,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/epic-fight-20.14.9-mc1.20.1-forge.jar",
+            "MD5": "b04f869223ce917d4eb2015b34197bbe"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 123034,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/ferritecore-6.0.1-forge.jar",
+            "MD5": "f52f538207a4829d7060550092ce2383"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.8.3@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1039047,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/geckolib-forge-1.20.1-4.8.3.jar",
+            "MD5": "60b7bce466abc60377785bf3dc84974c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.gitter:gtnick:1.0.0@jar",
+          "name": "GTNick Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 95330,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/gtnick-forge-1.20.1-2.0.4.jar",
+            "MD5": "18a2d798e7e91b998f2b9188b3bf6293"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.github.alexthe666:iceandfire:2.1.13-1.20.1@jar",
+          "name": "Ice and Fire",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21854126,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/iceandfire-2.1.13-1.20.1-beta-5.jar",
+            "MD5": "cadbfab46fa1b02f9a9b09fa5cf86803"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.raphimc:immediatelyfast:1.5.4+1.20.4@jar",
+          "name": "ImmediatelyFast",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 538992,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+            "MD5": "8fb21bb328cc322c6d9749eff087509f"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.20.0.129@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1409642,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.20.0.129.jar",
+            "MD5": "a5192227a15e0fe0e367828b32c1f472"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.10.3@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7160406,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/journeymap-1.20.1-5.10.3-forge.jar",
+            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.5+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 316542,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/required/koreanpatch-forge-1.9.5+mc1.20.1.jar",
+            "MD5": "b7c99a33c48f6ae31de7f7f6038800c2"
+          }
+        },
+        {
+          "id": "com.jtorleonstudios:libraryferret:4.0.0@jar",
+          "name": "Library ferret",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 190536,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/libraryferret-forge-1.20.1-4.0.0.jar",
+            "MD5": "68ba05aaf09f053934537af691e959df"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.26.2+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 826829,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/modernfix-forge-5.26.2+mc1.20.1.jar",
+            "MD5": "61332114c9c317080faaf35f8183d67b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.ovinter:mythsandlegends:0.0.8.6@jar",
+          "name": "Myths & Legends",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4583445,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/mythsandlegends-0.0.8.6.jar",
+            "MD5": "4edae7c8249aa6e678991aab97926b2d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.mrbysco.neoauth:neo_auth:1.0.3@jar",
+          "name": "NeoAuth",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 50688,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/required/NeoAuth-1.20.1-1.0.3.jar",
+            "MD5": "5c6935e1b2c9377d94479404324816c3"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.8@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12182458,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/plasmovoice-forge-1.20.1-2.1.8.jar",
+            "MD5": "234d1a76ae25f5efc220ac879981c7e0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.vayns.skywhaleship:sky_whale_ship:1.0.3@jar",
+          "name": "Sky Whale Ship",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 724779,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/sky_whale_ship-1.20.1.jar",
+            "MD5": "4e7438c1358abc424337f66d9407332c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "terrablender.core:terrablender:3.0.1.10@jar",
+          "name": "TerraBlender",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 107533,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+            "MD5": "1f88ad1b2e0d196f0caf7c03a4abf893"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.bitzero:unnamed_monster:1.1.2@jar",
+          "name": "Unnamed Monster",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6209922,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/unnamed_monster-1.1.2-forge-1.20.1.jar",
+            "MD5": "db86f1854d3719c9d7bea90f5987ec67"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:unusual_spawning:1.20.1@jar",
+          "name": "Unusual_spawning 1.2.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 104037,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/unusual_spawning-1.20.1-1.2.1.jar",
+            "MD5": "a00e35da9aad2319b107bcfb50115159"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.barlinc:unusual_prehistory:1.20.1-1.2.3@jar",
+          "name": "Unusual Prehistory 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12847528,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/Unusual-Prehistory-2-1.20.1-1.2.3.jar",
+            "MD5": "02c68ce952b51e79f745a0d0b1ef5d94"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Forge-4.0.6@jar",
+          "name": "YUNG's API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 370524,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/YungsApi-1.20-Forge-4.0.6.jar",
+            "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c"
+          },
+          "required": {
+            "value": false
+          }
         }
       ]
     }
