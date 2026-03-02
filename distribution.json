@@ -745,19 +745,6 @@
           }
         },
         {
-          "id": "net.bitzero:unnamed_monster:1.1.2@jar",
-          "name": "Unnamed Monster",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6209922,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/unnamed_monster-1.1.2-forge-1.20.1.jar",
-            "MD5": "db86f1854d3719c9d7bea90f5987ec67"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "generated.forgemod:unusual_spawning:1.20.1@jar",
           "name": "Unusual_spawning 1.2.1",
           "type": "ForgeMod",
