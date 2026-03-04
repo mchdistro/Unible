@@ -474,6 +474,16 @@
           }
         },
         {
+          "id": "dzwdz.chat_heads:chat_heads:0.15.0@jar",
+          "name": "Chat Heads",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 722765,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/required/chat_heads-0.15.0-forge-1.20.jar",
+            "MD5": "74d7adf4a7ea4d2f6544d61690836b0f"
+          }
+        },
+        {
           "id": "com.github.alexthe666:citadel:2.6.3@jar",
           "name": "Citadel",
           "type": "ForgeMod",
@@ -517,9 +527,9 @@
           "name": "Dragonforged",
           "type": "ForgeMod",
           "artifact": {
-            "size": 16711106,
+            "size": 16639573,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/forgemods/optionalon/dragonforged-1.0.6-forge-1.20.1.jar",
-            "MD5": "972d35a5192f8339a475b0d9d188fa01"
+            "MD5": "e9b0be74a125bb22dd4ec6dad6626502"
           },
           "required": {
             "value": false
