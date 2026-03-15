@@ -794,6 +794,16 @@
           }
         },
         {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 298,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/files/config/oculus.properties",
+            "path": "config/oculus.properties"
+          }
+        },
+        {
           "id": "bossesrise-1.20.1-forge-1.0.9.2b.jar",
           "name": "bossesrise-1.20.1-forge-1.0.9.2b.jar",
           "type": "File",
@@ -816,25 +826,14 @@
           }
         },
         {
-          "id": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
-          "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "id": "ComplementaryUnbound_r5.7.1_Draconia_fix.zip",
+          "name": "ComplementaryUnbound_r5.7.1_Draconia_fix.zip",
           "type": "File",
           "artifact": {
-            "size": 1791406,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
-            "MD5": "73eac5d017a268ea8175c2025c2863ad",
-            "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
-          }
-        },
-        {
-          "id": "ComplementaryUnbound_r5.7.1.zip",
-          "name": "ComplementaryUnbound_r5.7.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 522973,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.7.1.zip",
-            "MD5": "b535d194c7115b360860e226c65ae3f2",
-            "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip"
+            "size": 540391,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.7.1_Draconia_fix.zip",
+            "MD5": "8e334ef582fd161c9b6b22228de3650c",
+            "path": "shaderpacks/ComplementaryUnbound_r5.7.1_Draconia_fix.zip"
           }
         }
       ]
