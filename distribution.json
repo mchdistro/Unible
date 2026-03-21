@@ -12,7 +12,7 @@
       "name": "Draconia 3",
       "description": "Minecraft 1.20.1 (Forge v47.4.16)",
       "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
-      "version": "1.0.0",
+      "version": "0.0.1",
       "address": "mc.gotiger.dev:20202",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -530,19 +530,6 @@
             "size": 16639543,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322-1.20.1/forgemods/optionalon/dragonforged-1.0.6-forge-1.20.1.jar",
             "MD5": "547bc5abe565449c0e8b654f72eca0f3"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.mcreator:dragonforged:1.0.6@jar",
-          "name": "Dragonforged",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 16639573,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322-1.20.1/forgemods/optionalon/dragonforged-1.0.6-forge-1.20.1.jar.bak",
-            "MD5": "e9b0be74a125bb22dd4ec6dad6626502"
           },
           "required": {
             "value": false
