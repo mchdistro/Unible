@@ -12,7 +12,7 @@
       "name": "Draconia 3",
       "description": "Minecraft 1.20.1 (Forge v47.4.16)",
       "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "address": "mc.gotiger.dev:20202",
       "minecraftVersion": "1.20.1",
       "discord": {
