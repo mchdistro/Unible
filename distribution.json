@@ -527,9 +527,9 @@
           "name": "Dragonforged",
           "type": "ForgeMod",
           "artifact": {
-            "size": 16639543,
+            "size": 16639491,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322-1.20.1/forgemods/optionalon/dragonforged-1.0.6-forge-1.20.1.jar",
-            "MD5": "547bc5abe565449c0e8b654f72eca0f3"
+            "MD5": "8f64e6f7044f502de51b5034123aba4f"
           },
           "required": {
             "value": false
