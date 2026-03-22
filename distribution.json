@@ -12,7 +12,7 @@
       "name": "Draconia 3",
       "description": "Minecraft 1.20.1 (Forge v47.4.16)",
       "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
-      "version": "0.0.4",
+      "version": "0.0.5",
       "address": "mc.gotiger.dev:20202",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -775,6 +775,32 @@
             "size": 12847528,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322_2-1.20.1/forgemods/optionalon/Unusual-Prehistory-2-1.20.1-1.2.3.jar",
             "MD5": "02c68ce952b51e79f745a0d0b1ef5d94"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.github.ngoedix.watchvideo:videoplayer:3.0.5@jar",
+          "name": "VideoPlayer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 213457,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322_2-1.20.1/forgemods/optionalon/VideoPlayer-3.0.5-FORGE-1.20.X.jar",
+            "MD5": "19725092b398a350a1aaa76a13a5e736"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.srrapero720.watermedia.loaders:watermedia:2.0.75@jar",
+          "name": "WaterMedia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27600243,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322_2-1.20.1/forgemods/optionalon/watermedia-2.0.75.jar",
+            "MD5": "05ed7ef455800168b37d15da335a0553"
           },
           "required": {
             "value": false

@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/Unible/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "0.0.4",
+    "version": "0.0.5",
     "name": "Draconia 3",
     "description": "Minecraft 1.20.1 (Forge v47.4.16)",
     "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
