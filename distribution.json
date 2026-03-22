@@ -12,7 +12,7 @@
       "name": "Draconia 3",
       "description": "Minecraft 1.20.1 (Forge v47.4.16)",
       "icon": "https://github.com/mchdistro/Unible/raw/main/server-icon.png",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "address": "mc.gotiger.dev:20202",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -836,6 +836,28 @@
           }
         },
         {
+          "id": "hex.zip",
+          "name": "hex.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2292180,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322_2-1.20.1/files/resourcepacks/Draconia/assets/minecraft/font/hex.zip",
+            "MD5": "46ac7024ad1d72632b28b0904a2f846a",
+            "path": "resourcepacks/Draconia/assets/minecraft/font/hex.zip"
+          }
+        },
+        {
+          "id": "unifont.json",
+          "name": "unifont.json",
+          "type": "File",
+          "artifact": {
+            "size": 89,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322_2-1.20.1/files/resourcepacks/Draconia/assets/minecraft/font/include/unifont.json",
+            "MD5": "eb7db06ad83e1daf2d60f52a7cd67eba",
+            "path": "resourcepacks/Draconia/assets/minecraft/font/include/unifont.json"
+          }
+        },
+        {
           "id": "coin.json",
           "name": "coin.json",
           "type": "File",
@@ -888,6 +910,17 @@
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322_2-1.20.1/files/resourcepacks/Draconia/assets/minecraft/textures/item/ticket.png",
             "MD5": "98b7ccf76b5352261f6b039da416ea34",
             "path": "resourcepacks/Draconia/assets/minecraft/textures/item/ticket.png"
+          }
+        },
+        {
+          "id": "LICENSE.txt",
+          "name": "LICENSE.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4556,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322_2-1.20.1/files/resourcepacks/Draconia/LICENSE.txt",
+            "MD5": "73ce323f9460ee8217ecfc67978e2066",
+            "path": "resourcepacks/Draconia/LICENSE.txt"
           }
         },
         {
