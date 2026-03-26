@@ -474,6 +474,19 @@
           }
         },
         {
+          "id": "net.unusual.blockfactorysbosses:block_factorys_bosses:1.0.9.2.@jar",
+          "name": "Bosses'Rises",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21696354,
+            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322_2-1.20.1/forgemods/optionalon/bossesrise-1.20.1-forge-1.0.9.2b.jar",
+            "MD5": "e4633b2ee6376af022037ba96c2d4349"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "dzwdz.chat_heads:chat_heads:0.15.0@jar",
           "name": "Chat Heads",
           "type": "ForgeMod",
@@ -876,9 +889,9 @@
           "name": "epicfight-client.toml",
           "type": "File",
           "artifact": {
-            "size": 82982,
+            "size": 82985,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322_2-1.20.1/files/config/epicfight-client.toml",
-            "MD5": "a617b43e1d9db55e90ebefc3e9f4ab1d",
+            "MD5": "ddd89edb980e0ef58925849b1c57e731",
             "path": "config/epicfight-client.toml"
           }
         },
@@ -893,22 +906,11 @@
           }
         },
         {
-          "id": "bossesrise-1.20.1-forge-1.0.9.2b.jar",
-          "name": "bossesrise-1.20.1-forge-1.0.9.2b.jar",
-          "type": "File",
-          "artifact": {
-            "size": 21696354,
-            "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322_2-1.20.1/files/mods/bossesrise-1.20.1-forge-1.0.9.2b.jar",
-            "MD5": "e4633b2ee6376af022037ba96c2d4349",
-            "path": "mods/bossesrise-1.20.1-forge-1.0.9.2b.jar"
-          }
-        },
-        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5286,
+            "size": 5520,
             "url": "https://github.com/mchdistro/Unible/raw/main/servers/Draconia_3-260322_2-1.20.1/files/options.txt",
             "path": "options.txt"
           }
